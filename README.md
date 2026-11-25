@@ -39,6 +39,10 @@ python -m http.server 8000     # 或 npx serve
 仓库根目录即为站点根目录，推送到 `main` 后工作流会自动发布，
 地址为 `https://<用户名>.github.io/<仓库名>/`。
 
+首次需要一次性开启：仓库 **Settings → Pages → Source** 选 **GitHub Actions**。
+未开启时工作流会在 `configure-pages` 步骤报
+`Get Pages site failed … repository has Pages enabled`，开启后重跑即可。
+
 ## 使用方式
 
 - **书志**：封面、书志信息、21 章卡片、体例说明。
