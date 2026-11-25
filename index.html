@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>阿梅雷伊达：一片海的发明 · Amereida, The Invention of a Sea</title>
+<meta name="description" content="《阿梅雷伊达：一片海的发明》三语对照阅读站点 —— 121 个跨页扫描、西语／英语原文与中文译文。">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+
+<header class="topbar">
+  <button class="brand" id="brandBtn" type="button">
+    <span class="brand-zh">阿梅雷伊达</span>
+    <span class="brand-la">Amereida · la invención de un mar</span>
+  </button>
+
+  <nav class="tabs" id="tabs">
+    <button type="button" data-view="shelf">书志</button>
+    <button type="button" data-view="reader">阅读</button>
+    <button type="button" data-view="index">图片索引</button>
+    <button type="button" data-view="glossary">地名词表</button>
+  </nav>
+
+  <form class="search" id="searchForm" role="search">
+    <input id="searchInput" type="search" placeholder="搜索原文 / 译文…" autocomplete="off" aria-label="搜索全书文本">
+    <button type="submit">搜索</button>
+  </form>
+</header>
+
+<main id="main">
+
+  <!-- ============ SHELF ============ -->
+  <section class="view" id="view-shelf">
+    <div class="hero">
+      <figure class="hero-cover">
+        <img src="assets/img/thumb/p01.jpg" alt="《阿梅雷伊达》封面" data-img="1">
+      </figure>
+      <div class="hero-text">
+        <p class="kicker">Travesía poética 1965 · Tierra del Fuego — Santa Cruz de la Sierra</p>
+        <h1 id="heroTitleZh"></h1>
+        <p class="hero-la" id="heroTitleEs"></p>
+        <p class="hero-la" id="heroTitleEn"></p>
+        <dl class="colophon" id="heroColophon"></dl>
+        <div class="hero-actions">
+          <button class="btn primary" id="startReading" type="button">开始阅读</button>
+          <a class="btn" href="#/index">图片索引</a>
+          <a class="btn" href="#/glossary">地名词表</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="statline" id="statline"></div>
+
+    <h2 class="sec-title">章节 <span>Capítulos / Chapters</span></h2>
+    <div class="chapter-grid" id="chapterGrid"></div>
+
+    <h2 class="sec-title">体例说明 <span>How to read</span></h2>
+    <div class="notes">
+      <p>每个跨页（<i>spread</i>）对应原书的一张扫描图版，编号 <code>p01–p121</code>，与原书页码的换算为 <code>扫描号 =（左页码 + 2）÷ 2</code>。</p>
+      <p>在右侧文本区点击任意一段西语／英语原文，会弹出该段对应的中文译文浮层；浮层内可用 <kbd>←</kbd> <kbd>→</kbd> 在本跨页的段落间移动，<kbd>Esc</kbd> 关闭。</p>
+      <p>少数段落（图注、诗行断句、书信抬头等）在原文稿中没有逐段对应的译文，点击后浮层会给出整跨页的中西对照，便于按语境自行定位。</p>
+      <p class="fine">底本：<i>Amereida, la invención de un mar</i>（Polígrafa, Barcelona, 2018）。西语原文、英语译文与中文译文取自同一份 Word 文稿；图片为原书扫描件的网页压缩版。</p>
+    </div>
+  </section>
+
+  <!-- ============ READER ============ -->
+  <section class="view" id="view-reader">
+
+    <div class="reader-head">
+      <button class="nav-btn" id="prevSpread" type="button" title="上一跨页 (←)">‹</button>
+      <div class="reader-title">
+        <div class="rt-chapter" id="rtChapter"></div>
+        <div class="rt-pages" id="rtPages"></div>
+      </div>
+      <button class="nav-btn" id="nextSpread" type="button" title="下一跨页 (→)">›</button>
+      <div class="lang-toggle" role="group" aria-label="显示语言">
+        <button type="button" data-lang="both" class="on">西／英</button>
+        <button type="button" data-lang="es">Español</button>
+        <button type="button" data-lang="en">English</button>
+        <button type="button" data-lang="zh" class="sep">中文</button>
+      </div>
+    </div>
+
+    <div class="reader-grid">
+      <figure class="plate">
+        <div class="plate-img">
+          <a href="#" class="half prev" id="halfPrev" title="上一跨页"><span>‹</span></a>
+          <img id="plateImage" alt="跨页扫描图" decoding="async">
+          <a href="#" class="half next" id="halfNext" title="下一跨页"><span>›</span></a>
+          <button class="zoom-hint" id="zoomBtn" type="button">放大查看</button>
+        </div>
+        <figcaption class="plate-cap">
+          <span id="capText"></span>
+          <button class="jump-text" id="jumpText" type="button">查看本页文本 ↓</button>
+          <a id="capHiRes" href="#" target="_blank" rel="noopener">原图</a>
+        </figcaption>
+      </figure>
+
+      <div class="text-pane">
+        <div class="pane-bar">
+          <span class="sec-name" id="secName"></span>
+          <button class="mini" id="allPairsBtn" type="button">整跨页对照</button>
+        </div>
+        <div class="paras" id="paras"></div>
+      </div>
+    </div>
+
+    <div class="strip-wrap">
+      <div class="strip-head">
+        <span id="stripTitle"></span>
+        <select id="chapterSelect"></select>
+      </div>
+      <div class="strip" id="strip"></div>
+    </div>
+  </section>
+
+  <!-- ============ PHOTO INDEX ============ -->
+  <section class="view" id="view-index">
+    <h2 class="sec-title">图片索引 <span>Índice fotográfico</span></h2>
+    <div class="filterbar">
+      <input id="idxFilter" type="search" placeholder="筛选：编号、事件或地点…">
+      <span class="count" id="idxCount"></span>
+    </div>
+    <div class="table-wrap">
+      <table class="tbl" id="idxTable">
+        <thead><tr><th>编号</th><th>事件 / 说明</th><th>日期</th><th>地点</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ GLOSSARY ============ -->
+  <section class="view" id="view-glossary">
+    <h2 class="sec-title">地名词表 <span>Topónimos</span></h2>
+    <div class="filterbar">
+      <input id="gloFilter" type="search" placeholder="筛选：西语原名或中文译名…">
+      <span class="count" id="gloCount"></span>
+    </div>
+    <div class="gloss-grid" id="glossGrid"></div>
+  </section>
+
+  <!-- ============ SEARCH RESULTS ============ -->
+  <section class="view" id="view-search">
+    <h2 class="sec-title">检索结果 <span>Resultados</span></h2>
+    <p class="search-sum" id="searchSum"></p>
+    <div class="results" id="results"></div>
+  </section>
+
+</main>
+
+<!-- ============ TRANSLATION OVERLAY ============ -->
+<div class="scrim" id="scrim" hidden></div>
+<div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-labelledby="ovZh" hidden>
+  <div class="ov-head">
+    <span class="ov-page" id="ovPage"></span>
+    <span class="ov-sec" id="ovSec"></span>
+    <button class="ov-close" id="ovClose" type="button" aria-label="关闭">×</button>
+  </div>
+  <div class="ov-body">
+    <div class="ov-zh">
+      <p class="tag zh">中文译文</p>
+      <div class="zt" id="ovZh"></div>
+    </div>
+    <div class="ov-rule"></div>
+    <div class="ov-orig">
+      <p class="tag">Español</p><div class="ot" id="ovEs"></div>
+      <p class="tag">English</p><div class="ot" id="ovEn"></div>
+    </div>
+    <div class="ov-context" id="ovContext" hidden></div>
+  </div>
+  <div class="ov-foot">
+    <button class="nav-btn" id="ovPrev" type="button" title="上一段">‹ 上一段</button>
+    <span class="ov-idx" id="ovIdx"></span>
+    <button class="nav-btn" id="ovNext" type="button" title="下一段">下一段 ›</button>
+    <button class="mini" id="ovCtxBtn" type="button">展开全跨页对照</button>
+  </div>
+</div>
+
+<!-- ============ LIGHTBOX ============ -->
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-close" id="lbClose" type="button" aria-label="关闭">×</button>
+  <button class="lb-nav prev" id="lbPrev" type="button" aria-label="上一跨页">‹</button>
+  <img id="lbImage" alt="跨页扫描图（放大）">
+  <button class="lb-nav next" id="lbNext" type="button" aria-label="下一跨页">›</button>
+  <div class="lb-cap" id="lbCap"></div>
+</div>
+
+<footer class="foot">
+  <span id="footLeft"></span>
+  <span>本地静态站点 · 无外部依赖</span>
+</footer>
+
+<script src="assets/data/book.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

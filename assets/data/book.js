@@ -1,0 +1,6263 @@
+window.BOOK = {
+   "chapters" : [
+      {
+         "authorEs" : "Javier Correa",
+         "authorZh" : "哈维尔·科雷亚",
+         "en" : "The Amereida",
+         "endImg" : 9,
+         "endPage" : 17,
+         "es" : "La Amereida",
+         "id" : "ch008",
+         "img" : 5,
+         "page" : 8,
+         "zh" : "《阿梅雷伊达》"
+      },
+      {
+         "authorEs" : "Victoria Jolly",
+         "authorZh" : "维多利亚·霍利",
+         "en" : "The Invention of a Sea",
+         "endImg" : 14,
+         "endPage" : 27,
+         "es" : "La Invención de un mar",
+         "id" : "ch018",
+         "img" : 10,
+         "page" : 18,
+         "zh" : "《海的发明》"
+      },
+      {
+         "authorEs" : "Javier Correa & Victoria Jolly",
+         "authorZh" : "哈维尔·科雷亚 & 维多利亚·霍利",
+         "en" : "Editorial Note",
+         "endImg" : 17,
+         "endPage" : 33,
+         "es" : "Nota editorial",
+         "id" : "ch028",
+         "img" : 15,
+         "page" : 28,
+         "zh" : "编者说明"
+      },
+      {
+         "authorEs" : "Godofredo Iommi – Edison Simons",
+         "authorZh" : "戈多弗雷多·约米 致 爱迪生·西蒙斯",
+         "en" : "Letters",
+         "endImg" : 20,
+         "endPage" : 39,
+         "es" : "Correspondencia",
+         "id" : "ch034",
+         "img" : 18,
+         "page" : 34,
+         "zh" : "通信"
+      },
+      {
+         "authorEs" : "Godofredo Iommi",
+         "authorZh" : "戈多弗雷多·约米",
+         "en" : "Amereida’s Poetical Calculus, 1965",
+         "endImg" : 24,
+         "endPage" : 47,
+         "es" : "Cálculo poético de Amereida, 1965",
+         "id" : "ch040",
+         "img" : 21,
+         "page" : 40,
+         "zh" : "《阿梅雷伊达》的诗性计算（1965）"
+      },
+      {
+         "authorEs" : "",
+         "authorZh" : "",
+         "en" : "Faces",
+         "endImg" : 28,
+         "endPage" : 57,
+         "es" : "Rostros",
+         "id" : "ch048",
+         "img" : 25,
+         "page" : 48,
+         "zh" : "面孔"
+      },
+      {
+         "authorEs" : "François Fédier",
+         "authorZh" : "弗朗索瓦·费迪耶",
+         "en" : "Amereida",
+         "endImg" : 34,
+         "endPage" : 69,
+         "es" : "Amereida",
+         "id" : "ch058",
+         "img" : 29,
+         "page" : 58,
+         "zh" : "《阿梅雷伊达》"
+      },
+      {
+         "authorEs" : "Michel Deguy",
+         "authorZh" : "米歇尔·德吉",
+         "en" : "The Wanderer Poet",
+         "endImg" : 36,
+         "endPage" : 71,
+         "es" : "El poeta vague",
+         "id" : "ch070",
+         "img" : 35,
+         "page" : 70,
+         "zh" : "漫游诗人"
+      },
+      {
+         "authorEs" : "Michel Deguy",
+         "authorZh" : "米歇尔·德吉",
+         "en" : "Vision of Amereida",
+         "endImg" : 39,
+         "endPage" : 77,
+         "es" : "Reverie de Amereida",
+         "id" : "ch072",
+         "img" : 37,
+         "page" : 72,
+         "zh" : "《阿梅雷伊达》的遐想"
+      },
+      {
+         "authorEs" : "",
+         "authorZh" : "",
+         "en" : "Crossing / Action-Sign",
+         "endImg" : 61,
+         "endPage" : 123,
+         "es" : "Travesía / Acción-Signo",
+         "id" : "ch078",
+         "img" : 40,
+         "page" : 78,
+         "zh" : "穿越 / 行动—符号"
+      },
+      {
+         "authorEs" : "Claudio Girola",
+         "authorZh" : "克劳迪奥·吉罗拉",
+         "en" : "Travel Diary",
+         "endImg" : 65,
+         "endPage" : 131,
+         "es" : "Diario de viaje",
+         "id" : "ch124",
+         "img" : 62,
+         "page" : 124,
+         "zh" : "旅行日记"
+      },
+      {
+         "authorEs" : "Michel Deguy",
+         "authorZh" : "米歇尔·德吉",
+         "en" : "Dialogue",
+         "endImg" : 70,
+         "endPage" : 141,
+         "es" : "Conversación",
+         "id" : "ch132",
+         "img" : 66,
+         "page" : 132,
+         "zh" : "对话"
+      },
+      {
+         "authorEs" : "Edison Simons",
+         "authorZh" : "爱迪生·西蒙斯",
+         "en" : "Travel Diary",
+         "endImg" : 75,
+         "endPage" : 149,
+         "es" : "Diario de viaje",
+         "id" : "ch142",
+         "img" : 71,
+         "page" : 142,
+         "zh" : "旅行日记"
+      },
+      {
+         "authorEs" : "",
+         "authorZh" : "",
+         "en" : "Crossing / Word-Round",
+         "endImg" : 82,
+         "endPage" : 165,
+         "es" : "Travesía / Palabra-Ronda",
+         "id" : "ch150",
+         "img" : 76,
+         "page" : 150,
+         "zh" : "穿越 / 词语—轮舞"
+      },
+      {
+         "authorEs" : "François Fédier",
+         "authorZh" : "弗朗索瓦·费迪耶",
+         "en" : "Diary and Notes of The Amereida",
+         "endImg" : 88,
+         "endPage" : 177,
+         "es" : "Diario y notas de La Amereida",
+         "id" : "ch166",
+         "img" : 83,
+         "page" : 166,
+         "zh" : "《阿梅雷伊达》日记与笔记"
+      },
+      {
+         "authorEs" : "Jens Andermann",
+         "authorZh" : "延斯·安德曼",
+         "en" : "Images Between the Earth and the Name",
+         "endImg" : 95,
+         "endPage" : 191,
+         "es" : "Imágenes entre la tierra y el nombre",
+         "id" : "ch178",
+         "img" : 89,
+         "page" : 178,
+         "zh" : "土地与名字之间的图像"
+      },
+      {
+         "authorEs" : "Alberto Cruz",
+         "authorZh" : "阿尔贝托·克鲁斯",
+         "en" : "Travel Diary",
+         "endImg" : 100,
+         "endPage" : 199,
+         "es" : "Diario de viaje",
+         "id" : "ch192",
+         "img" : 96,
+         "page" : 192,
+         "zh" : "旅行日记"
+      },
+      {
+         "authorEs" : "",
+         "authorZh" : "",
+         "en" : "Crossing / Act-Body",
+         "endImg" : 109,
+         "endPage" : 219,
+         "es" : "Travesía / Acto-Cuerpo",
+         "id" : "ch200",
+         "img" : 101,
+         "page" : 200,
+         "zh" : "穿越 / 行动—身体"
+      },
+      {
+         "authorEs" : "Enrique Zanartu a Godofredo Iommi",
+         "authorZh" : "恩里克·萨纳尔图 致 戈多弗雷多·约米",
+         "en" : "Letters",
+         "endImg" : 113,
+         "endPage" : 227,
+         "es" : "Correspondencia",
+         "id" : "ch220",
+         "img" : 110,
+         "page" : 220,
+         "zh" : "通信"
+      },
+      {
+         "authorEs" : "",
+         "authorZh" : "",
+         "en" : "Biographies",
+         "endImg" : 116,
+         "endPage" : 233,
+         "es" : "Biografías",
+         "id" : "ch228",
+         "img" : 114,
+         "page" : 228,
+         "zh" : "传记"
+      },
+      {
+         "authorEs" : "",
+         "authorZh" : "",
+         "en" : "Photographic Index",
+         "endImg" : 120,
+         "endPage" : 239,
+         "es" : "Índice fotográfico",
+         "id" : "ch234",
+         "img" : 117,
+         "page" : 234,
+         "zh" : "图片索引"
+      }
+   ],
+   "meta" : {
+      "editors" : "Javier Correa & Victoria Jolly",
+      "isbn" : "978-84-343-1376-8",
+      "publisher" : "Polígrafa, Barcelona",
+      "scans" : 121,
+      "subtitleEs" : "Travesía poética 1965 · Tierra del Fuego – Santa Cruz de la Sierra",
+      "titleEn" : "Amereida, The Invention of a Sea",
+      "titleEs" : "Amereida, la invención de un mar",
+      "titleZh" : "阿梅雷伊达：一片海的发明",
+      "year" : 2018
+   },
+   "photoIndex" : [
+      {
+         "day" : "18",
+         "event" : "Phalène（飞蛾）",
+         "month" : "6 月",
+         "no" : "001",
+         "place" : "1966・英格兰"
+      },
+      {
+         "day" : "01",
+         "event" : "Phalène de la orilla（岸边的飞蛾）",
+         "month" : "7 月",
+         "no" : "002",
+         "place" : "1970・开放之城"
+      },
+      {
+         "day" : "09",
+         "event" : "行动：深海艺术集体",
+         "month" : "6 月",
+         "no" : "003",
+         "place" : "2018・开放之城"
+      },
+      {
+         "day" : "12",
+         "event" : "展览：Amereida，一片海的发明",
+         "month" : "1 月",
+         "no" : "004",
+         "place" : "2017・圣地亚哥国家美术博物馆"
+      },
+      {
+         "day" : "12",
+         "event" : "展览：Amereida，一片海的发明",
+         "month" : "1 月",
+         "no" : "005",
+         "place" : "2017・圣地亚哥国家美术博物馆"
+      },
+      {
+         "day" : "12",
+         "event" : "展览：Amereida，一片海的发明",
+         "month" : "1 月",
+         "no" : "006",
+         "place" : "2017・圣地亚哥国家美术博物馆"
+      },
+      {
+         "day" : "13",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "007",
+         "place" : "彼德拉布埃纳"
+      },
+      {
+         "day" : "12",
+         "event" : "Jorge Pérez-Román（豪尔赫・佩雷斯 - 罗曼）",
+         "month" : "8 月",
+         "no" : "008",
+         "place" : "马波乔磨坊站"
+      },
+      {
+         "day" : "06",
+         "event" : "Alberto Cruz（阿尔贝托・克鲁斯）",
+         "month" : "8 月",
+         "no" : "009",
+         "place" : "通往波尔韦尼尔之路"
+      },
+      {
+         "day" : "18",
+         "event" : "Jonathan Boulting（乔纳森・博尔廷）",
+         "month" : "8 月",
+         "no" : "010",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "18",
+         "event" : "François Février（弗朗索瓦・费夫里耶）",
+         "month" : "8 月",
+         "no" : "011",
+         "place" : "里瓦达维亚海军准将城"
+      },
+      {
+         "day" : "25",
+         "event" : "Henri Tranquoy（亨利・特兰库瓦）",
+         "month" : "8 月",
+         "no" : "012",
+         "place" : "乔埃尔 - 乔埃尔"
+      },
+      {
+         "day" : "10",
+         "event" : "Fabio Cruz（法比奥・克鲁斯）",
+         "month" : "8 月",
+         "no" : "013",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "08",
+         "event" : "Godofredo Iommi（戈多弗雷多・约米）",
+         "month" : "8 月",
+         "no" : "014",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "06",
+         "event" : "Michel Deguy（米歇尔・德吉）",
+         "month" : "8 月",
+         "no" : "015",
+         "place" : "索姆布雷罗山"
+      },
+      {
+         "day" : "06",
+         "event" : "Claudio Girola（克劳迪奥・吉罗拉）",
+         "month" : "8 月",
+         "no" : "016",
+         "place" : "索姆布雷罗山"
+      },
+      {
+         "day" : "18",
+         "event" : "Edison Simons（爱迪生・西蒙斯）",
+         "month" : "8 月",
+         "no" : "017",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "31",
+         "event" : "—",
+         "month" : "7 月",
+         "no" : "018",
+         "place" : "瓦格纳牧场"
+      },
+      {
+         "day" : "14",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "019",
+         "place" : "奥利维亚港"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "020",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "12",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "021",
+         "place" : "马尔尚磨坊站"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "022",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "023",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "024",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "025",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "026",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "23",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "027",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "23",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "028",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "029",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "06",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "030",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "12",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "031",
+         "place" : "马尔尚磨坊站"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "032",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "033",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "23",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "034",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "14",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "035",
+         "place" : "奥利维亚港"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "036",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "06",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "037",
+         "place" : "索姆布雷罗山"
+      },
+      {
+         "day" : "06",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "038",
+         "place" : "索姆布雷罗山"
+      },
+      {
+         "day" : "31",
+         "event" : "—",
+         "month" : "7 月",
+         "no" : "039",
+         "place" : "瓦格纳牧场"
+      },
+      {
+         "day" : "06",
+         "event" : "—",
+         "month" : "9 月",
+         "no" : "040",
+         "place" : "尤昌"
+      },
+      {
+         "day" : "30",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "041",
+         "place" : "布埃纳埃斯佩兰萨"
+      },
+      {
+         "day" : "05",
+         "event" : "—",
+         "month" : "9 月",
+         "no" : "042",
+         "place" : "圣地亚哥 - 德尔埃斯特罗"
+      },
+      {
+         "day" : "23",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "043",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "044",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "045",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "046",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "047",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "22",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "048",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "22",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "049",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "050",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "06",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "051",
+         "place" : "索姆布雷罗山"
+      },
+      {
+         "day" : "05",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "052",
+         "place" : "德尔加达角"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "053",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "12",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "054",
+         "place" : "马尔尚磨坊站"
+      },
+      {
+         "day" : "05",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "055",
+         "place" : "德尔加达角"
+      },
+      {
+         "day" : "01",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "056",
+         "place" : "多罗特亚"
+      },
+      {
+         "day" : "01",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "057",
+         "place" : "多罗特亚"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "058",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "23",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "059",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "27",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "060",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "061",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "062",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "063",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "22",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "064",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "22",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "065",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "10",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "066",
+         "place" : "巴勒莫艾克"
+      },
+      {
+         "day" : "13",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "067",
+         "place" : "干燥峡谷"
+      },
+      {
+         "day" : "14",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "068",
+         "place" : "奥利维亚港"
+      },
+      {
+         "day" : "10",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "069",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "20",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "070",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "05",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "071",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "072",
+         "place" : "圣格雷戈里奥"
+      },
+      {
+         "day" : "18",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "073",
+         "place" : "里瓦达维亚海军准将城"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "074",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "18",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "075",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "18",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "076",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "18",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "077",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "078",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "079",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "080",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "13",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "081",
+         "place" : "干燥峡谷"
+      },
+      {
+         "day" : "05",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "082",
+         "place" : "德尔加达角"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "083",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "05",
+         "event" : "—",
+         "month" : "9 月",
+         "no" : "084",
+         "place" : "圣地亚哥 - 德尔埃斯特罗"
+      },
+      {
+         "day" : "18",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "085",
+         "place" : "里瓦达维亚海军准将城"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "086",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "18",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "087",
+         "place" : "里瓦达维亚海军准将城"
+      },
+      {
+         "day" : "16",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "088",
+         "place" : "里奥加列戈斯"
+      },
+      {
+         "day" : "14",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "089",
+         "place" : "奥利维亚港"
+      },
+      {
+         "day" : "16",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "090",
+         "place" : "里瓦达维亚海军准将城"
+      },
+      {
+         "day" : "08",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "091",
+         "place" : "埃斯波拉角"
+      },
+      {
+         "day" : "28",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "092",
+         "place" : "普埃尔切斯"
+      },
+      {
+         "day" : "13",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "093",
+         "place" : "彼德拉布埃纳"
+      },
+      {
+         "day" : "06",
+         "event" : "—",
+         "month" : "9 月",
+         "no" : "094",
+         "place" : "塔科波索"
+      },
+      {
+         "day" : "21",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "095",
+         "place" : "圣罗莎低地"
+      },
+      {
+         "day" : "30",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "096",
+         "place" : "巴雷拉山"
+      },
+      {
+         "day" : "13",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "097",
+         "place" : "干燥峡谷"
+      },
+      {
+         "day" : "29",
+         "event" : "—",
+         "month" : "8 月",
+         "no" : "098",
+         "place" : "普埃尔切斯盐沼"
+      }
+   ],
+   "placeNames" : [
+      {
+         "es" : "Cerro Sombrero",
+         "no" : "1",
+         "zh" : "索姆布雷罗山"
+      },
+      {
+         "es" : "Punta Espora",
+         "no" : "2",
+         "zh" : "埃斯波拉角"
+      },
+      {
+         "es" : "Punta Delgada",
+         "no" : "3",
+         "zh" : "德尔加达角"
+      },
+      {
+         "es" : "Punta Arenas",
+         "no" : "4",
+         "zh" : "蓬塔阿雷纳斯"
+      },
+      {
+         "es" : "Río Gallegos",
+         "no" : "5",
+         "zh" : "里奥加列戈斯"
+      },
+      {
+         "es" : "Dorotea",
+         "no" : "6",
+         "zh" : "多罗特亚"
+      },
+      {
+         "es" : "Molino Estación Marchand",
+         "no" : "7",
+         "zh" : "马尔尚磨坊站"
+      },
+      {
+         "es" : "Palermo Aike",
+         "no" : "8",
+         "zh" : "巴勒莫艾克"
+      },
+      {
+         "es" : "Puerto Santa Cruz",
+         "no" : "9",
+         "zh" : "圣克鲁斯港"
+      },
+      {
+         "es" : "Puerto San Julián",
+         "no" : "10",
+         "zh" : "圣胡利安港"
+      },
+      {
+         "es" : "Cañadón Seco",
+         "no" : "11",
+         "zh" : "干燥峡谷"
+      },
+      {
+         "es" : "Comodoro Rivadavia",
+         "no" : "12",
+         "zh" : "里瓦达维亚海军准将城"
+      },
+      {
+         "es" : "Trelew",
+         "no" : "13",
+         "zh" : "特雷利乌"
+      },
+      {
+         "es" : "San Antonio",
+         "no" : "14",
+         "zh" : "圣安东尼奥"
+      },
+      {
+         "es" : "Valcheta",
+         "no" : "15",
+         "zh" : "瓦尔切塔"
+      },
+      {
+         "es" : "Bajos de Santa Rosa",
+         "no" : "16",
+         "zh" : "圣罗莎低地"
+      },
+      {
+         "es" : "Choele Choel",
+         "no" : "17",
+         "zh" : "乔埃尔乔埃尔"
+      },
+      {
+         "es" : "Puelches",
+         "no" : "18",
+         "zh" : "普埃尔切斯"
+      },
+      {
+         "es" : "Salitral",
+         "no" : "19",
+         "zh" : "萨利特拉尔"
+      },
+      {
+         "es" : "Santa Rosa de Toay",
+         "no" : "20",
+         "zh" : "圣罗莎德托艾"
+      },
+      {
+         "es" : "Realicó",
+         "no" : "21",
+         "zh" : "雷阿利科"
+      },
+      {
+         "es" : "Nahuel-mapá",
+         "no" : "22",
+         "zh" : "纳韦尔马帕"
+      },
+      {
+         "es" : "Buena Esperanza",
+         "no" : "23",
+         "zh" : "布埃纳埃斯佩兰萨"
+      },
+      {
+         "es" : "Cerro Varela",
+         "no" : "24",
+         "zh" : "巴雷拉山"
+      },
+      {
+         "es" : "San Luis",
+         "no" : "25",
+         "zh" : "圣路易斯"
+      },
+      {
+         "es" : "Villa General Roca",
+         "no" : "26",
+         "zh" : "罗卡将军镇"
+      },
+      {
+         "es" : "Córdoba",
+         "no" : "27",
+         "zh" : "科尔多瓦"
+      },
+      {
+         "es" : "Yuchan",
+         "no" : "28",
+         "zh" : "尤昌"
+      },
+      {
+         "es" : "Santiago del Estero",
+         "no" : "29",
+         "zh" : "圣地亚哥 - 德尔埃斯特罗"
+      },
+      {
+         "es" : "Taco Pozo",
+         "no" : "30",
+         "zh" : "塔科波索"
+      },
+      {
+         "es" : "Salta",
+         "no" : "31",
+         "zh" : "萨尔塔"
+      },
+      {
+         "es" : "Villamontes",
+         "no" : "32",
+         "zh" : "利亚蒙特斯"
+      },
+      {
+         "es" : "Tarija",
+         "no" : "33",
+         "zh" : "塔里哈"
+      },
+      {
+         "es" : "Santa Cruz de la Sierra",
+         "no" : "34",
+         "zh" : "圣克鲁斯 - 德拉谢拉"
+      }
+   ],
+   "spreads" : [
+      {
+         "chapter" : "front",
+         "img" : 1,
+         "left" : 0,
+         "loose" : [],
+         "pages" : "封面",
+         "photoOnly" : 1,
+         "right" : 0,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "front",
+         "img" : 2,
+         "left" : 2,
+         "loose" : [
+            {
+               "lang" : "orig",
+               "text" : "前言"
+            },
+            {
+               "lang" : "orig",
+               "text" : "Windier,wilder than Wales whence they came,Of Welshmen and sheep is the weal and dominion.Should your koinonia(fellowship),poets,not beMediterranean?In Patagonia(This is a platitude)latitudes do not agreeWith blazing azalea,pots of begonia:No bougainvilias this part of Chile adorn;Remote is the lotos!No isle TennysonianFor sailors im wbalers in gales off Cape Hors(Erroneoua poets!),off shores Patagonian!Would not symposia held in a cosier land,Not sterner and wilder than heaths Caledonian,Net you a peppier,hippier,happier bandOf bards Dionysian or Apollonian?Surely these Others(zot Poets?)who go on this"
+            },
+            {
+               "lang" : "orig",
+               "text" : "trip,"
+            }
+         ],
+         "pages" : "2-3",
+         "right" : 3,
+         "section" : {
+            "en" : "POETAGOONIA",
+            "es" : "",
+            "zh" : "前言"
+         },
+         "two" : 0,
+         "units" : [
+            {
+               "zh" : "诗塔哥尼亚（Poetagonia，Poet + Patagonia 的双关）"
+            },
+            {
+               "en" : "POETAGO0NIA",
+               "zh" : "——《泰晤士报》个人栏，7月7日"
+            },
+            {
+               "zh" : "但为什么是巴塔哥尼亚——荒凉而满是羊群，"
+            },
+            {
+               "en" : "—The Times,personal column,July 7.",
+               "zh" : "如此瘦骨嶙峋、石头遍布的地带？"
+            },
+            {
+               "zh" : "为什么是肺炎，为什么是更滑稽、更疯癫的诗人？"
+            },
+            {
+               "zh" : "安第斯山在更寒冷、更多雨的西巴塔哥尼亚陡峭耸立"
+            },
+            {
+               "en" : "But why Patagonia,lonely and peopled with sheep,So bony and stony a zone?Why pneumonia,Zanier,loonier poets?The Andes are steepIn chillier,rainier west Patagonia",
+               "zh" : "（你知道吗，那地方归智利所有；名字里就有预兆！——Chile 与 chilly“寒冷”谐音），"
+            },
+            {
+               "en" : "(Owned,did you know it,by Chile;an omen inname!),",
+               "zh" : "而北部（阿根廷的）主要因水系排水，"
+            },
+            {
+               "en" : "And,mainly through drainage,the north (Argen-tinian),",
+               "zh" : "比他们来处的威尔士更风大、更荒野，"
+            },
+            {
+               "en" : "Unless schizophrenia,madness or mania",
+               "zh" : "是威尔士人和羊群的福祉与领地。"
+            },
+            {
+               "en" : "Addles their crania,won't ail the main in a ship,Be it as famed as the old Mauretania,Simply to listen to lyrics,dactylic or terse,To epics and varia,mad miscellaneaIn areas bare with an air unconducive to verse?Why not Rumania,even Tanzania?Catalonia,say?Or by purple Tyrrhenian seas?That's where your hearers would find it muchcheerier;",
+               "zh" : "诗人们，你们的团契（koinonia）难道不该在地中海吗？"
+            },
+            {
+               "en" : "Why ever should they go to Tierra del Fuego,Where in the world is it wilder or drearier?Why Patagonia?Was it nostalgia for myth?(The early inhabitants,known as TehuelchesWere giants,now vanished.The Spanish word[furnished herewith—",
+               "zh" : "在巴塔哥尼亚（这是老生常谈），纬度与盛开的杜鹃、盆栽秋海棠并不相宜："
+            },
+            {
+               "en" : "Patagones]means very big feet;what the Welsh isMy seedier encyclopaedia doesn't reveal,",
+               "zh" : "智利这一带没有三角梅装点；忘忧莲也远不可及！"
+            },
+            {
+               "en" : "Or whether they've other myths there in a plethora.)But surely,you know,if the poets do go,it's to feelLonelier,ratber than gathered-togetherer;",
+               "zh" : "没有丁尼生式的岛屿，供捕鲸船上的水手在合恩角外的大风中停靠"
+            },
+            {
+               "zh" : "（错误的诗人啊！），在巴塔哥尼亚海岸外！"
+            },
+            {
+               "zh" : "在更舒适的地方举行研讨会，"
+            },
+            {
+               "en" : "All poets,you'll own,are alone;and they certainlywill",
+               "zh" : "不像苏格兰荒原那样严峻狂野，"
+            },
+            {
+               "zh" : "难道不会给你招来一帮更带劲、更时髦、更快乐的"
+            },
+            {
+               "zh" : "酒神或日神诗人吗？"
+            },
+            {
+               "zh" : "当然，这些参加此行的“另一些人”（傻瓜诗人？），"
+            },
+            {
+               "zh" : "除非精神分裂、疯狂或躁狂弄昏了脑袋，"
+            },
+            {
+               "en" : "Groan at the tone of your plan Babylonian,Masses of passages booked to Parnassus—a hillPatently,blatantly not Patagonian.",
+               "zh" : "否则不会在船上受罪——哪怕船像老毛里塔尼亚号那样有名——"
+            },
+            {
+               "zh" : "只为在光秃秃、空气不宜写诗的地方，"
+            },
+            {
+               "zh" : "听抒情诗，扬抑抑格或简洁体，"
+            },
+            {
+               "zh" : "听史诗和杂七杂八的疯狂合集？"
+            },
+            {
+               "zh" : "为什么不去罗马尼亚，甚至坦桑尼亚？"
+            },
+            {
+               "zh" : "比如加泰罗尼亚？或者去紫色的第勒尼安海边？"
+            },
+            {
+               "zh" : "在那里，你们的听众会觉得愉快得多；"
+            },
+            {
+               "zh" : "他们到底为什么要去火地岛，"
+            },
+            {
+               "zh" : "世界上还有哪里比那儿更荒凉、更阴沉？"
+            },
+            {
+               "zh" : "为什么是巴塔哥尼亚？是对神话的怀旧吗？"
+            },
+            {
+               "zh" : "（早期居民特维尔切人据说是巨人，现已消失。西班牙语词——随文附上——Patagones 意思是“很大的脚”；"
+            },
+            {
+               "zh" : "我那本更寒酸的百科没有说明威尔士语里该词是什么，"
+            },
+            {
+               "zh" : "也没说那里是否还有一大堆其他神话。）"
+            },
+            {
+               "zh" : "但你知道，诗人若真去，肯定是为了感到更孤独，"
+            },
+            {
+               "en" : "quien lealea con sus pulmones",
+               "zh" : "而不是更聚成一堆；"
+            },
+            {
+               "zh" : "你会承认，所有诗人都孤独；他们肯定会"
+            },
+            {
+               "zh" : "抱怨你这计划那种巴比伦式的调门："
+            },
+            {
+               "zh" : "大把大把的行程订到帕纳塞斯山——"
+            },
+            {
+               "zh" : "而那座山显然、公然地不属于巴塔哥尼亚。"
+            },
+            {
+               "zh" : "*quien lea, lea con sus pulmones*"
+            },
+            {
+               "zh" : "——谁读，谁就用自己的肺去读吧。"
+            }
+         ]
+      },
+      {
+         "chapter" : "front",
+         "img" : 3,
+         "left" : 4,
+         "loose" : [
+            {
+               "lang" : "orig",
+               "text" : "POLIGRAFA"
+            },
+            {
+               "lang" : "orig",
+               "text" : "AMEREIDA"
+            }
+         ],
+         "pages" : "4-5",
+         "right" : 5,
+         "section" : {
+            "en" : "Amereida / The Invention of a Sea",
+            "es" : "Amereida / La invención de un mar",
+            "zh" : "阿梅雷伊达：一片海的发明"
+         },
+         "two" : 0,
+         "units" : [
+            {
+               "en" : "¿ Cuántas veces el gratuito juego poéticopodrá sobreponerse alánimo de unatravesía \"sin objeto\"?Creemos que tal \"sinobjeto\"desvela realmente el continente,suinalcanzable Norte el que todos llevamosdentro,continentey Norte.",
+               "zh" : "那种无偿的诗歌游戏，能够多少次战胜一次“没有目的”的旅程所激发的精神？我们相信，这种“没有目的”真正揭示了大陆，揭示了它那不可企及的北方——我们所有人内心都携带着的北方，大陆与北方。"
+            },
+            {
+               "en" : "How many times will the free poetic gamebe able to overcome the encouragementof a journey“without object”?We thinkthat this \"without object\"truly unveils thecontinent,its unreachable North,the onewe all carry inside,continent and North.",
+               "zh" : "注23，《Amereida》第二卷，1986年。"
+            },
+            {
+               "en" : "Nota 23,Amereida volúmen II,I986.",
+               "zh" : "POLIGRAFA（出版社）"
+            },
+            {
+               "en" : "Editado por/Edited by Javier Correa & Victoria Jolly.",
+               "zh" : "哈维尔·科雷亚与维多利亚·霍利"
+            },
+            {
+               "en" : "LA INVENCIÓN DE UN MAR",
+               "zh" : "编辑：AMEREIDA"
+            },
+            {
+               "en" : "THE INVENTION OF A SEA",
+               "zh" : "《海的发明》"
+            }
+         ]
+      },
+      {
+         "chapter" : "front",
+         "img" : 4,
+         "left" : 6,
+         "loose" : [],
+         "pages" : "6-7",
+         "photoOnly" : 1,
+         "right" : 7,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch008",
+         "img" : 5,
+         "left" : "8",
+         "loose" : [],
+         "pages" : "8-9",
+         "right" : "9",
+         "section" : {
+            "en" : "08 The Amereida/Javier Correa",
+            "es" : "",
+            "zh" : "08 《阿梅雷伊达》/ 哈维尔·科雷亚"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Because the question is: did we know (or did Godo himself know!) what Amereida is?",
+               "es" : "Porque la interrogante es: ¿sabíamos nosotros (o se sabía —¡Godo mismo!) lo que es Amereida?",
+               "zh" : "因为问题在于：我们当时知道（或者人们知道——甚至戈多本人知道！）阿梅雷伊达是什么吗？"
+            },
+            {
+               "en" : "—François Fédier, travel diary.",
+               "es" : "—François Fédier, diario de viaje.",
+               "zh" : "——弗朗索瓦·费迪耶，旅行日记。"
+            },
+            {
+               "en" : "On the 29th July 1965, on a table of a restaurant in the city of Punta Arenas, in the extreme South of America, the crew of nine discussed what would become the rules of a “poetic game” of a journey that was about to start. There were no “judgements”: everything that was to be done would be poetic. The freedom to do: if someone thought of doing something even after the act occurred, it would be done. Obedience towards the one who thought up the act: not because he was in charge but to be available. Transgressions: the idea was to mistake the mistaken. The following day they would embark a large used Chevrolet truck that would take them in a little more than a month and a half through the interior of the continent, towards the proximities of Santa Cruz de la Sierra in Bolivia.",
+               "es" : "El 29 de julio de 1965, en una mesa de algún restaurante de la ciudad de Punta Arenas, en el extremo sur de América, los nueve tripulantes afinaban las que serían las reglas del “juego poético” de un viaje que estaba por iniciar. No habría “juicios”: todo cuanto se hiciera sería poético. “Libertad de hacer”: si a alguien se le ocurría hacer algo incluso después que ocurriera un acto, se hacía. Obediencia hacia quien se le ocurriera el acto: no porque él mandara sino para estar disponibles. Transgresiones: la idea era equivocar el equívoco. Al día siguiente abordarían una gran camioneta Chevrolet usada que los llevaría en poco más de un mes y medio por el interior del continente, hasta las proximidades de Santa Cruz de la Sierra, en Bolivia.",
+               "zh" : "1965年7月29日，在美洲最南端蓬塔阿雷纳斯城某家餐馆的一张桌子旁，九名队员正在敲定即将开始的一次旅行的“诗歌游戏”规则。不会有“评判”：所做的一切都将是诗意的。“做的自由”：如果某人想到要做某事，甚至在一个行动发生之后才想到，那就去做。对想出该行动者的服从：不是因为他发号施令，而是为了保持随时可用。“越界”：想法是把错讹弄错。第二天，他们将登上一辆二手雪佛兰大卡车，这辆车将在略多于一个半月的时间里带他们穿过大陆内陆，直到玻利维亚圣克鲁斯-德拉谢拉附近。"
+            },
+            {
+               "en" : "Godofredo Iommi, poet; Edison Simons, poet; Alberto Cruz, architect; Fabio Cruz, architect; Claudio Girola, sculptor; Jorge Pérez-Román, painter; Michel Deguy, poet; François Fédier, philosopher; Jonathan Boulting, poet; and later Henri Tronquoy, sculptor. This was the crew that, principally instigated by Iommi, united to realise Amereida, a poetic and artistic journey that took the name from the Aeneid, the epic poem and initiator of latin-ness, that to here was transported as a key to uncover the origin and destiny of America and with an intent for a poetical re-foundation of the continent. There was a desire to make an original dwelling possible, which is to say America itself, in relation to itself and no longer with its colonial past and the European metropolis, which had been incapable of understanding the “gift” of this land that offered itself without having been searched for.",
+               "es" : "Godofredo Iommi, poeta; Edison Simons, poeta; Alberto Cruz, arquitecto; Fabio Cruz, arquitecto; Claudio Girola, escultor; Jorge Pérez-Román, pintor; Michel Deguy, poeta; François Fédier, filósofo; Jonathan Boulting, poeta; y más adelante Henri Tronquoy, escultor. Esta era la tripulación que se había reunido, por instigación principal de Iommi, a realizar la “Amereida”, travesía poética y artística que tomaba su nombre de la Eneida, el poema épico iniciador de la latinidad, que hasta aquí era transportado como clave para develar el origen y destino de América e intentar una re-fundación poética del continente. Se quería hacer posible un habitar original, es decir propio de América, en relación consigo misma y no más con su pasado colonial y la metrópoli europea, aquella que había sido incapaz de comprender el “regalo” de esta tierra que se ofrecía sin haber sido buscada.",
+               "zh" : "戈多弗雷多·约米，诗人；爱迪生·西蒙斯，诗人；阿尔贝托·克鲁斯，建筑师；法比奥·克鲁斯，建筑师；克劳迪奥·吉罗拉，雕塑家；豪尔赫·佩雷斯-罗曼，画家；米歇尔·德吉，诗人；弗朗索瓦·费迪耶，哲学家；乔纳森·博尔廷，诗人；后来还有亨利·特龙凯，雕塑家。这就是主要由约米推动而聚集起来实现“阿梅雷伊达”的船员队伍——一次诗歌与艺术远行，其名字取自《埃涅阿斯纪》，那部开创拉丁性的史诗；到这里，它被移用为一把钥匙，用来揭示美洲的起源与命运，并尝试对大陆进行诗性的重新奠基。人们想使一种原初的栖居成为可能，也就是说，一种属于美洲自身的栖居，与自身相关，而不再与其殖民过去和欧洲大都市相关——那个大都市一直无法理解这片土地的“礼物”，这片土地未被寻找便自我献出。"
+            },
+            {
+               "en" : "This was the main “calculation” that Amereida proposed, for this reason “tomorrow we leave to journey through America”. However, to undertake a similar proposal didn’t mean —as we shall see further in this book— that this would be shared and even understood by all the participants in the same way. Although they were all there for one experience or another that had reunited them —first in Chile then in France—, around poetry, and in particular for the “poetic act”: word and action. This notion of poetry outside books and unfolded as an action had already been posed by Iommi in the 1940s, along with other Argentinian and Brazilian poets in the so-called “Santa Hermandad Orquídea”. Then, they would have a second moment in the first years of activities in the Institute of Architecture of the Universidad Católica de Valparaíso, in the 1950s, which Iommi would go on to become a part of along with Alberto Cruz, Claudio Girola and other young architects that came from Santiago². But it wouldn’t be until the end of the fifties, when Iommi would settle in Europe (especially in Paris), that this search would find the occasion to come into practice in a radical sense, first in the joint experiences with Carmelo Arden Quin and other poets, artists and actors; then in the so-called “Phalène”³, poetic and plastic improvised actions, undertaken in squares, streets and…",
+               "es" : "Este era el cálculo mayor que la Amereida se proponía, por eso «mañana partimos a recorrer América». Pero llevar a cabo semejante propósito no significaba —como se verá más adelante en este libro— que este fuera compartido e incluso entendido por todos los participantes de la misma manera; aunque sí, todos estaban allí por una u otra experiencia que los había reunido —primero en Chile y después en Francia—, alrededor de la poesía; en particular, del “acto poético”: la palabra y la acción. Esta noción de una poesía que está fuera de los libros y se despliega como acción había sido planteada por Iommi ya en la década del cuarenta, junto a otros poetas argentinos y brasileros, en la llamada “Santa Hermandad Orquídea”. Luego, tendrá un segundo momento en los primeros años de actividad del Instituto de Arquitectura de la Universidad Católica de Valparaíso, en los años cincuenta, del que Iommi pasará a formar parte junto con Alberto Cruz, Claudio Girola y otros arquitectos jóvenes venidos desde Santiago². Pero no será hasta fines de la década del cincuenta, cuando Iommi se establezca en Europa (principalmente en París), que esta búsqueda encontrará la ocasión de ensayarse de un modo radical, primero en las experiencias compartidas junto a Carmelo Arden Quin y otros poetas, artistas y actores; y después, en la llamada “Phalène”³, acción poética y plástica improvisada, realizada en plazas, calles y…",
+               "zh" : "这就是“阿梅雷伊达”所提出的更大盘算，因此有“明天我们出发去游历美洲”。但是，实现这样一个目的，并不意味着——正如本书后文将看到的——它会被所有参与者以同样方式分享甚至理解；尽管确实，所有人都因这样或那样的经历而聚在那里——先是在智利，后来在法国——围绕诗歌，尤其是“诗歌行动”：词语与行动。这种诗歌观念——诗歌在书本之外，并作为行动展开——约米在四十年代就已提出，与另外一些阿根廷和巴西诗人在所谓的“兰花圣兄弟会”中。然后，它在五十年代瓦尔帕莱索天主教大学建筑学院最初几年的活动中有了第二个时刻；约米与阿尔贝托·克鲁斯、克劳迪奥·吉罗拉以及其他从圣地亚哥来的年轻建筑师一起成为该学院的一部分。但直到五十年代末，约米定居欧洲（主要是巴黎），这一探索才找到以激进方式试验的机会：首先是在与卡梅洛·阿尔登·金及其他诗人、艺术家和演员共同分享的经历中；随后是在所谓的“Phalène”中——一种即兴的诗歌与造型行动，在广场、街道和……进行。"
+            },
+            {
+               "en" : "¹ Amereida volume 1, page 102.",
+               "es" : "¹ Amereida, volumen primero, página 102.",
+               "zh" : "¹ 《阿梅雷伊达》第一卷，第102页。"
+            },
+            {
+               "en" : "² The original group was formed by Alberto Cruz, Miguel Eyquem, Francisco Méndez, Jaime Bellalta, Fabio Cruz, José Vial, Arturo Baeza, Godofredo Iommi and Claudio Girola.",
+               "es" : "² El grupo original lo conformaban Alberto Cruz, Miguel Eyquem, Francisco Méndez, Jaime Bellalta, Fabio Cruz, José Vial, Arturo Baeza, Godofredo Iommi y Claudio Girola.",
+               "zh" : "² 最初的团体由阿尔贝托·克鲁斯、米格尔·艾克姆、弗朗西斯科·门德斯、海梅·贝利亚尔塔、法比奥·克鲁斯、何塞·维亚尔、阿图罗·巴埃萨、戈多弗雷多·约米和克劳迪奥·吉罗拉组成。"
+            },
+            {
+               "en" : "³ Butterfly. For them it represented the nocturnal butterfly that flies towards the light and is extinguished.",
+               "es" : "³ Mariposa. Para ellos representaba la mariposa nocturna que vuela hacia la luz y se extingue.",
+               "zh" : "³ 蝴蝶/蛾。对他们来说，它代表那种飞向光并熄灭的夜蛾。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch008",
+         "img" : 6,
+         "left" : "10",
+         "loose" : [],
+         "pages" : "10-11",
+         "right" : "11",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…squares, streets and anonymous places with poets and artists. The “sortie” (outing) would be the particular form of “wanderings” that the group would take on to unfold the Phalène, in which the project hic et nunc, in the words of Michel Deguy, “can marry the land to the name”.",
+               "es" : "…lugares anónimos junto a poetas y artistas plásticos. La “sortie” (salida) será la forma particular de “errancia” que el grupo tomará para desplegar la Phalène, donde la obra hic et nunc, en palabras de Michel Deguy, «puede casar a la tierra con el nombre».",
+               "zh" : "……与诗人和造型艺术家在一起的匿名场所。“sortie”（外出）将是该团体为展开“Phalène”所采取的那种特定的“漫游”形式；在其中，此时此地的作品，用米歇尔·德吉的话说，“能让土地与名字结合”。"
+            },
+            {
+               "en" : "Along with installing the possibility of a poetry outside books and answering to, according to Iommi, the hope of the surrealist movement of overcoming the “work of art” establishing the autonomy of the poet as porter of poetry, the Phalène would decisively introduce the image of the journey as temporality and space for poetry to celebrate the famous sentence of Lautréamont: “poetry should be made by all, not only one”. This way of conceiving the poetic act which the Phalène⁴ group embarked upon, propitiating an active relationship to the public, situated itself one step ahead of the artistic “happenings” of the time; it would be Iommi himself that would look to expose this proposal in his Carta del Errante on 1963.",
+               "es" : "Junto con instalar la posibilidad de una poesía fuera de los libros y responder, según Iommi, a la esperanza del Surrealismo de superar la “obra de arte” estableciendo la autonomía del poeta como portador de la poesía, la Phalène introducirá decisivamente la imagen del viaje como temporalidad y espacio para que la poesía celebre la famosa sentencia de Lautréamont: «la poesía debe ser hecha por todos, no por uno solo». Esta manera de concebir el hacer poético en la que el grupo de la Phalène⁴ se embarcó, propiciando una relación activa con el público, se situaba un paso más adelante que los “happenings” artísticos de la época; será el mismo Iommi quien buscará exponer esta propuesta en su Carta del Errante de 1963.",
+               "zh" : "“Phalène”不仅确立了诗歌外在于书本的可能性，而且——按约米的说法——回应了超现实主义那种通过确立诗人作为诗歌承载者的自主性来超越“艺术作品”的希望；它还将决定性地引入旅行的形象，把旅行作为时间性与空间，让诗歌来庆祝洛特雷阿蒙那句名言：“诗歌应当由所有人来创作，而不是只由一个人。”这种构想诗歌行动的方式——Phalène⁴团体所投入的方式，促成了与公众的积极关系——比当时的艺术“偶发事件”（happenings）更进一步；正是约米本人试图在1963年的《漫游者书信》中阐述这一主张。"
+            },
+            {
+               "en" : "The human and artistic density of the exploration undertaken in the Phalène probably generated in the group and in particular in Godofredo Iommi, the conviction that it was possible to concretise Rimbaud’s statement through poetry, and “to change a life”. For this, a change in scale would be necessary, a major event that…",
+               "es" : "El espesor humano y artístico de la exploración llevada a cabo en la Phalène, generó probablemente en el grupo y en particular en Godofredo Iommi, el convencimiento de que era posible concretar desde la poesía, la sentencia de Rimbaud y «cambiar la vida». Pero para ello, era necesario un salto de escala, un evento mayor que…",
+               "zh" : "“Phalène”中所进行的探索，其人文与艺术厚度，可能在该团体中、尤其在戈多弗雷多·约米心中，产生了一种确信：通过诗歌，有可能把兰波那句话落到实处，“改变生活”。但为此，需要一次尺度上的跳跃，一个更大的事件，它将……"
+            },
+            {
+               "en" : "As well as Iommi, in the Phalène, among others, the poets Josée Lapeyrère, Michel Deguy, Edison Simons and Jonathan Boulting participated. The artists Francisco Méndez, Jorge Pérez-Román, Enrique Zañartu, Sheila Hicks, Claudio Girola and Henri Tronquoy. And the philosophers François Fédier and Barbara Cassin. Some of them participated also in the Revue de Poésie, founded by Iommi and Deguy, that was later called “po&sie” and still exists.",
+               "es" : "Además de Iommi, en la Phalène participaron, entre otros, los poetas Josée Lapeyrère, Michel Deguy, Edison Simons y Jonathan Boulting. Los artistas Francisco Méndez, Jorge Pérez-Román, Enrique Zañartu, Sheila Hicks, Claudio Girola y Henri Tronquoy. Y los filósofos François Fédier y Barbara Cassin. Varios de ellos participaban también en la Revue de Poésie, fundada por Iommi y Deguy, que más adelante se llamó “po&sie” y existe hasta hoy.",
+               "zh" : "除约米外，参与“Phalène”的还有诗人若泽·拉佩雷尔、米歇尔·德吉、爱迪生·西蒙斯和乔纳森·博尔廷；艺术家弗朗西斯科·门德斯、豪尔赫·佩雷斯-罗曼、恩里克·萨尼亚图、希拉·希克斯、克劳迪奥·吉罗拉和亨利·特龙凯；以及哲学家弗朗索瓦·费迪耶和芭芭拉·卡桑。其中一些人还参与了由约米和德吉创办的《诗歌评论》，该刊后来改名为“po&sie”，至今仍在出版。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch008",
+         "img" : 7,
+         "left" : "12",
+         "loose" : [],
+         "pages" : "12-13",
+         "right" : "13",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…would unleash that transformation. It was this necessity and the fundamental question for the continent and the American being who would lead to a project like Amereida; in the words of Michel Deguy, “the phalènes represent small local preparations for the superior phalénic event that would be and that was Amereida and the foundation of the Ciudad Abierta (Open City); there is where all things finally happen”. The idea of settling in Europe is therefore abandoned and at the start of 1964 the preparations for the journey start, that finally manage to reunite this Latin American and European crew in Chile in which “each one spoke his own language and everyone understood it”.",
+               "es" : "…desencadenara esa transformación. Será esta necesidad y la pregunta fundamental por el continente y ser americanos, los que darán lugar a un proyecto como la Amereida; en palabras de Michel Deguy, «las phalènes representan pequeñas preparaciones locales para el evento phalénico superior que iba a ser y que fue la Amereida y la fundación de la Ciudad Abierta; allí es donde pasan las cosas finalmente». La idea de instalarse en Europa es entonces abandonada y a comienzos de 1964 se inician los preparativos para la travesía, que finalmente logra reunir en Chile a esta tripulación latinoamericana y europea donde «cada uno hablaba su lengua y todos la comprendían».",
+               "zh" : "……将引发那场转变。正是这种必要性，以及对大陆和“作为美洲人存在”的根本追问，促生了一个像“阿梅雷伊达”这样的计划；用米歇尔·德吉的话说：“那些‘phalènes’是为更高阶段的‘phalénique’事件所做的小型地方性准备，而那个事件将要发生、也确实发生了，那就是‘阿梅雷伊达’和‘开放城市’的创立；最终，事情正是在那里发生的。”于是，定居欧洲的想法被放弃；1964年初，远行的筹备工作开始，最终在智利把这支拉丁美洲与欧洲混合的船员队伍聚集起来——在那里，“每个人说自己的语言，而所有人都听得懂”。"
+            },
+            {
+               "en" : "The Amereida that started in the austral winter of 1965 was not posed as a closed event that had to comply with a pre-established objective. Although this epic character and the confidence that they shared in the “foundational” ability of poetry allowed for the foreseeing of the acts that would be realized —where they would have to be— they would clear the inherited landscape, the folklore and nostalgia, to arrive at the land itself; to this “founding to confuse it with the land” that Alberto Cruz would say in a poetic game close to Comodoro Rivadavia; the journey was conceived simultaneously as a poetic tentative that would be expanding from the different contributions of its participants and in which the transgression would be given by the possibility to mistake the mistaken, from trespassing the trance of the power to the act. It was not therefore about going to execute a series of actions and works previously elaborated, nor to verify a reality or a state of things; nor was there a cultural or pedagogical intention in the act of talking about or realizing works, as little as they may be, facing others or in the midst of the extension, “Amereida explains itself crossing and crossing, explaining itself” the philosopher François Fédier would write in his notes; it would not be affirmed in a certainty but in the vacillation and in the “permanent attention that it would get to”.",
+               "es" : "La Amereida que comenzaba en el invierno austral de 1965, no se planteaba como un acontecimiento cerrado, que tuviera que cumplir con un objetivo preestablecido. Si bien el carácter épico y la confianza que tenían en la capacidad “fundacional” de la poesía hacía prever que los actos que se realizarían —donde tuviera que ser—, irían despejando el paisaje heredado, el folklore y la nostalgia, para llegar a la tierra misma; a ese «fundar para confundirse con la tierra» que dirá Alberto Cruz en un juego poético cerca de Comodoro Rivadavia; la travesía se concebía al mismo tiempo como una tentativa poética que se iría expandiendo desde los distintos aportes de sus participantes y en la que justamente la transgresión estaría dada por la posibilidad de equivocar el equívoco, de traspasar el trance de la potencia al acto. No se trataba entonces de ir a ejecutar una serie de acciones y obras previamente elaboradas, ni de verificar una realidad o estado de las cosas; tampoco existía una intención cultural o pedagógica en el hecho de hablar y realizar obras, por mínimas que fueran, frente a otros o en medio de la extensión, «la Amereida se explica atravesando y atraviesa explicándose» dirá en una de sus notas de viaje el filósofo François Fédier; ella no se afirmaba en una certeza sino en la vacilación y la «atención permanente a lo que llegara».",
+               "zh" : "1965年南半球冬季开始的“阿梅雷伊达”，并不是作为一个封闭事件来构想的，并不需要完成某个预先设定的目标。尽管其史诗性格，以及他们对诗歌“奠基”能力的信任，使人预见到：将要进行的那些行动——在必须发生的地方——会逐渐清理掉继承下来的风景、民俗和乡愁，以便抵达土地本身；抵达阿尔贝托·克鲁斯在里瓦达维亚海军准将城附近的一次诗歌游戏中将会说到的那种“为了与土地混而为一的奠基”；与此同时，这次远行也被构想为一次诗歌尝试，它会从参与者各自不同的贡献中不断扩展；而其中的“越界”，恰恰在于有可能把错讹弄错，有可能从潜能的迷狂过渡到行动。因此，并不是要去执行一系列预先构思好的行动和作品，也不是要去验证某种现实或事物的状态；在他人面前、在广袤之中说话和做事——哪怕事情极小——也没有文化或教育意图；“阿梅雷伊达在穿越中解释自身，并且穿越着、解释着自身”，哲学家弗朗索瓦·费迪耶在他的一则旅行笔记中这样写道；它不确立于某种确定性，而是确立于犹疑，确立于“对将要到来之物持久的关注”。"
+            },
+            {
+               "en" : "From this liberty and without prepending the “willing suspension of disbelief” of Coleridge⁵, imitating the poetic faith to which everyone univocally inscribes, the journey that conducted the crew through the routes, towns and extensions that are almost forgotten; opened a time that became material through acts, poems and plastic signs, drawings, photographs and reflections. And the advances, regressions, affirmations and poetic negotiations that had a place in it, as well as the adventures themselves of a journey without a fixed itinerary, allowed for the experience to approach the abysmal ground that America represented.",
+               "es" : "Desde esta libertad y sin anteponer la “willing suspension of disbelief” de Coleridge⁵, como una fe poética en la que todos se inscribieran unívocamente, es que la travesía que condujo a sus tripulantes por rutas, poblados y extensiones casi olvidadas; abrió un tiempo que se fue volviendo materia a través de actos, poemas, signos plásticos, dibujos, fotografías y reflexiones. Y los avances, retrocesos, afirmaciones y negaciones poéticas que en ella tuvieron lugar, como también las peripecias propias de un trayecto sin itinerario fijo, permitieron que la experiencia pudiera aproximarse a ese suelo abismal que América representaba.",
+               "zh" : "正是从这种自由出发，并且不预先设定柯勒律治⁵的“自愿悬置怀疑”——不把它当作一种所有人都一致签署的诗歌信仰——这支队伍才被引上几乎被遗忘的道路、村镇和广袤之地；这次远行打开了一段时间，而这段时间通过行动、诗、造型符号、素描、照片和思考逐渐变成物质。其中发生的那些诗歌上的前进、后退、肯定与否定，以及一次没有固定路线的旅行本身所固有的种种波折，使这次经验得以接近美洲所代表的那片深渊般的地面。"
+            },
+            {
+               "en" : "In spite of the fact that Amereida reveals itself also as a crossing of paths between its own participants that would later lead some of them to continue their own journeys; once the trip was concluded the quantity and intensity of the different materials and realized experiences, allowed for the publication in 1967 of the poem of “Amereida”, which nineteen years later⁶ would be followed by a second volume (“Amereida II”). Both without authorship but composed and edited principally by Godofredo Iommi, the publication reunited the texts of the participants written before, during and after the journey. In them the “epic” of a poetic re-foundation of Amereida is evoked in the pages in a sequence of two parts: in the first volume, the poem is in a moment before the journey that starts singing of the finding and the apparition of the continent, to go on to verify…",
+               "es" : "A pesar de que la Amereida se revela también como un cruce de caminos entre sus propios participantes que llevará, tiempo después, a varios de ellos a seguir sus propios trayectos; una vez concluido el viaje, la cantidad e intensidad de los distintos materiales y experiencias realizadas, permitió publicar en 1967 el poema de “Amereida”, al que diecinueve años después⁶, siguió un segundo volumen (“Amereida II”). Ambos sin autor, pero compuestos y editados principalmente por Godofredo Iommi, reunían los textos de los participantes escritos antes, durante y después del viaje. En ellos, la “épica” de una refundación poética de América es volcada en las páginas en una secuencia de dos tiempos: en el primer volumen, el poema es un momento anterior al viaje que comienza cantando el hallazgo y la aparición del continente, para luego verificar las imposturas que impiden recibir aquel “don” y comprender el “ser de América”⁷…",
+               "zh" : "尽管“阿梅雷伊达”也显现为其参与者之间的一次道路交汇，而这次交汇后来会让其中数人走上各自的旅程；旅行结束之后，各类材料与经验的数量和强度，使得《阿梅雷伊达》这首诗得以在1967年出版；十九年后⁶，又有了第二卷（《阿梅雷伊达 II》）。两卷都没有作者署名，但主要由戈多弗雷多·约米编纂和编辑，汇集了参与者在旅行之前、之中和之后写下的文本。在这些文本中，一场美洲诗歌性重新奠基的“史诗”被倾泻在纸页上，按两个阶段的顺序展开：在第一卷中，这首诗处于旅行之前的时刻，它开始歌唱大陆的发现与显现，随后去查验那些阻碍人们接受那份“赠礼”并理解“美洲之存在”的伪装……"
+            },
+            {
+               "en" : "⁵ The willing suspension of disbelief, famous sentence of the English poet Samuel Taylor Coleridge.",
+               "es" : "⁵ La suspensión voluntaria de la incredulidad, famosa sentencia del poeta inglés Samuel Taylor Coleridge.",
+               "zh" : "⁵ 自愿悬置怀疑，英国诗人塞缪尔·泰勒·柯勒律治的名言。"
+            },
+            {
+               "en" : "⁶ “Amereida volumen segundo” was published in 1986.",
+               "es" : "⁶ “Amereida volumen segundo” fue publicado en 1986.",
+               "zh" : "⁶ 《阿梅雷伊达》第二卷出版于1986年。"
+            },
+            {
+               "en" : "⁷ “Edi, between simulations and phantoms we people of America only imitate” Amereida volumen I, page 11.",
+               "es" : "⁷ «Edi, entre simulacros y fantasmas, las gentes de América solo imitamos» Amereida volumen primero, página 11.",
+               "zh" : "⁷ “埃迪，在拟像与幽灵之间，我们美洲人只会模仿”，《阿梅雷伊达》第一卷，第11页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch008",
+         "img" : 8,
+         "left" : "14",
+         "loose" : [],
+         "pages" : "14-15",
+         "right" : "15",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…the impostures that impede the receiving of the “gift” and comprehending the “being of America”. It then proposes the calculation of the journey itself as a form and way of accessing the fact “the sea itself, freely, crosses us”⁸. Lastly the poem reveals the epic proposal of the journey, the new orientation and destination of the continent; and finally it questions the meaning of “founding” America in contrast to Europe⁹, and then turns the question to “The Amereida” itself¹⁰. The poem is accompanied also by American chronicles, texts about the phalène and a series of maps in which image is given to the continent and its turn towards a new orientation or its “own north”.",
+               "es" : "Continuación: propone el cálculo de la travesía misma como forma y modo para acceder a «que el mar propio y gratuito nos atraviese»⁸. Y en su última parte, el poema revela el propósito épico de la travesía, la nueva orientación y destino del continente; y finaliza preguntándose por el sentido de “fundar” en América en contraste con Europa⁹, para así volver esa pregunta a “la Amereida” misma¹⁰. El poema se hace acompañar además por crónicas americanas, textos sobre la phalène y una serie de mapas donde se va dando imagen al continente y su giro hacia una nueva orientación o “propio norte”.",
+               "zh" : "接着，文本提出把远行本身作为一种形式与方式，以便进入“那属于我们自己的、无偿的海穿过我们”⁸。在最后一部分，这首诗揭示了这次远行的史诗性目的，即大陆的新方向与新命运；最后，它追问在美洲“奠基”的意义——与欧洲相对照⁹——随后又把这个问题转回“阿梅雷伊达”本身¹⁰。这首诗还附有美洲纪事、关于“phalène”的文本，以及一系列地图；在这些地图中，大陆及其转向一个新方向、或曰“自己的北方”的过程逐渐获得形象。"
+            },
+            {
+               "en" : "The second volume of Amereida, on the other hand, is composed as an assembly of texts written mainly during the journey, which unfold the events and meetings that occurred during the days in which the group stopped in Tierra del Fuego. As well as this there was a series of reflections on the relationship between technique and dwelling; the poetic acts and the plastic signs. Finally, the poem includes a diary of the journey, written mainly by Claudio Girola and Fabio Cruz, along with notes by all the participants. Neither of the volumes include photographs of the journey.",
+               "es" : "El volumen segundo de Amereida, en cambio, se compone como un ensamblaje de textos escritos en su mayoría durante la travesía, los cuales despliegan los eventos y encuentros ocurridos durante los días en los que el grupo se detuvo en Tierra del Fuego. Además, expone una serie de reflexiones acerca de la relación entre la técnica y el habitar, los actos poéticos y los signos plásticos. El poema incluye al final una bitácora de la travesía, escrita en su mayor parte por Claudio Girola y Fabio Cruz, junto a notas de todos los participantes. Ninguno de los dos volúmenes contiene fotografías de la travesía.",
+               "zh" : "《阿梅雷伊达》第二卷则不同，它由一批文本组装而成，这些文本大多写于远行期间，展开的是团队停留于火地岛那些日子里发生的事件与相遇。此外，它还呈现了一系列关于技术与栖居之间关系、诗歌行动与造型符号的思考。诗末还包括一份远行日志，主要由克劳迪奥·吉罗拉和法比奥·克鲁斯撰写，并附有所有参与者的笔记。两卷都不包含远行照片。"
+            },
+            {
+               "en" : "Both the “Amereida” journey and the poem book allowed for the concretizing of what had already been intuited in the times of the “Phalène”, that is, the possibility of changing one’s life in order to “change a life”. As Deguy indicates: all the preparation of the phalène and the Amereida are not destined for anything but the foundation of the “Ciu-…",
+               "es" : "Tanto “la Amereida” travesía como el poema libro, permitieron concretar lo que ya había sido intuido en los tiempos de la “Phalène”, es decir, la posibilidad de cambiar de vida para «cambiar la vida». Tal como indica Deguy: toda la preparación de la phalène y la Amereida no está destinada a otra cosa que a la fundación de la “Ciu-…",
+               "zh" : "无论是“阿梅雷伊达”这次远行，还是作为诗的书，都使“Phalène”时期已经被直觉到的东西得以落实，也就是说，改变自己的生活以“改变生活”的可能性。正如德吉所指出的：phalène 和“阿梅雷伊达”的全部准备，除“开放城市”的创立之外，并无其他目的……"
+            },
+            {
+               "en" : "⁸ Amereida volume I, page 25.",
+               "es" : "⁸ Amereida volumen primero, página 25.",
+               "zh" : "⁸ 《阿梅雷伊达》第一卷，第25页。"
+            },
+            {
+               "en" : "⁹ “For Europe the Golden age is a utopia, but we have it presently” Amereida volume I, page 163.",
+               "es" : "⁹ «La edad de oro para Europa es una utopía / pero nosotros la tenemos presente» Amereida, página 163.",
+               "zh" : "⁹ “对欧洲而言，黄金时代是一个乌托邦／但我们却把它保持在眼前”，《阿梅雷伊达》第一卷，第163页。"
+            },
+            {
+               "en" : "¹⁰ “of what will Amereida be the donor?” Amereida volume I, page 182.",
+               "es" : "¹⁰ «¿de qué será donadora Amereida?» Amereida volumen primero, página 182.",
+               "zh" : "¹⁰ “‘阿梅雷伊达’将赠予什么？”《阿梅雷伊达》第一卷，第182页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch008",
+         "img" : 9,
+         "left" : "16",
+         "loose" : [],
+         "pages" : "16-17",
+         "right" : "17",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "……ding of the “Ciudad Abierta”. For François Fédier the impulse is even clearer: “Amereida was done and then what, were we going to other places to keep doing it? No, we were going to try to see there if it could be done”. The Ciudad Abierta, initiated in 1970 in the sandy terrains of Ritoque, inaugurates a dimension in which poetry and crafts are interconnected with life, generating a poetic that, beyond a mystifying vision of America and the “function” of poetry, tackles from “poesis” Hölderlin’s phrase “poetically man dwells on this Earth”. That is to say the poetic dimension is open; it doesn’t function as a law or a methodology that confers, through an unknown route, to the works a poetic sense “per se”, a-temporal and transcendental.",
+               "es" : "……dad Abierta”. Para François Fédier, el impulso es aún más claro: «se hizo la Amereida y después qué, ¿íbamos a ir a otras partes a seguir haciéndola? No, íbamos a tratar de ver ahí mismo si se podía hacer». La Ciudad Abierta, iniciada en 1970 en los terrenos arenosos de Ritoque, inaugura una dimensión en la que la poesía y los oficios se cruzan con la vida, generando una poética que, más allá de una visión mitificadora de América y la “función” de la poesía, aborda desde la “poesis” la sentencia de Hölderlin: «poéticamente habita el hombre esta tierra». Esto quiere decir que la dimensión poética es abierta; no funciona como una ley o una metodología que confiere, por no se sabe qué vía, a las obras un sentido poético “per se”, a-temporal y trascendente.",
+               "zh" : "……“开放城市”。对弗朗索瓦·费迪耶来说，这一冲动更加清楚：“阿梅雷伊达做完了，然后呢？我们要去别处继续做它吗？不，我们要试着就在那里看看它是否能被做出来。”开放城市于1970年在里托克的沙地上启动，开启了一个维度：诗歌与技艺在此与生活交汇，生成一种诗学；这种诗学不再把美洲和诗歌的“功能”神话化，而是从“poesis”（创制/诗性制作）出发，处理荷尔德林的那句话：“人诗意地栖居在这片大地上。”这就是说，诗性维度是开放的；它并不像一条法则或一种方法论那样，通过某种不可知的途径，赋予作品一种“自在的”、非时间性的、超越性的诗意。"
+            },
+            {
+               "en" : "A genealogy as the one that has been done here doesn’t look for anything other than briefly presenting some of the elements that allow for approaching the artistic fact that is “Amereida”, with its prologues and developments. However the epilogue does not exist, just as Amereida and the Ciudad Abierta do not try to conclude or get to a final utopic state. It’s more about an “event” without future, without a goal or successful achievement of a historic project, and this is possible perhaps because of the inescapable condition of all crafts, which is to keep “the unknown” open.",
+               "es" : "Una genealogía como la que aquí se ha hecho no busca otra cosa que presentar resumidamente algunos de los elementos que permiten aproximarse a este hecho artístico que es la Amereida, con sus prólogos y desarrollos. Sin embargo, el epílogo no existe, en la medida en que Amereida y la Ciudad Abierta no buscan concluir o llegar a un estado final utópico; se trata más bien de un “acontecimiento” sin futuro, sin una meta o el cumplimiento exitoso de un proyecto histórico, y esto es posible quizás porque no se separa de aquella condición ineludible de todo oficio, que es la de permanecer abierta al “desconocido”.",
+               "zh" : "这里所做的这样一种谱系，不过是想简要呈现一些要素，使人得以接近“阿梅雷伊达”这一艺术事实，连同它的序言与发展。然而，尾声并不存在，因为阿梅雷伊达和开放城市并不寻求收束，也不寻求抵达某个乌托邦式的最终状态；它更像是一个没有未来的“事件”，没有目标，也没有某个历史计划的成功完成；而这之所以可能，也许是因为它没有脱离一切技艺不可回避的条件：对“未知”保持开放。"
+            },
+            {
+               "en" : "Note: The French philosopher François Fédier actively participated in the Ciudad Abierta, attending its “opening” and undertaking journeys there during these years.",
+               "es" : "Nota: El filósofo francés François Fédier participó activamente en la Ciudad Abierta, asistiendo a su “apertura” y realizando viajes a ella durante estos años.",
+               "zh" : "注： 法国哲学家弗朗索瓦·费迪耶曾积极参与开放城市，出席其“开启”，并在这些年间多次前往那里。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch018",
+         "img" : 10,
+         "left" : "18",
+         "loose" : [],
+         "pages" : "18-19",
+         "right" : "19",
+         "section" : {
+            "en" : "18 The Invention of a sea/Victoria Jolly",
+            "es" : "",
+            "zh" : "18 《海的发明》/ 维多利亚·霍利"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "The invention of a sea was at first the name that formed the body of an exhibition that we realised in 2017 at the Matta Hall in the Fine Arts Museum in Santiago, and in the Visual Arts Hall in the Parque Cultural de Valparaíso, Chile.",
+               "es" : "La invención de un mar fue primero el nombre que le dio cuerpo a una exposición que realizamos en la sala Matta del Museo Nacional de Bellas Artes y en la sala de Artes Visuales del Parque Cultural de Valparaíso, en Chile, durante el 2017.",
+               "zh" : "《海的发明》最初是一个展览的名字，这个展览为一次展览赋予了实体；2017年，我们在智利圣地亚哥国家美术博物馆的马塔厅，以及瓦尔帕莱索文化公园的视觉艺术厅举办了这次展览。"
+            },
+            {
+               "en" : "The aim of the exhibition was to present Amereida, the name given by its participants to the action-journey they undertook in 1965, travelling by car from Tierra del Fuego to Santa Cruz de la Sierra in Bolivia. The group named or proclaimed this city to be the poetic capital of America, «as it was here that the two rhythms of the American inland sea were united», a ground where the pampas end and the jungle begins and continues until the Caribbean. Although they never managed to arrive as far as that, the city nevertheless orientated the totality of their adventure. The trajectory of the voyage consisted in following the meridian of the Southern Cross, longitudinally traversing the centre of the continent. Until then, America had been populated at its borders while the inland sea (mar interior) remained uninhabited; an unknown which, for the sake of the journey, was a necessary encounter.",
+               "es" : "Se trataba de presentar La Amereida, como llamaban sus participantes al viaje-acción realizado en camioneta en el año 1965 desde Tierra del Fuego hacia Santa Cruz de la Sierra, en Bolivia. Ciudad que fue nombrada o proclamada por el grupo capital poética de América, «ya que allí se unían los dos ritmos del mar interior americano», un suelo donde cesa la pampa y se inicia la selva hasta el Caribe, a la cual nunca lograron llegar; sin embargo, orientó el total de su aventura. El trayecto de este viaje consistía en seguir el meridiano de la Cruz del Sur, para así atravesar longitudinalmente el centro del continente. América hasta entonces había sido poblada por sus bordes mientras que su mar interior permanecía despoblado; un desconocido, aquel que para la travesía era necesario ir a su encuentro.",
+               "zh" : "展览意在呈现“阿梅雷伊达”——这是参与者对1965年那次乘卡车从火地岛前往玻利维亚圣克鲁斯-德拉谢拉的“行动—旅行”的称呼。这个城市被该团体命名或宣布为美洲的诗意首都，“因为美洲内海的两道节奏在那里汇合”；那是一片土地，潘帕斯草原在那里终止，丛林开始并一直延伸到加勒比。虽然他们从未抵达那里，这座城市却引导了他们整场冒险。这次旅行的路线在于沿着南十字座的子午线，纵向穿过大陆中部。在此之前，美洲一直只在其边缘被人居住，而它的内海却荒无人烟；那是一个未知之地，而这次远行必须前去与它相遇。"
+            },
+            {
+               "en" : "Unable to use the fixed route and subsequently deviating their direction, the group of Latin-American and European artists travelled as navigators, further away from the coast, with no itinerary or target distance to complete, instead making the journey itself part of the destiny of the voyage. The journey was formed by having an open course ahead of every departure. The Amereidiantrap was inaugurating an extension and a vision from the acts that geography and time of leave detonate. The poetic word being incessant, continually crossing them, giving no importance to circumstances or places, brought with it a rite that demands departure and not permanence. «The phalène never ceases to recommence or rather to be in its commencement, I do not notice a state but only a departure»².",
+               "es" : "Privados de una ruta fija y desviándose de su aguja, el grupo de artistas latinoamericanos y europeos viajaba como los navegantes alejándose de la costa, sin un itinerario o distancia que cumplir sino más bien haciendo parte del destino del viaje el recorrido mismo. El camino consistía en seguir partiendo cada vez manteniendo el rumbo abierto. La trapa amereidiana inauguraba una extensión y una visión desde los actos que la geografía y el tiempo del ir detonan. La palabra poética incesante, atravesándolos continuamente sin importar las circunstancias o lugares, llevaba consigo un rito que demanda una partida y no así la permanencia. «La phalène no deja de recomenzar o más bien de estar en su comienzo, no noto un estado, tan sólo un partir»².",
+               "zh" : "由于没有固定路线，并偏离了罗盘指针，这群拉丁美洲与欧洲艺术家像航海者一样远离海岸旅行；没有要完成的行程或距离，而是让路途本身成为旅行命运的一部分。道路在于每次继续出发，并保持航向开放。阿梅雷伊达式的“trapa”（原文如此，疑为 travesía“远行”）开创了一种广延和一种视角，它来自地理与“去”的时间所引爆的行动。不停息的诗歌词语不断穿过他们，不管境况或地点，随身带着一种仪式：它要求出发，而非停留。“phalène 不断重新开始，或更准确地说，始终处于它的开端；我注意到的不是一种状态，而只是一次出发。”²"
+            },
+            {
+               "en" : "It was this way that the poet Godofredo Iommi, on the way to Cerro Varela, asked Fabio Cruz to stop the car. They had been on the road for over fifteen long hours, getting repeatedly stuck on sand-banks along the way. After a failed attempt to spend the night at the El Recuerdo estancia, in Nahuel-Mapá, they repair the gas tank and lose their way in the middle of the night; taken for hunters, masons or a university delegation, they crossed the black pampas «submerged and imprisoned as in a deep, flowery seabed»³. It has just gone past three in the morning; Iommi exclaims «here!». Directing himself towards the sculptor Henri Tronquoy, he asks him to locate the star that they had confused with Aldebarán just a short while before. They all step out of the car. At the edge of the road, the sculptor Claudio Girola starts cutting out small bronze disks. Tronquoy, «lifting his gaze again and again towards the stars—as if he was orientating himself»⁴, pins three nails and one rod onto the disk. The artwork is quick and silent. Fabio illuminates the sign with the car headlights, Godo remains silent, calls out some words and soon restores his silence until, turning, he utters «let’s go!». The action is finalised with a few words from Edison Simons, from Panama. The long silence of the act remained for hours inside the car.",
+               "es" : "Fue así como el poeta Godofredo Iommi, camino a Cerro Varela, le pide a Fabio Cruz detener el auto. Luego de más de quince horas continuas de viaje, varias atascaduras en los bancos de arena, el intento fallido de pasar la noche en la estancia El Recuerdo de Nahuel-Mapá, reparar el estanque de bencina y perder la huella principal en la mitad de la noche; confundidos por cazadores, albañiles o una delegación universitaria, atravesaban la pampa negra «sumergidos y aprisionados como en el fondo florido de un mar»³. Pasadas las tres de la madrugada Iommi dice «¡aquí!» y dirigiéndose al escultor Henri Tronquoy le pide ubicar la estrella que poco antes habían confundido con Aldebarán. Se bajan todos del auto y en el borde del camino el escultor Claudio Girola comienza a cortar pequeñas láminas de bronce; Tronquoy, «levantando una y otra vez la vista hacia las estrellas —como orientándose—»⁴, clava tres estacas y una varilla. La obra es rápida y silenciosa. Fabio alumbra el signo con el auto, Godo permanece en silencio, exclama unas palabras y luego vuelve al silencio hasta que, girando, dice «¡vamos!». La acción finaliza con unas palabras del poeta panameño Edison Simons. El largo silencio del acto permaneció horas en el interior del auto.",
+               "zh" : "就这样，诗人戈多弗雷多·约米在前往瓦雷拉山的路上，请法比奥·克鲁斯停车。此前他们已连续旅行十五个多小时，多次陷在沙洲里，试图在纳韦尔-马帕的“记忆”庄园过夜却未成功，修了汽油箱，又在半夜丢失了主车辙；他们被误认为猎人、泥瓦匠或大学代表团，穿过黑色潘帕斯草原，“像沉入并困在一片开满花的海底”³。凌晨三点过后，约米说“就在这里！”，并转向雕塑家亨利·特龙凯，让他找到刚才被他们误认成毕宿五的那颗星。所有人都下车；在路边，雕塑家克劳迪奥·吉罗拉开始切割小青铜片。特龙凯“一次又一次抬头望向星星——像是在辨明方向——”⁴，钉下三根木桩和一根金属杆。作品很快完成，悄无声息。法比奥用车灯照亮这个符号，戈多保持沉默，喊出几个词，随后又回到沉默，直到转身说“走吧！”。行动以巴拿马诗人爱迪生·西蒙斯的几句话结束。行动那漫长的沉默在车内持续了数小时。"
+            },
+            {
+               "en" : "That stretch of journey had been reclaimed many times before by the Argentinian poet, but with the risk of losing their way again and with the hope that the geography would repeat its landscape further ahead, the truck was not stopped. Whoever was…",
+               "es" : "Ese ancho de camino fue reclamado por el poeta argentino repetidas veces antes, pero en el riesgo de perder nuevamente la huella y con la esperanza de que la geografía repitiera su paisaje más adelante, la camioneta no se detenía. Quien manejaba en ese…",
+               "zh" : "那段路此前曾被这位阿根廷诗人多次要求停车，但由于有再次丢失车辙的风险，也抱着地理会在前方重复其风景的希望，卡车没有停下。当时开车的人……"
+            },
+            {
+               "en" : "¹ Various authors, Amereida vol. II, 1986, p. 198.",
+               "es" : "¹ Varios autores, Amereida vol. II, 1986, p. 198.",
+               "zh" : "¹ 多位作者，《阿梅雷伊达》第二卷，1986年，第198页。"
+            },
+            {
+               "en" : "² François Fédier, Diary 10 August 1965, p. 111.",
+               "es" : "² François Fédier, Diario 10 agosto 1965, p. 111.",
+               "zh" : "² 弗朗索瓦·费迪耶，《日记》，1965年8月10日，第111页。"
+            },
+            {
+               "en" : "³ Various authors, Amereida vol. II, 1986, p. 185.",
+               "es" : "³ Varios autores, Amereida vol. II, 1986, p. 185.",
+               "zh" : "³ 多位作者，《阿梅雷伊达》第二卷，1986年，第185页。"
+            },
+            {
+               "en" : "⁴ Various authors, Amereida vol. II, 1986, p. 186.",
+               "es" : "⁴ Varios autores, Amereida vol. II, 1986, p. 186.",
+               "zh" : "⁴ 多位作者，《阿梅雷伊达》第二卷，1986年，第186页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch018",
+         "img" : 11,
+         "left" : "20",
+         "loose" : [],
+         "pages" : "20-21",
+         "right" : "21",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "⁷ Varios autores, Amereida vol. II, 1986, p. 179.",
+               "zh" : "⁸ 原文只给出编号，脚注内容未提供。"
+            },
+            {
+               "en" : "…driving in that moment carried the mission of moving on with nine passengers through the middle of the pampas, arriving just after dawn in the city of San Luis. However, in order not to deter their progress any more, the vegetation in the exterior was transforming between the nocturnal bushes; and it was at the appearance of an undulated plateau that gave a respite to that route, when Godo, already rather uncomfortable, again claimed liberty without option. There was no choice but not to continue, and he gave the indications to the place. «At a certain moment, one of us, to the amazement of the others said: There!»⁵. This word made the practice begin for everyone, no turning back. Crossing the countryside, being alert to the signals of the place, the experience of signalling, entwining word and action, all put the extension into manifest; the earth then ceased to be mere geography. As Claudio Girola later said, the event in the crossing becomes the chantier and everyone becomes that chantier. The plastic sign that they left there, placed in the land, was not left as a trace, a monument or a ruin in the hope of being rediscovered and found in a near future by others, but instead consisted in that which gave form to a present, «present for the hands that after executing the sign, continue trembling»⁶, for when it touches, it opens.",
+               "es" : "…momento llevaba consigo la misión de avanzar con nueve pasajeros por la mitad de la pampa para llegar pasada la madrugada a la ciudad de San Luis. Sin embargo, en la medida que no detenían su paso la vegetación del exterior se transformaba entre los matorrales nocturnos; fue entonces al aparecer una meseta ondulada que le daba un respiro a esa ruta, cuando Godo, ya un tanto incómodo, reclama nuevamente esa libertad sin opción; no cabía escoger continuar, e indica el lugar. «En cierto momento, uno de nosotros, ante el asombro de los demás dice: ¡Ahí!»⁵; esa palabra hacía comenzar una práctica entre todos sin tener vuelta atrás. A campo traviesa y atentos a las señales del lugar, la experiencia de signar anudando verbo y acción ponían de manifiesto la extensión; la tierra entonces dejaba de ser sólo mera geografía. Como luego relata Claudio Girola, el acontecimiento en la travesía se vuelve chantier y todos se vuelven ese chantier. El signo plástico que dejaban ahí emplazado en la tierra no se dejaba a modo de huella, monumento o ruina a la espera de ser redescubierta en un futuro cercano por otros, sino que consistía en aquello que le daba forma a un presente, «presente para las manos que después de ejecutar ese signo siguen temblando»⁶, pues cuanto éste toca abre.",
+               "zh" : "……当时开车的人肩负着任务：载着九名乘客穿过潘帕斯草原中部，以便在凌晨过后抵达圣路易斯城。然而，随着他们不停前行，外面的植被在夜色中的灌木之间不断变换；就在这时，一片起伏的高原出现，让这条路有了一点喘息之机；戈多此时已有些不适，再次要求那种没有选择余地的自由：已经不容选择继续前行，于是他指明了地点。“某一刻，我们中的一个人在其他人的惊讶中说：‘就在那里！’”⁵这句话让所有人开始了一种实践，再也没有回头路。越野而行，注意地方的信号，那种把词语和行动结在一起的标记经验，使广延显现出来；土地于是不再只是单纯的地理。正如克劳迪奥·吉罗拉后来所述，远行中的事件变成了“chantier”（工地），所有人也变成了那个工地。他们留在那里、安置在土地上的造型符号，并不是作为痕迹、纪念碑或废墟留下，等待未来被他人重新发现，而是给一个当下赋予形式，“一个为那些在执行该符号之后双手仍在颤抖的人而存在的当下”⁶，因为凡它所触及的，都会打开。"
+            },
+            {
+               "en" : "The works raised by artists and poets in the middle of the grassland directed the view towards the Southern Cross, which was eventually to be named the Pole star. This constellation, which was visible from the middle of the pampas, marked on the horizon the geographical and poetic South, or the North of Amereida. The journey was traced by the rhythm of the invisible attractions of the acts that each of the participants detonated. And the signs formed a trail left behind in their interior sea.",
+               "es" : "Los trabajos levantados por plásticos y poetas en medio del pastizal conducían la vista hacia la Cruz del Sur, a la que luego llamarían estrella Polar. Esta constelación signada en medio de la pampa marcaba en el horizonte el Sur geográfico y el Sur poético o propio Norte de Amereida. El viaje se trazaba por el ritmo de las atracciones invisibles de los actos, que cada uno de los participantes detonaba. Y los signos formaban una estela en su mar de dentro que iban dejando atrás.",
+               "zh" : "造型艺术家和诗人在草地中间竖立的作品，把视线引向南十字座——后来他们称它为北极星。这个被标记在潘帕斯草原中央的星座，在地平线上标出了地理的南方，以及阿梅雷伊达的诗性南方，或曰它自己的北方。旅行由行动那不可见的吸引力的节奏勾勒出来，而每一个参与者都引爆了这些行动。那些符号在他们一路留在身后的内海上形成一道尾迹。"
+            },
+            {
+               "en" : "But this journey with no instruments —blind but not mute— permitted vacillation as well as failure as part of the ordeal, and this too would trace the path. The day before the route towards the desert of the pampas was amended and the star was signalled, the group decided not to pass through Buenos Aires and were inclined to pass through the interior. This decision was taken near General Acha in a moment of razor-sharp tension and tainted by the actions realised during the four days between the 26th and 29th of August in the village of Puelches. This was aptly described in the writings of the participants and the correspondences from Europe to Valparaíso, in a description of a discussion or rather a hearing of the mise en question of the voyage in the middle of the saltpetre; provoked by distance or emptiness of having abandoned a light that was known to everyone as “Patagónica para las artes” [Patagonics for the arts] in the camps of Bajos de Santa Rosa. After certain events including the inauguration of a public school, a puppet-show, raising the flag and readings in the homestead near the bridge over a river that had been dry for years, «Puelches was a limit of Phalène but we did not obey our calculations, what we did was a mere chant to the existing»⁷. As part of the activities that were realised, the architect Alberto Cruz painted a mural onto one of the walls of the school, which told the history of the village and the project of a plaza, which was one of the acts prepared for the last day. «Our failure in a complex situation like that of Puelches indicates that we should reduce ourselves to our limits. It is a proposition to continue through the desert. We told Puelches that they should stay but perhaps they should leave»⁸.",
+               "es" : "Pero este viaje sin instrumentos —a ciegas, que no mudo— permitía tanto la vacilación y el fracaso como parte del asunto y que esto también trazara la ruta. Justamente el día antes de enmendar rumbo hacia el desierto de la pampa y signar la estrella, decidieron dejar fuera el paso por la ciudad de Buenos Aires e inclinarse por el interior. La decisión se tomaba cerca de General Acha con la tensión al filo de un cuchillo y teñidos por los actos realizados durante cuatro días entre el 26 y 29 de agosto en el pueblo de Puelches. Como bien relatan las bitácoras escritas por sus participantes y la correspondencia desde Europa a Valparaíso, donde se describe a una ronda que discutía o más bien oía la mise en question de la travesía en medio del salitral; provocada por la distancia o vacío de haber abandonado una luz que decían entre todos “Patagónica para las artes” en los campamentos de Bajos de Santa Rosa. Luego de hacer el acto de inauguración de una escuela pública, una obra de títeres, izar la bandera y realizar lecturas en el caserío cerca del puente de un río que permanecía sin agua durante años, «Puelches fue un colmo de Phalène pero nosotros no obedecimos a nuestro cálculo, lo que hicimos fue un mero canto a lo existente»⁷. El arquitecto Alberto Cruz, como parte de las actividades allí realizadas, pintaba en una de las paredes de la escuelita la historia del pueblo y el proyecto de una plazoleta para el lugar, que era parte de los cuatro actos preparados para el último día. «Nuestro fracaso ante una situación compleja como la de Puelches nos indica que debemos reducirnos a nuestros límites. Propone que se siga por el desierto. Nosotros dijimos a los de Puelches que debían quedarse pero tal vez debían irse»⁸.",
+               "zh" : "但这次没有仪器的旅行——盲目，却不沉默——允许犹疑和失败作为事情的一部分，也让这些同样勾勒出路线。恰恰在修正方向、转向潘帕斯沙漠并标记那颗星的前一天，他们决定排除经过布宜诺斯艾利斯城，选择走内陆。决定是在阿查将军镇附近作出的，当时紧张如刀锋，并受到8月26日至29日四天里在普埃尔切斯村所做行动的影响。正如参与者写的日志以及从欧洲寄往瓦尔帕莱索的通信所清楚叙述的那样：那里描述了一圈人讨论，或者更确切地说，倾听对这次远行的质疑，地点就在盐碱地中间；这种质疑由距离或空虚引发——他们放弃了大家共同称为“为艺术的巴塔哥尼亚”的光，那是在巴霍斯-德圣罗莎的营地里。在举行一所公立学校的落成行动、木偶戏、升旗，并在小村落里朗诵之后——那村落靠近一座桥，桥下的河多年来一直没有水——“普埃尔切斯是Phalène的极点，但我们没有服从我们的计算，我们所做的只是对现存之物的一次单纯歌唱”⁷。建筑师阿尔贝托·克鲁斯作为那里所进行活动的一部分，在学校的一面墙上画了村庄的历史，以及为这个地方设计的小广场方案；这是为最后一天准备的四个行动之一。“我们在像普埃尔切斯这样复杂处境中的失败表明，我们必须缩小到自己的限度。他提议继续穿过沙漠。我们告诉普埃尔切斯的人，他们应该留下，但也许他们应该离开。”⁸"
+            },
+            {
+               "en" : "⁵ François Fédier, Diario 21º August 1965, p. XIX.",
+               "es" : "⁵ François Fédier, Diario 21º agosto 1965, p. XIX.",
+               "zh" : "⁵ 弗朗索瓦·费迪耶，《日记》，1965年8月21日，第XIX页。"
+            },
+            {
+               "en" : "⁶ Claudio Girola, Experiencia Americana, 1969.",
+               "es" : "⁶ Claudio Girola, Experiencia Americana, 1969.",
+               "zh" : "⁶ 克劳迪奥·吉罗拉，《美洲经验》，1969年。"
+            },
+            {
+               "en" : "⁷ Various authors, Amereida vol. II, 1986, p. 179.",
+               "zh" : "⁷ 多位作者，《阿梅雷伊达》第二卷，1986年，第179页。"
+            },
+            {
+               "en" : "⁸ Note content not provided in the source.",
+               "zh" : "⁸ 原文只给出编号，脚注内容未提供。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch018",
+         "img" : 12,
+         "left" : "22",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "y del gigante⁹"
+            },
+            {
+               "lang" : "en",
+               "text" : "¹¹ Varios autores, Amereida vol. II, 1986, p. 203."
+            },
+            {
+               "lang" : "en",
+               "text" : "and of the giant⁹"
+            }
+         ],
+         "pages" : "22-23",
+         "right" : "23",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "What really was that poetic calculation to which everyone was called to participate and that, in Puelches, they had betrayed?",
+               "es" : "¿Cuál era realmente ese cálculo poético al cual estaban todos llamados a participar y que en Puelches habían traicionado?",
+               "zh" : "那个诗性计算究竟是什么？所有人都被召唤去参与它，而他们在普埃尔切斯却背叛了它。"
+            },
+            {
+               "en" : "only the earth is consoled",
+               "es" : "sólo se consuela la tierra",
+               "zh" : "只有土地得到安慰"
+            },
+            {
+               "en" : "only ground is achieved taking care from the abyss",
+               "es" : "sólo se logra suelo cuidando de abismo",
+               "zh" : "只有照料深渊才能获得地面"
+            },
+            {
+               "en" : "it is only the ground that guards the abyss",
+               "es" : "sólo es suelo lo que guarda el abismo",
+               "zh" : "只有守护深渊的才是地面"
+            },
+            {
+               "en" : "that which gives space to irruption",
+               "es" : "lo que da cabida a la irrupción",
+               "zh" : "它给突入以容身之处"
+            },
+            {
+               "en" : "and proportion to the trance",
+               "es" : "y proporción al trance",
+               "zh" : "给迷狂以比例"
+            },
+            {
+               "en" : "to be in trance is to live with wonder a shock of rupture",
+               "es" : "estar en trance es vivir con asombro un choque de ruptura",
+               "zh" : "处于迷狂，就是带着惊奇经历一次断裂的冲击"
+            },
+            {
+               "en" : "and an escape of abyss it is to be witnesses from this contiguity of violence",
+               "es" : "y un arranque de abismo es ser testigos de esta contigüidad de la violencia",
+               "zh" : "而一次深渊的猛然跃出，就是见证暴力与巨人的这种毗邻⁹"
+            },
+            {
+               "en" : "If the abyss measures the exact unfathomable distance whose end we can never see and America, as the poem of Amereida sings, has destiny when its irruption and emergency are present, all the actions that do not demand to transgress what we “know how to do”, remain conclusive and are the exact opposite of beginning, or that which “we-do-not-know” to discover, meet, and therefore open.",
+               "es" : "Si abismo es justamente aquella distancia insondable en la que nunca podemos ver su término y América, como canta el poema de Amereida, tiene destino cuando tiene presente su irrupción y su emergencia, todas aquellas acciones que no exigen atravesar lo que “sabemos-hacer” quedan conclusas y partir es justamente hacer lo contrario, aquello que “no-sabemos” para hallar, encontrar, entonces abrir.",
+               "zh" : "如果深渊恰恰是那种深不可测的距离，我们永远看不到它的终点；而美洲，正如《阿梅雷伊达》这首诗所歌唱的，当它的突入与涌现在场时便拥有命运——那么，所有那些不要求穿越“我们知道怎么做”的行动，都仍然是封闭的；而出发恰恰是做相反的事，去做那个“我们不知道”的事，以便寻得、找到，于是打开。"
+            },
+            {
+               "en" : "Long before the crisis of the saltpetre, ten days into the journey while half the group was agitated, after the presentation in Río Gallegos they were already discussing ways to elude «the cultural, this true contemporary sickness, this true falsification»¹⁰. We could consider, then, that all the activities were a false step or a retrogression within the journey, since in it there is no risk nor adventure, only presentations and descriptions. However, stripped of hope and meaning, the failed acts also acted as a compass throughout the voyage. It was not a question of bringing, fitting or engaging Patagonia to the rhythm of the group, but to be her prey.",
+               "es" : "Mucho antes de la crisis del salitral, a diez días de viaje, con la mitad del coro molesto, después de la presentación en Río Gallegos, ya discutían por la forma de eludir «lo cultural, esta verdadera enfermedad contemporánea, esta verdadera falsificación»¹⁰. Podríamos considerar entonces todas estas actividades como un paso en falso o un retroceso dentro del viaje, puesto que en ellas no hay riesgo ni aventura, sólo presentaciones y descripciones. Sin embargo, despojados de la esperanza y el significado, los actos fallidos también fueron brújula durante el trayecto. No se trataba de llevar, calzar o cazar la Patagonia al ritmo del conjunto, sino de ser presa de ella.",
+               "zh" : "早在盐碱地危机之前，旅行第十天，一半人已经烦躁不安；在里奥加耶戈斯的那场展示之后，他们已经在讨论如何避开“文化的东西，这种真正的当代疾病，这种真正的伪造”¹⁰。那么我们或许可以把所有这些活动视为旅行中的一次失足或倒退，因为其中没有风险，没有冒险，只有展示和描述。然而，被剥去希望和意义之后，那些失败的行动在旅途中也成了指南针。问题不在于把巴塔哥尼亚带到、套上或猎取到集体的节奏里，而在于成为它的猎物。"
+            },
+            {
+               "en" : "After a month and a half, the Voyage of Amereida came to an end on Monday 13th of September, 1965, in Bolivia: «the voyage of Amereida has finished. Now, we travel but not on a voyage»¹¹. For the first time, the group decided to take asphalt roads in order to return to the city of Mendoza with no deterrence, then cross the Andes.",
+               "es" : "Luego de un mes y medio en ruta, la Travesía de Amereida ponía su fin el lunes 13 de septiembre de 1965 en Bolivia: «la travesía de Amereida ha terminado. Ahora viajamos pero no en travesía»¹¹. El grupo decide por primera vez tomar las rutas asfaltadas para regresar a la ciudad de Mendoza sin detenciones y cruzar la Cordillera.",
+               "zh" : "在路上一月半之后，“阿梅雷伊达远行”于1965年9月13日星期一在玻利维亚结束：“阿梅雷伊达的远行已经结束。现在我们旅行，但不是在远行中。”¹¹团体第一次决定走柏油路，不停留地返回门多萨城，并翻越安第斯山脉。"
+            },
+            {
+               "en" : "Two years later (1967), Godofredo Iommi published the common book Amereida, composed of fragments of all the writings and poems made throughout the journey. The only images that accompanied them were ten personal, hand-drawn maps.",
+               "es" : "Dos años más tarde (1967), Godofredo Iommi publica el libro común Amereida, compuesto por fragmentos de todas las bitácoras y poemas realizados durante el viaje. Las únicas imágenes que lo acompañan son diez mapas dibujados a mano alzada.",
+               "zh" : "两年后（1967年），戈多弗雷多·约米出版了共同的书《阿梅雷伊达》，由旅途中写下的所有日志和诗篇的片段组成。书中仅附有十幅手绘地图。"
+            },
+            {
+               "en" : "It was at a roundtable discussion in 2015 at the Hospedería de los Diseños (where we lived), while talking with pilot and architect Miguel Eyquem about the origins of the Open City (Ciudad Abierta) and its relation to Art, that he encouraged us to go to France in order to discuss with the European live trap [trapa] about the Journey of Amereida, this time without intermediaries. That was how we made contact and then held initial dialogues with the philosopher François Fédier, who hand-delivered a closed envelope on which was written: «All my photographs of Amereida donated for the archives of the Ville Ouverte». This archive did not exist and he inaugurated it with this gesture. This envelope contained the original negatives of 300 photographs of the journey… a thickness of time that returned 50 years later. The route then turns and begins a journey making the opposite path…",
+               "es" : "Fue el 2015, en una sobremesa en la Hospedería de los Diseños, donde vivimos, mientras discutíamos con el piloto y arquitecto Miguel Eyquem sobre los orígenes de la Ciudad Abierta y su relación con el Arte, cuando él nos incita a partir a Francia a conversar con la trapa europea viva de la Travesía de Amereida, esta vez sin intermediarios. Así, establecemos contacto y luego de unos primeros diálogos con el filósofo François Fédier, éste envía por mano un sobre cerrado, que llevaba escrito: «Todas mis fotografías de La Amereida donadas para los archivos de la Ville Ouverte». Archivo que no existía y él inauguraba en ese gesto. Dicho sobre contenía los negativos originales de 300 fotografías del viaje realizado el 65, un espesor de tiempo que volvía 50 años después. La ruta gira entonces y comienza un trayecto haciendo el camino opuesto…",
+               "zh" : "2015年，在我们居住的“设计者客栈”的一次饭后闲谈中，我们正与飞行员兼建筑师米格尔·艾克姆讨论开放城市的起源及其与艺术的关系，他鼓励我们去法国，与“阿梅雷伊达远行”仍然在世的欧洲“trapa”（原文如此，疑为 travesía“远行”）交谈，这一次不要中间人。于是我们建立了联系；在与哲学家弗朗索瓦·费迪耶初步对话之后，他亲手交来一个封闭的信封，上面写着：“我所有关于《阿梅雷伊达》的照片，捐赠给‘开放城’的档案。”这个档案此前并不存在，而他以这一举动开启了它。该信封里装有1965年那次旅行的300张照片的原始底片，一种时间的厚度在50年后重新返回。路线于是转折，开始一段走相反道路的旅程……"
+            },
+            {
+               "en" : "⁸ Various authors, Amereida vol. II, 1986, p. 179.",
+               "es" : "⁸ Varios autores, Amereida vol. II, 1986, p. 179.",
+               "zh" : "⁸ 多位作者，《阿梅雷伊达》第二卷，1986年，第179页。"
+            },
+            {
+               "en" : "⁹ Various authors, Amereida, Chile, Lambda Ediciones, 1967.",
+               "es" : "⁹ Varios autores, Amereida, Chile, Lambda Ediciones, 1967.",
+               "zh" : "⁹ 多位作者，《阿梅雷伊达》，智利，Lambda Ediciones，1967年。"
+            },
+            {
+               "en" : "¹⁰ Various authors, Amereida vol. II, 1986, footnote 18.",
+               "es" : "¹⁰ Varios autores, Amereida vol. II, 1986, nota 18.",
+               "zh" : "¹⁰ 多位作者，《阿梅雷伊达》第二卷，1986年，注18。"
+            },
+            {
+               "en" : "¹¹ Various authors, Amereida vol. II, 1986, p. 203.",
+               "zh" : "¹¹ 多位作者，《阿梅雷伊达》第二卷，1986年，第203页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch018",
+         "img" : 13,
+         "left" : 24,
+         "loose" : [],
+         "pages" : "24-25",
+         "photoOnly" : 1,
+         "right" : 25,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch018",
+         "img" : 14,
+         "left" : "26",
+         "loose" : [],
+         "pages" : "26-27",
+         "right" : "27",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…a stretch of time that returned 50 years later. The route turns then and begins a trajectory, taking the opposite path; the images now returned from the other side of the Atlantic. And with them, a testimony was opened of the time itself during the journey, although they were not displayed as a verification; rather, they seemed to shorten the time, distancing itself from the legend in order to bring us a world. In all likelihood, that same temporal distance between us and the founders of the Open City, participants of The Amereida, unchained the necessity to directly find oneself with the primary fountain, since the journey that we had orally received in a poem had become part of history and tradition, through time. From here on, the adventure that we have had in front of us is a return to the origin in order to receive it as an invitation to re-create it, in an attempt to awaken the amount of unknown that it brings to us today.",
+               "es" : "…las imágenes volvían ahora desde el otro lado del Atlántico. Y con ellas se abría un testimonio del tiempo mismo de la travesía; sin embargo, estas no se mostraban como una verificación, sino que parecían acortar el tiempo, alejándose de la leyenda para traernos mundo. Probablemente esa misma distancia temporal entre nosotros y los primeros fundadores de la Ciudad Abierta, participantes de La Amereida, desencadenó la necesidad de encontrarse directamente con esta primera fuente, ya que el viaje que habíamos recibido oralmente y a través de un poema, con el paso del tiempo se volvió Historia y tradición. Desde aquí la aventura que hemos tenido por delante es la de volver al origen para recibirlo como una invitación a re-crearlo, tratando de despertar la cantidad de desconocido que nos trae hoy.",
+               "zh" : "……这些图像如今从大西洋彼岸返回。随着它们，一份关于远行本身的时间见证被打开了；然而，这些图像并不是作为验证来展示的，它们似乎缩短了时间，远离传说，以便把世界带给我们。也许正是我们与开放城市最初的创建者、即“阿梅雷伊达”参与者之间的这种时间距离，引发了直接与这第一源头相遇的需要；因为我们曾通过口耳相传和一首诗接收到的这次旅行，随着时间流逝变成了历史与传统。从这里开始，摆在我们面前的冒险，就是回到源头，把它作为一次重新创造的邀请来接收，试图唤醒它今天带给我们的那大量未知。"
+            },
+            {
+               "en" : "In a repetition of François Fédier’s gesture of driving out, we decided, firstly, to make an intervention in the spaces of two of the large exhibition halls in Santiago and Valparaíso. Projections of the images onto three-dimensional bodies and the cadence of the music would be alternated in order to give weight and place to a time rather than to the archival object or story. This second moment is no more than a return, now in the form of a book. Not La Amereida Illustrated, nor the diary of the journey, or the official story, or explained poems. Instead, images accompanied by essays with a hand that writes and thinks as it erases, in the hope that they may be extended, or detonate constellations and figures in others.",
+               "es" : "Repitiendo el gesto de François Fédier, de conducir fuera, decidimos primero hacer una intervención en el espacio en dos de las grandes salas expositivas de Santiago y Valparaíso, las que se recorrían entre la proyección de las imágenes sobre cuerpos tridimensionales y la cadencia de la música, para darle espesor y lugar a un tiempo y no al objeto de archivo o la historia. Este segundo momento no es más que devolver eso sobre ahora en forma de libro. Ni La Amereida Ilustrada, ni el diario de un viaje, ni la historia oficial o poemas explicados. Sino imágenes acompañadas de ensayos, con mano que escribe y piensa tachando, esperando que así se extienda o detone constelaciones y figuras en otros.",
+               "zh" : "重复弗朗索瓦·费迪耶“向外驱车”的姿态，我们首先决定在圣地亚哥和瓦尔帕莱索两个大型展厅的空间里做一次介入；人们穿行其间，图像投射在三维身体上，音乐的节律相伴，为的是给一个时间以厚度和位置，而不是给档案物件或历史。这第二个时刻，不过是以书的形式把那个“现在”归还。不是《阿梅雷伊达图解》，不是旅行日记，也不是官方历史或解释过的诗。而是图像伴随随笔，一只手在书写、思考、划掉，希望这样能在他人那里延展或引爆星座与形象。"
+            },
+            {
+               "en" : "This is why Amereida continues. Everywhere where she is explained, she has a PLACE.",
+               "es" : "Es por eso que Amereida continúa y por todas partes donde ella se explica tiene LUGAR.",
+               "zh" : "正因如此，“阿梅雷伊达”继续着；在它得到解释的每一个地方，它都有位置。"
+            },
+            {
+               "en" : "SHE IS THE PLACE!",
+               "es" : "¡ELLA ES EL LUGAR!",
+               "zh" : "它就是那个位置！"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch028",
+         "img" : 15,
+         "left" : "28",
+         "loose" : [],
+         "pages" : "28-29",
+         "right" : "29",
+         "section" : {
+            "en" : "28 Editorial Note/Javier Correa&Victoria Jolly",
+            "es" : "",
+            "zh" : "28 编者说明 / 哈维尔·科雷亚 & 维多利亚·霍利"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "An artistic project like the one described in the two texts that present the book La Amereida and La Invención de un mar encompasses a material and temporal extension that exceeds the journey itself. Because both the fact, its previous history and the series of events that followed, are linked in a type of “continuity” that not only establishes itself from actions but also words, images and lives that have been a part of this adventure.",
+               "es" : "Un proyecto artístico como el que se ha descrito en los dos textos de presentación al libro La Amereida y La Invención de un mar abarca una extensión material y temporal que exceden al viaje mismo. Porque tanto el hecho, su historia previa como los acontecimientos desencadenados después, se encuentran enlazados en una especie de “continuidad” que no solo se establece a partir de acciones sino también de palabras, imágenes y vidas que han sido parte de esta aventura.",
+               "zh" : "像《阿梅雷伊达》和《海的发明》两篇引介文本所描述的那样一个艺术项目，其物质与时间的延展超出了旅行本身。因为无论是这一事实、它此前的历史，还是其后被引发的一系列事件，都连结在一种“连续性”之中；这种连续性不仅由行动建立，也由词语、图像和生命建立——它们都曾是这场冒险的一部分。"
+            },
+            {
+               "en" : "This multiplicity allows us to present Amereida in the different forms in which it manifests itself: as journey, diary, poem, image, etc. All these seem to gain an expositive equity in that they are autonomous and simultaneously they form part of one body. Throughout the investigation we have collected these contributions or forms of Amereida starting from those that are more intimate, such as the manuscript correspondence that belongs to a familiar background of one of the participants of the journeys, to those that are more public, such as hand-drawn maps that represent the continental magnitude of the project or the fragments of the poem of Amereida, book published years after the journey. The diaries of some of the participants evidence the different contributions from the narration of the experience that each of the members had and developed on the way, but that constitute one fragment of a more general compilation that this publication doesn’t expose in its totality. With these testimonies there has been an attempt to deepen into the active character of the journey and the questions that it provokes in its members. This form of registration finds its echo in the texts written especially for the edition, by two of the live participants of Amereida: the philosopher François Fédier and the poet Michel Deguy. Their memories, at over fifty years from the journey, open a reading that makes it possible to contrast on the one hand the experience of the journey and on the other hand the vision that they have today.",
+               "es" : "Esta multiplicidad nos permite presentar Amereida en las distintas formas en que esta se manifiesta: tanto como viaje, bitácora, poema, imagen, etc. Todas estas parecieran cobrar una equidad expositiva en cuanto a que son autónomas y al mismo tiempo forman parte de un solo cuerpo. Hemos recogido a lo largo de la investigación estas contribuciones o formas de Amereida comenzando por aquellas más íntimas, como lo son la correspondencia manuscrita perteneciente a un fondo familiar de uno de los participantes de la travesía, hasta aquellas más públicas, como los mapas dibujados a mano alzada que representan la magnitud continental del proyecto o bien fragmentos del poema de Amereida, libro publicado años después del viaje. Así también las bitácoras de algunos de los participantes dan cuenta de los distintos aportes desde el relato de las experiencias propias que cada uno de ellos iba teniendo y desarrollando en el camino; sin embargo, constituyen solo un fragmento de una recopilación mayor que esta publicación no expone en su totalidad. Se ha querido con estos testimonios profundizar en el carácter activo de la travesía y las preguntas que ella provocaba en sus integrantes. Esta forma de registro encuentra su eco en los textos escritos especialmente para la edición, por dos de los participantes vivos de La Amereida: el filósofo François Fédier y el poeta Michel Deguy. Sus memorias, a más de cincuenta años de la travesía, abren una lectura que hace posible contrastar por una parte la experiencia del viaje y por otra la visión que tienen hoy.",
+               "zh" : "这种多重性使我们能够以“阿梅雷伊达”显现自身的不同形式来呈现它：作为旅行、日志、诗、图像等等。所有这些似乎都获得了一种展示上的平等，因为它们各自自主，同时又构成同一个身体的一部分。在整个研究过程中，我们收集了这些贡献或“阿梅雷伊达”的形式，从最私密的那些开始——比如属于某位远行参与者家族收藏的手写通信——直到更为公开的那些，比如代表项目大陆规模的手绘地图，或《阿梅雷伊达》这首诗的片段，那本书在旅行数年之后出版。同样，一些参与者的日志也记录了各种贡献，来自他们每个人在路上所拥有并展开的自身经验叙述；然而，它们只是一部更大汇编的片段，这部出版物并未完整呈现那部汇编。我们希望借助这些见证，深入远行的主动性格，以及它在成员身上引发的那些问题。这种记录形式在专为本书撰写的文本中得到了呼应，作者是“阿梅雷伊达”两位在世的参与者：哲学家弗朗索瓦·费迪耶和诗人米歇尔·德吉。他们的回忆，在远行五十多年之后，开启了一种阅读，使人得以一方面对照旅行经验，另一方面对照他们今天的看法。"
+            },
+            {
+               "en" : "In terms of the totality of the edited images of La Travesía, they have been shown in a different way to the sequential narration of a journey in which diary, place and photos coincide between them. The photographs, on the other hand, are grouped from the three bigger unities: Action-Sign, Word-Circle and…",
+               "es" : "En cuanto a la totalidad de las imágenes editadas de La Travesía, se han querido disponer de un modo distinto al de la narración secuencial de un viaje donde bitácora, lugar y fotos coinciden entre sí. Las fotografías, en cambio, están agrupadas a partir de tres grandes unidades: Acción-Signo, Palabra-Ronda y…",
+               "zh" : "至于“远行”已编辑图像的整体，我们希望以一种不同于旅行顺序叙述的方式来安排它们——在顺序叙述中，日志、地点和照片彼此对应。相反，照片按三大单元分组：行动—符号、词语—轮舞，以及……"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch028",
+         "img" : 16,
+         "left" : "30",
+         "loose" : [],
+         "pages" : "30-31",
+         "right" : "31",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…Act-Body. Each of these groupings approaches the images from situations that are shared as they are, in the case of the chapter Action-Sign, the works of intervention in a windmill along with the action of painting an abandoned hut in Punta Espora before crossing the Estrecho de Magallanes. Without being the same site, the common ground is the disposition and materialization of the fact [原文作 face], where the action is the manifestation of the act, the mark and the place. In the chapter Word-Circle, a circle in the journey is recounted, that speaks and reflects for itself, be it in the acts and poetic games or detentions during the journey; and in which time is opened by the action that is firstly voice. Finally in the Act-Body, the acts realized are shown together among the participants as well as including people from the place, in this way being only one voice and simultaneously many voices, in which poetry is made by everyone. Finally, the double-page images corresponding to the trajectory or this “going on the way”, as with the maps that travel the totality of the book accompanying the reader in the coming and going from both essays as with the documents. This way of seeing the photographs is accompanied by the contribution of the investigator in literature and art Jens Andermann, who deepens through a text in what still has to be seen in them.",
+               "es" : "…Acto-Cuerpo. Cada una de estas agrupaciones aborda las imágenes a partir de situaciones compartidas como lo son, en el caso del capítulo Acción-Signo, las faenas de intervención en un molino junto con la acción de pintar una caseta abandonada en Punta Espora antes de cruzar el Estrecho de Magallanes. Sin ser este el mismo suelo, lo común es la disposición y materialización del hecho, donde la acción es manifestación del acto, la marca y el lugar. En el capítulo nombrado Ronda-Palabra se da cuenta de una ronda en viaje que habla y reflexiona para sí misma, ya sea en actos y juegos poéticos o detenciones durante el trayecto; y en la que el tiempo es abierto por la acción que es en primer lugar voz. Por último, en la unidad Acto-Cuerpo comparecen juntos los actos realizados entre los participantes como también incluyendo a personas del lugar, en ese modo de ser una sola voz y simultáneamente muchas voces, donde la poesía es hecha por todos. Finalmente, las imágenes a doble página correspondientes al trayecto o este “ir en ruta” que, al igual que los mapas, recorren el total del libro acompañando al lector en la entrada y salida tanto de ensayos como de los documentos. Esta forma de ver las fotografías está acompañada por la contribución del investigador en literatura y arte Jens Andermann, quien profundiza e indaga a través de un texto en lo que todavía hay por ver en ellas.",
+               "zh" : "……行动—身体。这些分组中的每一组，都从共享的情境出发来处理图像；例如在“行动—符号”一章中，就是在磨坊里的介入劳作，以及在穿越麦哲伦海峡之前、在蓬塔埃斯波拉给一座废弃小屋刷漆的行动。尽管并非同一片土地，共同之处在于事实的部署与物质化：行动是行为、印记和地点的显现。在名为“轮舞—词语”的一章中，呈现的是旅途中一圈人的轮舞，它说话并为自己反思，或是在诗歌行动与游戏中，或是在旅途中的停留里；在其中，时间被行动打开，而行动首先是声音。最后，在“行动—身体”单元中，参与者之间所做的行动，以及包括当地人在内的行动，一起出现；它们以那种既是单一声音、同时又是许多声音的方式存在，诗歌由所有人共同创作。最后，与行程或“在路上”相对应的双页图像，像地图一样贯穿整本书，陪伴读者进出随笔和文献。这种观看照片的方式，还伴随着文学与艺术研究者延斯·安德曼的贡献；他通过一篇文章深入探究这些照片中仍然有待观看的东西。"
+            },
+            {
+               "en" : "This ensemble therefore works as a journey without a hierarchy of the author, but privileging the facts and the voice of the participants; where the texts can be read from the images and vice versa. In this way this publication looks to remain a horizon of senses on an artistic act to continue exploring.",
+               "es" : "Todo este conjunto funciona entonces como un recorrido sin una jerarquía de autor, sino privilegiando los hechos y la voz de los participantes; donde los textos pueden ser leídos desde las imágenes y viceversa. De este modo, esta publicación busca permanecer como un horizonte de sentidos sobre un hecho artístico por seguir explorando.",
+               "zh" : "于是，这整个集合就像一次没有作者等级制的行程，而是优先呈现事实和参与者的声音；文本可以从图像来读，反之亦然。这样，这本出版物希望作为一个关于某个艺术事实的意义视域而持续存在，供人继续探索。"
+            },
+            {
+               "en" : "Javier Correa & Victoria Jolly",
+               "es" : "Javier Correa & Victoria Jolly",
+               "zh" : "哈维尔·科雷亚 & 维多利亚·霍利"
+            },
+            {
+               "en" : "Ciudad Abierta, 13 September 2018.",
+               "es" : "Ciudad Abierta, 13 de septiembre 2018.",
+               "zh" : "开放城市，2018年9月13日。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch028",
+         "img" : 17,
+         "left" : 32,
+         "loose" : [],
+         "pages" : "32-33",
+         "photoOnly" : 1,
+         "right" : 33,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch034",
+         "img" : 18,
+         "left" : "34",
+         "loose" : [],
+         "pages" : "34-35",
+         "right" : "35",
+         "section" : {
+            "en" : "34 Letters/Godofredo Iommito Edison Simons",
+            "es" : "",
+            "zh" : "34 通信 / 戈多弗雷多·约米 致 爱迪生·西蒙斯"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Dear Edi, dearest, dearest all,",
+               "es" : "Querido Edi, queridos, queridos todos:",
+               "zh" : "亲爱的埃迪，亲爱的、亲爱的大家："
+            },
+            {
+               "en" : "I received all your letters. From Negrita, yours, some from Deguy (a real book of poems written on the back of postcards and an (2) emotional effigies of Saint-Pol-Roux). I received the texts and the moving tale about the Phalène de Paris. And Pancho’s letters. I am writing to Negrita, to Pancho, to Michel, to Fédier. —To you, so that you exchange letters with the others, I tell you the poem.— Dear, I arrived at America through the Atlantic.",
+               "es" : "Recibí todas vuestras cartas. De Negrita, tuyas, varias de Deguy (un verdadero libro de poemas escrito detrás de las postales y una(2) efigies de Saint-Pol-Roux emocionantes). Recibí los textos y el conmovedor relato de la Phalène de París. Y cartas de Pancho. Escribo a Negrita, a Pancho, a Michel, a Fédier. —A ti, para que intercambies carta con los otros, te cuento la poesía.— Querido, yo llegué a América por el Atlántico.",
+               "zh" : "你们的信我都收到了。有内格丽塔的，有你的，还有德吉的好几封（真像一本写在明信片背面的诗集，还有（2）幅感人的圣波尔·鲁画像）。我收到了那些文本，也收到了关于巴黎“Phalène”的动人叙述。还有潘乔的信。我正在给内格丽塔、潘乔、米歇尔、费迪耶写信。——给你写，是为了让你和其他人通信，我跟你说说诗。——亲爱的，我是经大西洋到达美洲的。"
+            },
+            {
+               "en" : "My first real entry was Minas Gerais, but without Phalène. And Phalène —oh! paradox— is to place and to keep your feet on the ground (the geometer that Pancho discovered). And well, I entered four days ago from where I did not come, through Balboa’s Pacific. —With Claudio and Fabio Cruz we left… (I leave the tale to Claudio).",
+               "es" : "Mi primera real entrada fue Minas Gerais, pero sin Phalène. Y Phalène —oh paradoja— es poner y tener los pies en tierra (el geómetra que descubrió Pancho). Pues bien, he entrado hace cuatro días por donde no vine, por el Pacífico de Balboa. —Con Claudio y Fabio Cruz partimos… (dejo a Claudio el relato).",
+               "zh" : "我真正第一次进入的是米纳斯吉拉斯，但没有“Phalène”。而“Phalène”——哦，悖论——就是把脚放在大地上，并让脚留在大地上（潘乔发现的那个几何学家）。那么好吧，四天前我从我未曾来的方向进入了，经巴尔博亚的太平洋。——我和克劳迪奥、法比奥·克鲁斯出发……（叙述留给克劳迪奥）。"
+            },
+            {
+               "en" : "Things relived: the continual abandoning of the Project. One direction that becomes the opposite brings us to the place. The docility (that the forests awaken —did you receive my poem of St Christophe that I sent to Jorge?) is the key to openness and wisdom. —Proved—. The indication of the Phalène to make itself, that arrives through the finding —the re-finding— of a Náhuatl poem. (She, the indication, arrives from wherever when disponibility is the alert). —The silence. I remember that in a book about Tronquoy navigation, the author wrote that only real silence on board allowed for the rescue of man in water. The silence that tunes and extends produces the act in its real latitude. To be silent, literally; when (from when) one says “there”. —To let things be done without judging, but from the silence that is the basin of credulity. And so, moments before leaving (thinking of a different place than where we arrived) I erased a poem; we arrived and the song of the entrance to the earth coincided terribly, just as that poem of the towers(3) in Gallardon.",
+               "es" : "Cosas re-vividas: el continuo abandono del proyecto. Una dirección que se vuelve la contraria nos da el lugar. La docilidad (que despiertan los bosques —¿recibieron mi poema sobre St. Cristophe enviado a Jorge?) es la llave de la abertura y el conocimiento. —Probado—. La indicación de la Phalène a hacerse, que llega por el encuentro —re-encuentro— de un poema Náhuatl. (Ella, la indicación, llega de cualquier manera cuando la disponibilidad es la alerta). —El silencio. Recuerdo que en un libro sobre navegación de Tronquoy, el autor decía que únicamente el real silencio a bordo permitía el rescate del hombre al agua. El silencio que afina y extiende produce el acto en su real latitud. Callarse, literalmente; cuando (a partir de) se dice “allí”. —Dejar hacer sin juzgar, pero a partir del silencio que es cuenca de credulidad. Pues bien, momentos antes de partir (pensando yo en otro lugar distinto al que llegamos) borroneé un poema; llegamos y el canto de la entrada a tierra coincidió terriblemente, como aquel poema de las torres(3) en Gallardon.",
+               "zh" : "重新经历的事情：计划的不断放弃。一个变成相反方向的方位，把地点给了我们。那种顺从（森林所唤醒的顺从——你们收到我寄给豪尔赫的关于圣克里斯托夫的诗了吗？）是开放与认识的钥匙。——已经验证——。“Phalène”要自我完成的指示，通过一首纳瓦特尔诗的相遇——重逢——而到来。（她，那个指示，当可用性就是警觉时，会以任何方式到来）。——沉默。我记得在一本特龙凯关于航海的书里，作者说，只有船上真正的沉默，才允许把落水的人救上来。那种调音并延展的沉默，在它真实的纬度中产生行动。字面意义上地闭嘴；当（从）有人说“那里”的时候。——让事情被做，不加评判，但要从那种作为轻信之盆的沉默出发。于是，出发前片刻（我想到的是另一个地方，与我们抵达的地方不同），我草草涂写了一首诗；我们抵达了，而进入陆地的歌唱可怕地吻合了，就像加亚尔东那首关于塔的诗(3)。"
+            },
+            {
+               "en" : "Things that I understood of the words of the poem, after the act:",
+               "es" : "Cosas que supe que decían las palabras del poema, después del acto:",
+               "zh" : "行动之后，我知道诗中的词语说了这些事情："
+            },
+            {
+               "en" : "a) the sea is not contraposed to American soil.",
+               "es" : "a) el mar no se contrapone a la tierra americana.",
+               "zh" : "a）海并不与美洲的土地相对立。"
+            },
+            {
+               "en" : "b) the difficulty of being on board is converted into a celebration crowned by foam.",
+               "es" : "b) la dificultad de abordaje se convierte en fiesta coronada por la espuma.",
+               "zh" : "b）靠岸的困难变成了由泡沫加冕的节日。"
+            },
+            {
+               "en" : "c) the sea —what is known, son of the stellar calculation— penetrates the continent through its rivers (rivers do not die in the sea, are born in it and the human journey is going by the gone); in this way it invades and carries it, to its intimate organs of these lands, its science.",
+               "es" : "c) el mar —lo conocido, hijo del cálculo estelar— penetra el continente por sus ríos (los ríos no mueren en el mar, nacen en él y el curso o viaje humano es de ida para el ido); de ese modo lo invade y lleva, hasta sus íntimas entrañas de estas tierras, su ciencia.",
+               "zh" : "c）海——那已知者，星辰计算的儿子——通过河流渗入大陆（河流不死于海，而生于海；人的行程或旅行，是去者的去程）；以这种方式，它侵入这些土地，并把它的科学带到这些土地最内在的脏腑。"
+            },
+            {
+               "en" : "Letter from Godofredo Iommi to Edison Simons",
+               "es" : "Carta de Godofredo Iommi a Edison Simons",
+               "zh" : "戈多弗雷多·约米致爱迪生·西蒙斯的信"
+            },
+            {
+               "en" : "2 August 1964, Fondo Iommi Amunátegui.",
+               "es" : "2 de agosto 1964, Fondo Iommi Amunátegui.",
+               "zh" : "1964年8月2日，戈多弗雷多·约米-阿穆纳特吉档案。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch034",
+         "img" : 19,
+         "left" : "36",
+         "loose" : [],
+         "pages" : "36-37",
+         "right" : "37",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "d) the side [shore] is therefore a confluence that gives body (something has body) and sea and land are its wings.",
+               "es" : "d) la orilla es pues confluencia que da cuerpo (una cosa tiene cuerpo) y mar y tierra son sus alas.",
+               "zh" : "d）岸因此是汇流，它赋予身体（一个事物拥有身体），而海与陆是它的双翼。"
+            },
+            {
+               "en" : "e) the fog or mother of the rains, ric [sube] the sea and land, without doors —the song— as the waves that are different themselves.",
+               "es" : "e) la bruma o madre de las lluvias, sube el mar a la tierra, sin puertas —el canto— como las olas que mismas son distintas.",
+               "zh" : "e）雾，或雨之母，把海升上陆地，没有门——那歌唱——就像那些自身各异的海浪。"
+            },
+            {
+               "en" : "f) it makes land and forms the air that has mature words in the language still not entirely pronounced, cifered [cifrado], as in the song of the coastal birds.",
+               "es" : "f) hace tierra y forma el aire que tiene maduras palabras de un lenguaje aún no pronunciado enteramente, cifrado, como en el canto de los pájaros orilleros.",
+               "zh" : "f）它造出陆地，并形成空气，那空气拥有一种尚未完全说出的语言的成熟词语，那语言是加密的，就像岸边鸟儿的歌唱。"
+            },
+            {
+               "en" : "g) and (this moves me) the real sense of the Cruz del Sur (Cross and South) is to give marine science to the internal sea that extends beyond the coasts (calculation and ship / hole suspended in the emptiness, walker, foot). That because of this it searches luminously in its rivers.",
+               "es" : "g) y (esto me conmueve) el real sentido de la Cruz del Sur (Cruz y Sur) es dar la ciencia marina al mar interno que se extiende entre las costas (cálculo y barco / hueco suspendido en el vacío, caminante, pie). Que por eso se busca luminosamente en sus ríos.",
+               "zh" : "g）而且（这让我感动）南十字座（十字与南方）的真正意义，是把海洋的科学赋予那在海岸之间延展的内海（计算与船／悬在虚空中的空洞，行走者，脚）。正因如此，人们在其河流中明亮地寻找它。"
+            },
+            {
+               "en" : "All this “dictated” literally by the God of together and close. —(do you realise? The oldest one gave from Mexico the together and near that founds and forms the length, extension). That is how AMEREIDA started, its real pro-logos. Claudio continued. —Afterwards, the poem was thrown in a bottle from the aeroplane into the sea. —The poem will be recorded and fixated in the place on cement. Later Alberto Cruz would build the place there. Yesterday 1st August (Claudio will recount), by night, in front of the sea, after the real invocation, the luck (cards) of knowing the direction of 2 cities. There too the oracle will be fixed.",
+               "es" : "Todo esto “dictado” literalmente por el Dios del junto y del cerca. —(¿te das cuenta? El más antiguo dios de México, el junto y cerca que funda y hace de la lejanía extensión). Así comenzó ya AMEREIDA, su real pro-logos. Claudio siguió. —Después desde un avión se echó el poema dentro de una botella al mar. —El poema será grabado y fijado en el lugar sobre cemento. Más tarde Alberto Cruz edificará allí el lugar. Ayer 1º de agosto (Claudio relatará), de noche, frente al mar, tras la invocación real, las suertes (cartas) para saber el sentido de 2 ciudades. Allí también se fijará el oráculo.",
+               "zh" : "这一切都是由“近旁与邻近之神”字面意义上“口授”的。——（你明白吗？墨西哥最古老的神，那近旁与邻近者，它奠基并把遥远造成广延）。阿梅雷伊达就是这样开始的，它真正的序言。克劳迪奥接着讲。——后来，从一架飞机上，那首诗被装进一个瓶子扔进海里。——那首诗将被刻下并固定在那个地方的水泥上。再后来，阿尔贝托·克鲁斯将在那里建造那个地方。昨天，8月1日（克劳迪奥会讲述），夜里，面对大海，在真正的呼求之后，用签（纸牌）来知晓两座城市的方向。神谕也将被固定在那里。"
+            },
+            {
+               "en" : "The texts follow. As will photos and sketches and other writings. —News: all good, intimately linked to all of you, very much loved. I write to Negrita, Tronquoy, details of advanced arrangements for our great American voyage. —He told Pancho [A Pancho le digo] what I do and how I live here, I send him news about Melo. Exchange these letters. I will be with you all with whole body in the Phalène de France. —Let us not give in yet. —I received a beautiful text from Deguy that I believe is the Ode. Carry on, Fédier carry on, everyone carry on. —Kisses to everyone and to the newly arrived weavers and dear Sheila. —Kisses and warm, warm hugs. I will continue in the letter that I will send with photos. —Dear Edi, a warm embrace.",
+               "es" : "Van los textos. Irán fotos y croquis y otros escritos. —Noticias: todos buenos, íntimamente ligados a Uds., queridísimos. Escribo a Negrita, Tronquoy, detalles gestiones avanzadas para nuestro gran viaje americano. —A Pancho le digo lo que hago y cómo vivo aquí, le envío las noticias sobre Melo. Intercámbiense estas cartas. Estaré con ustedes con todo cuerpo en la Phalène de France. —No cedamos el instante. —Recibí un lindísimo texto de Deguy que creo es la Oda. Sigue tú, siga Fédier, sigan todos. —Besos a todos y a los nuevos llegados tejedores y Sheila querida. —Besos y abrazos fuertes, fuertes. Continuaré en la carta que te enviaré con fotos. —Querido Edi, un abrazo fuerte.",
+               "zh" : "文本随信寄上。照片、草图和别的文字也会寄去。——消息：大家都好，与你们亲密相连，最亲爱的们。我给内格丽塔、特龙凯写信，讲我们伟大的美洲旅行已经推进的筹备细节。——我给潘乔说我在这里做什么、怎么生活，我寄给他关于梅洛的消息。这些信请互相传阅。我将以整个身体与你们同在巴黎的“Phalène”里。——不要放弃这一刻。——我收到德吉一篇极美的文本，我想那就是《颂歌》。你继续，费迪耶继续，大家都继续。——吻所有人，也吻新来的织工们和亲爱的希拉。——吻和紧紧的、紧紧的拥抱。我会在随照片寄给你的那封信里继续。——亲爱的埃迪，一个紧紧的拥抱。"
+            },
+            {
+               "en" : "Godo",
+               "es" : "Godo",
+               "zh" : "戈多"
+            },
+            {
+               "en" : "Letter from Godofredo Iommi to Edison Simons",
+               "es" : "Carta de Godofredo Iommi a Edison Simons",
+               "zh" : "戈多弗雷多·约米致爱迪生·西蒙斯的信"
+            },
+            {
+               "en" : "2 August 1964, Fondo Iommi Amunátegui.",
+               "es" : "2 de agosto 1964, Fondo Iommi Amunátegui.",
+               "zh" : "1964年8月2日，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch034",
+         "img" : 20,
+         "left" : "38",
+         "loose" : [
+            {
+               "lang" : "orig",
+               "text" : "Godofredo Iommi"
+            },
+            {
+               "lang" : "orig",
+               "text" : "Cálculo Poético de Amereida (Fragmento) / Amereida's Poetical Calculus (Fragment)"
+            }
+         ],
+         "pages" : "38-39",
+         "right" : "39",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 0,
+         "units" : [
+            {
+               "en" : "Edi",
+               "zh" : "埃迪"
+            },
+            {
+               "en" : "Between simulation and phantoms we people of America only imitate.",
+               "zh" : "在拟像与幽灵之间，我们美洲人只会模仿。"
+            },
+            {
+               "en" : "Isn't it preferable —one moment— to resist the instinct of nostalgia? Similarly let's turn off the inherited chants, the effort of a history that doesn't manage to become a tale. Temptation is a smell of promises, of able futures that corrode energy —these windows of hope that joke by night and melt our figures.",
+               "zh" : "难道不是更可取——哪怕一刻——抵抗怀旧的本能？同样，让我们关掉那些继承来的歌唱，关掉一种历史的努力——那历史始终没能变成故事。诱惑是一种承诺的气味，是那些有能力腐蚀能量的未来——这些希望的窗户在夜里开玩笑，融化我们的形象。"
+            },
+            {
+               "en" : "Who hasn't been surprised in plain distraction, unknown? Already in ample American gesticulations or in surprising flexibilities that disappear in the decision as certain rivers in their dunes and still, between passions, floating in the banality or in the involuntary generosities. Already in certain city abandonments as fallen fruit or in our certainty of inconsistency and excessive affirmations searching for verbal homelands and in diluted and irremediable negations that don't dare to own their own extremes. Between simulations and phantoms we imitate.",
+               "zh" : "谁不曾被突如其来的分心所惊讶，未知者？已经在美洲人夸张的手势里，或在那些令人惊讶的柔韧中——它们在决定中消失，像某些河流消失在自己的沙丘里；仍然，在激情之间，漂浮在平庸或不由自主的慷慨中。已经在某些城市的废弃中，像落下的果实；或在我们对前后不一的确信和过度的肯定中，寻找词语的故乡；在稀释而无可挽回的否定中，那些不敢拥有自己极端的否定。在拟像与幽灵之间，我们模仿。"
+            },
+            {
+               "en" : "When the lucidity consumes the refuge reality or song is opened because tradition always remains distant to the habits and keeps —with apparition or oblivion— the hollow, origin, that includes us.",
+               "zh" : "当清醒消耗了避难所，现实或歌唱便打开了，因为传统始终远离习惯，并保持着——以显现或遗忘——那个空洞、起源，那个包含我们的东西。"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "zh" : "戈多弗雷多·约米"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "zh" : "《阿梅雷伊达的诗性计算》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch040",
+         "img" : 21,
+         "left" : "40",
+         "loose" : [
+            {
+               "lang" : "orig",
+               "text" : "Godofredo Iommi"
+            },
+            {
+               "lang" : "orig",
+               "text" : "Cálculo Poético de Amereida (Fragmento) / Amereida's Poetical Calculus (Fragment)"
+            }
+         ],
+         "pages" : "40-41",
+         "right" : "41",
+         "section" : {
+            "en" : "40 Amereida's Poetical Calculus/Godofredo Iommi",
+            "es" : "",
+            "zh" : "40 《阿梅雷伊达》的诗性计算（1965）/ 戈多弗雷多·约米"
+         },
+         "two" : 0,
+         "units" : [
+            {
+               "en" : "Neither memories nor climates, nor events that concern us give place because the terrain was never adaptability. And, even beyond inheritance, the earth emerges when it finds sense in us. Adversity or fortune are beats of the same heart or settling, stay, state. There, will risks fidelity or abandon. Obedience or phantom.",
+               "zh" : "无论是记忆、气候，还是与我们相关的事件，都不给出位置，因为地形从来不是适应性。而且，即便超出继承之外，大地在它于我们之中找到意义时才浮现。逆境或幸运，都是同一颗心脏的跳动，或沉降、停留、状态。在那里，意志冒险去忠诚或放弃。服从，或幽灵。"
+            },
+            {
+               "en" : "Let us burn our home or excuses, bread, decadence, the right of vice, the invariable trick of justifications, simply, when we go to bed.",
+               "zh" : "让我们烧掉我们的家，或借口、面包、颓废、恶习的权利、辩护那不变的花招——干脆，就在我们上床睡觉的时候。"
+            },
+            {
+               "en" : "Let the void come, the void barely the exclusions, defended with our same skin as a prayer. We know that there's no waking up beyond the dream. Let's lose ourselves for our own steps —behind the overhead lamp there is always a Sign.",
+               "zh" : "让虚空到来吧，那虚空几乎就是种种排斥，用我们自己的皮肤像祈祷一样捍卫着。我们知道，在梦之外没有醒来。让我们迷失于自己的脚步——在头顶那盏灯后面，总有一个符号。"
+            },
+            {
+               "en" : "Does our origin have a sign? What origin?",
+               "zh" : "我们的起源有符号吗？什么起源？"
+            },
+            {
+               "en" : "The present dream in a long luso-spanish language, in countries that aren't quite nations, in multiple races still fooling ourselves calling ourselves Americans. Presence and name —this is our presence and our name— come from Europe, the ancient robbed. We know that histories register, mediations verify, artifices operate. And, poetry, under any light, is the sign that veils and unveils sense. Never fashion. Producer and product rise in paternalistic darkness that surprises us. Its song is figure, instinct and calculation, never sentiment. She is in the same way apparition and apparitions and no longer simulations and phantoms —transparent reality in its vertigo.",
+               "zh" : "当下之梦，以一种漫长的葡西语言，在一些还算不上国家的国家里，在多个种族中，我们仍然欺骗自己，称自己为美洲人。在场与名字——这就是我们的在场与名字——来自欧洲，那个古老的被剥夺者。我们知道，历史会记录，中介会验证，人为机制会运作。而诗歌，在任何光下，都是遮蔽又揭开意义的符号。从不是时尚。生产者与产品在父权式的黑暗中升起，那黑暗让我们惊讶。它的歌唱是形象、本能与计算，从不是情感。它同样既是显现又是诸显现，而不再是拟像与幽灵——在其眩晕中的透明现实。"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "zh" : "戈多弗雷多·约米"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "zh" : "《阿梅雷伊达的诗性计算》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch040",
+         "img" : 22,
+         "left" : "42",
+         "loose" : [
+            {
+               "lang" : "orig",
+               "text" : "with an involuntary adventure"
+            },
+            {
+               "lang" : "orig",
+               "text" : "Its presence"
+            }
+         ],
+         "pages" : "42-43",
+         "right" : "43",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 0,
+         "units" : [
+            {
+               "en" : "Who if not she says of an origin,",
+               "zh" : "不是她，又是谁言说一个起源？"
+            },
+            {
+               "en" : "as only poetically does she appear?",
+               "zh" : "她只以诗的方式显现。"
+            },
+            {
+               "en" : "One day the voices in the intimate exile spoke to us.",
+               "zh" : "有一天，亲密流放中的那些声音对我们说话。"
+            },
+            {
+               "en" : "What origin?",
+               "zh" : "什么起源？"
+            },
+            {
+               "en" : "Columbus",
+               "zh" : "哥伦布"
+            },
+            {
+               "en" : "never came to America",
+               "zh" : "从未抵达美洲"
+            },
+            {
+               "en" : "he was searching for the Indias",
+               "zh" : "他一直在寻找印度"
+            },
+            {
+               "en" : "in the midst of his search",
+               "zh" : "就在他的寻找途中"
+            },
+            {
+               "en" : "this land",
+               "zh" : "这片土地"
+            },
+            {
+               "en" : "erupts as a gift",
+               "zh" : "作为礼物迸发出来"
+            },
+            {
+               "en" : "Merely",
+               "zh" : "仅仅是"
+            },
+            {
+               "en" : "the gift",
+               "zh" : "那礼物"
+            },
+            {
+               "en" : "surges",
+               "zh" : "涌出"
+            },
+            {
+               "en" : "opposing intents",
+               "zh" : "对抗种种意图"
+            },
+            {
+               "en" : "a stranger to hope",
+               "zh" : "对希望而言是个陌生人"
+            },
+            {
+               "en" : "Brings with it",
+               "zh" : "随身带来"
+            },
+            {
+               "en" : "its donation",
+               "zh" : "它的赠予"
+            },
+            {
+               "en" : "its terms",
+               "zh" : "它的条件"
+            },
+            {
+               "en" : "its borders",
+               "zh" : "它的边界"
+            },
+            {
+               "en" : "Tears wound or opening where it emerges —",
+               "zh" : "撕裂伤口，或它涌现处的开口——"
+            },
+            {
+               "en" : "Adventure of acceptation or refusal",
+               "zh" : "带着一场不由自主的冒险"
+            },
+            {
+               "en" : "—to decline or convene—",
+               "zh" : "接受或拒绝的冒险"
+            },
+            {
+               "en" : "Godofredo Iommi",
+               "zh" : "它的在场"
+            },
+            {
+               "en" : "Cálculo Poético de Amereida (Fragmento) / Amereida’s Poetical Calculus (Fragment)",
+               "zh" : "——去拒绝，或去召集——"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "zh" : "戈多弗雷多·约米"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "zh" : "《阿梅雷伊达的诗性计算》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch040",
+         "img" : 23,
+         "left" : "44",
+         "loose" : [
+            {
+               "lang" : "orig",
+               "text" : "in this fate"
+            },
+            {
+               "lang" : "orig",
+               "text" : "Cálculo Poético de Amereida (Fragmento) / Amereida's Poetical Calculus (Fragment)"
+            }
+         ],
+         "pages" : "44-45",
+         "right" : "45",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 0,
+         "units" : [
+            {
+               "en" : "empties the person",
+               "zh" : "掏空这个人"
+            },
+            {
+               "en" : "dislocates it",
+               "zh" : "使他错位"
+            },
+            {
+               "en" : "suspended",
+               "zh" : "悬置"
+            },
+            {
+               "en" : "renewed",
+               "zh" : "更新"
+            },
+            {
+               "en" : "in its primacy or liberty",
+               "zh" : "在其原初性或自由中"
+            },
+            {
+               "en" : "Feeling and discovery",
+               "zh" : "感受与发现"
+            },
+            {
+               "en" : "they go",
+               "zh" : "它们去"
+            },
+            {
+               "en" : "for conquest and hope",
+               "zh" : "为了征服与希望"
+            },
+            {
+               "en" : "they bring",
+               "zh" : "它们带来"
+            },
+            {
+               "en" : "invention or revelation",
+               "zh" : "发明或启示"
+            },
+            {
+               "en" : "but a gift",
+               "zh" : "但一份礼物"
+            },
+            {
+               "en" : "is present",
+               "zh" : "是在场的"
+            },
+            {
+               "en" : "mere that by mere",
+               "zh" : "纯粹以纯粹的方式"
+            },
+            {
+               "en" : "all presence returns",
+               "zh" : "一切在场都返回"
+            },
+            {
+               "en" : "filial",
+               "zh" : "如子一般"
+            },
+            {
+               "en" : "Isn't this the peculiar apparition of America?",
+               "zh" : "这不正是美洲那奇特的显现吗？"
+            },
+            {
+               "en" : "Our savings",
+               "zh" : "我们的积蓄"
+            },
+            {
+               "en" : "isn't this apparition?",
+               "zh" : "不就是这种显现吗？"
+            },
+            {
+               "en" : "Fate and Sign",
+               "zh" : "命运与符号"
+            },
+            {
+               "en" : "that demand",
+               "zh" : "它们要求"
+            },
+            {
+               "en" : "Are we",
+               "zh" : "我们"
+            },
+            {
+               "en" : "Americans?",
+               "zh" : "在这命运中"
+            },
+            {
+               "en" : "Godofredo Iommi",
+               "zh" : "是美洲人吗？"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "zh" : "戈多弗雷多·约米"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "zh" : "《阿梅雷伊达的诗性计算》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch040",
+         "img" : 24,
+         "left" : 46,
+         "loose" : [],
+         "pages" : "46-47",
+         "photoOnly" : 1,
+         "right" : 47,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch048",
+         "img" : 25,
+         "left" : 48,
+         "loose" : [],
+         "pages" : "48-49",
+         "photoOnly" : 1,
+         "right" : 49,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch048",
+         "img" : 26,
+         "left" : 50,
+         "loose" : [],
+         "pages" : "50-51",
+         "photoOnly" : 1,
+         "right" : 51,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch048",
+         "img" : 27,
+         "left" : 52,
+         "loose" : [],
+         "pages" : "52-53",
+         "photoOnly" : 1,
+         "right" : 53,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch048",
+         "img" : 28,
+         "left" : 54,
+         "loose" : [],
+         "pages" : "54-55",
+         "photoOnly" : 1,
+         "right" : 55,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch058",
+         "img" : 29,
+         "left" : "56",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "y"
+            },
+            {
+               "lang" : "en",
+               "text" : "As I told Alberto Cruz, what gave substance to my having participated in Amereida was above all a huge change —not in my thoughts but a transformation that completely disturbed my existence— since it was in Patagonia that I lost my sense of direction. In Patagonia, the solid and unquestionable relationship that I had with space —or rather with what I then believed was space— flew to pieces. In other words (as I tried to say to Alberto Cruz), Amereida forced me to abandon the comfort of a direct, univocal and secure relationship with space, and discover the risk of being in concrete space —where nothing is taken for granted."
+            }
+         ],
+         "pages" : "56-57",
+         "right" : "57",
+         "section" : {
+            "en" : "",
+            "es" : "58 Amereida/Francois Fédier",
+            "zh" : "58 《阿梅雷伊达》/ 弗朗索瓦·费迪耶"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Many years ago I said to Alberto Cruz: Amereida, the journey I took part in eagerly from the first moment I heard about it (I do not remember well where that was, or from whom the idea came; surely it was from Godo who spoke to me here, that is, before his return to Chile, or was it in a letter?). From the first time I heard about Amereida, I knew that I would go to South America. And why? Because I understood immediately that for Godo and all his friends here and in the School of Architecture this was something tremendously important. Because of this, it was impossible for me not to join them, not to help them (as much as I could) to make the travesía.",
+               "es" : "Hace unos cuantos años atrás, le decía a Alberto Cruz: La Amereida, el viaje en el que participé fervientemente y desde el primer momento en que oí hablar (no recuerdo bien dónde fue ni de quién vino la idea, fue seguramente de Godo quien me habló acá, es decir, antes de su retorno a Chile, ¿o fue en una carta?), de la Amereida, supe que iría a América del Sur. ¿Y por qué razón? Porque comprendí de inmediato que para Godo y todos los amigos aquí y en la Escuela de Arquitectura, esto era algo tremendamente importante. Por esto, era imposible para mí no unirme a ellos, no ir a ayudarlos (tanto como pudiera) a realizar la travesía. Como le decía a Alberto Cruz, lo que me entregó el hecho de haber sido parte de la Amereida fue sobre todo un cambio enorme —no de mis pensamientos, sino una transformación que perturbó completamente mi existencia—; ya que fue en la Patagonia donde perdí el sentido de la orientación. En la Patagonia, la sólida e incuestionable relación que yo tenía con el espacio —o más bien con lo que entonces yo creía que era el espacio— voló en pedazos. En otras palabras (era aquello lo que intentaba decirle a Alberto Cruz): La Amereida me forzó a abandonar la comodidad de una relación directa, unívoca y segura con el espacio, y a descubrir el riesgo de estar en el verdadero espacio, donde nada se da por seguro.",
+               "zh" : "几年前，我对阿尔贝托·克鲁斯说：阿梅雷伊达，那趟我从第一次听说就热切参与的旅行（我不太记得是在哪里、从谁那里来的这个想法；肯定是戈多在这里跟我说的，也就是在他回智利之前，或者是在一封信里？）——关于阿梅雷伊达，我知道我会去南美洲。为什么？因为我立刻明白，对戈多以及这里和建筑学院的所有朋友来说，这是一件极其重要的事。因此，我不可能不加入他们，不去帮助他们（尽我所能）完成这次远行。正如我对阿尔贝托·克鲁斯所说，参与阿梅雷伊达这件事带给我的，首先是一个巨大的变化——不是思想上的变化，而是一种彻底扰乱了我存在的转变；因为正是在巴塔哥尼亚，我失去了方向感。在巴塔哥尼亚，我与空间——或者更确切地说，与我当时以为的空间——那种坚实而无可置疑的关系，碎成了片。换句话说（这正是我想对阿尔贝托·克鲁斯说的）：阿梅雷伊达迫使我放弃与空间那种直接、单义而安全的关系所带来的舒适，去发现身处真正空间中的风险——在那里，没有什么被当作理所当然。"
+            },
+            {
+               "en" : "I will not explain in detail how this phenomenon occurs; it is the change that is decisive. This change forced me to live as if I dominated space no longer —I was forced to recognize that space does not dominate any more than time does.",
+               "es" : "No voy a exponer en detalle cómo este fenómeno se produce; es el cambio lo decisivo. Este cambio me obligó a no poder vivir más como si dominara el espacio —me vi forzado a reconocer que el espacio no se domina más de lo que se puede dominar el tiempo.",
+               "zh" : "我不会详细说明这个现象是如何发生的；决定性的正是这个变化。这个变化迫使我不能再像支配空间那样生活——我不得不承认，空间并不比时间更能被支配。"
+            },
+            {
+               "en" : "It will not be surprising then that I insist on the fact that Amereida, as project and realization, has a fundamental relationship with space, insofar as above all it was about studying concretely the singular (i.e. unique) space of America. It will be understood, I hope, that to speak here of “space” is no longer to refer to its traditional conception, but to have already started on a new and extraordinary experience of the relation between human beings and their stay on earth.",
+               "es" : "No se extrañará entonces que yo insista en el hecho de que la Amereida, en tanto proyecto y realización, tiene una relación fundamental con el espacio, en la medida de que se trataba sobre todo de ir a estudiar concretamente cuál es el espacio singular (o sea único) de América. Se comprenderá, espero, que hablar aquí de “espacio” no sea más referirse a la concepción tradicional que tenemos de éste, sino habiendo ya partido en una experiencia nueva y extraordinaria de relación entre el ser humano y su estadía en la tierra.",
+               "zh" : "因此，如果我坚持认为阿梅雷伊达作为计划与实现，与空间有一种根本关系，这就不足为奇了；因为说到底，它首先是要去具体研究什么是美洲那独特的（也就是唯一的）空间。我希望人们会理解，这里说“空间”，不再是参照我们传统上对空间的构想，而是已经出发进入一种人与自身在大地上栖居之间关系的新颖而非凡的经验。"
+            },
+            {
+               "en" : "Amereida was in fact thought and undertaken with two of Hölderlin’s lines constantly in mind:",
+               "es" : "La Amereida fue, de hecho, pensada y emprendida teniendo constantemente en la memoria dos palabras de Hölderlin:",
+               "zh" : "事实上，阿梅雷伊达在被思考和发起时，始终记着荷尔德林的两句话："
+            },
+            {
+               "en" : "“Poetically man inhabits this earth”",
+               "es" : "Poéticamente habita el hombre esta tierra",
+               "zh" : "人诗意地栖居在这片大地上"
+            },
+            {
+               "en" : "and",
+               "zh" : "以及"
+            },
+            {
+               "en" : "“What persists is established by poets”",
+               "es" : "Lo que permanece lo establecen los poetas",
+               "zh" : "那持存者，由诗人所确立"
+            },
+            {
+               "en" : "Translation note: the interpretation of this verse made by Fédier and in particular of the verb Stiften has had different versions. One is: “is set up by poets” and the other is: “poets put it in its own rhythm”. In any case Fédier understands as “to found” and he will explain in this text.",
+               "es" : "Nota de traducción: la interpretación que el propio Fédier hace de este verso de Hölderlin y en particular del verbo Stiften ha tenido distintas versiones. En unas es: «lo instauran los poetas»; y en otras: «los poetas lo ponen en su propio ritmo». En ningún caso el filósofo lo entiende como “fundar”, y lo explica más adelante en el texto.",
+               "zh" : "翻译注：费迪耶本人对荷尔德林这句诗、尤其对动词 Stiften 的解释有过不同版本。一种译法是“诗人将它们创立”；另一种是“诗人把它们放入自己的节奏”。哲学家在任何情况下都不把它理解为“奠基”，他在本文后文会加以解释。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch058",
+         "img" : 30,
+         "left" : "58",
+         "loose" : [],
+         "pages" : "58-59",
+         "right" : "59",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "That human inhabitation on earth cannot be realized except poetically was the very principle on which the Institute of Architecture of the Catholic University of Valparaíso had been founded around 1952. As for Amereida, clearly it responds to the second suggestion: it concerned nothing less than establishing America.",
+               "es" : "Que la habitación del ser humano en la tierra no pueda realizarse sino poéticamente era el principio mismo sobre el cual se había fundado hacia 1952 el Instituto de Arquitectura de la Universidad Católica de Valparaíso. En cuanto a la Amereida, es evidente que ella responde a la segunda indicación: con ella se trataba nada menos que de establecer América.",
+               "zh" : "人类在大地上的栖居只能以诗的方式实现——这正是瓦尔帕莱索天主教大学建筑学院约在1952年创立时所依据的原则本身。至于阿梅雷伊达，它显然回应了第二个指示：它所涉及的，不亚于确立美洲。"
+            },
+            {
+               "en" : "(I realize perfectly the enormity, not to say extravagance, of such a purpose, but at the time, in 1965, it was very clear to all participants that we were doing something whose ambition exceeded everything we usually assume. Each one of us was clear about it, but without implying, as Godo liked to say, the slightest value judgment). For my part, at that time I had doubts about how to translate what the poet had said into our Latin languages. Certainly, in the book of Amereida we find traces of those doubts. “Stiften is not founding”, I said brutally to Alberto, to Godo, and whoever else wanted to hear me. I was not yet able to say positively what stiften means. Today, the doubts are not so sharp, since I know that stiften means precisely what Amereida was doing.",
+               "es" : "(Me doy cuenta perfectamente de la enormidad, por no decir extravagancia, de un propósito como ese; pero en la época, en 1965, era algo muy claro para todos los participantes: estábamos haciendo algo cuya ambición excedía todo lo que usualmente aceptamos por convención. Cada uno de nosotros lo tenía claro, pero sin que aquello implicara, como le gustaba decir a Godo, el menor juicio de valor). Por mi parte, en ese momento tenía la duda sobre cómo traducir a nuestras lenguas latinas lo que había dicho el poeta. Por cierto, en el libro de Amereida encontramos algunas huellas de esa duda. “Stiften no es fundar”, le decía brutalmente a Alberto, a Godo, a quien me quisiera oír. No era todavía capaz de decir positivamente lo que es stiften. Hoy, la duda no es tan punzante, ya que tengo claro que stiften era precisamente lo que la Amereida estaba haciendo.",
+               "zh" : "（我完全意识到这样一个目的之巨大，甚至可以说是离奇；但在当时，在1965年，对所有参与者来说这一点非常清楚：我们正在做的事情，其雄心超出了我们通常按惯例接受的一切。我们每个人都清楚这一点，但这并不意味着——正如戈多喜欢说的——有任何价值判断。）就我而言，当时我有个疑问：如何把诗人所说的翻译成我们的拉丁语言。当然，在《阿梅雷伊达》这本书里，我们能找到一些这种疑问的痕迹。“Stiften 不是奠基”，我直截了当地对阿尔贝托、对戈多、对任何愿意听我说的人说。我当时还不能正面说出 stiften 是什么。今天，这个疑问不再那么尖锐，因为我已清楚，stiften 恰恰就是阿梅雷伊达正在做的事。"
+            },
+            {
+               "en" : "Some words of explanation: stiften is simply to advance the means to be able, one day, to do what has to be done. Hence we can anticipate large sums of money, or create an institution. In any case it is to anticipate in the present the possibility of a thing that is not yet possible. In the Seer’s Letter, Rimbaud opposes Greek poetry to the authentic poetry of the future. Regarding the former, he points out:",
+               "es" : "Algunas palabras de explicación: stiften es simplemente adelantar los medios para poder, un día, hacer lo que tiene que ser hecho. Podemos de este modo anticipar grandes sumas de dinero, o bien crear una institución. En todo caso es: en el presente anticipar la posibilidad de una cosa que no es todavía posible. En la Carta del vidente, Rimbaud opone la poesía griega a la auténtica poesía del futuro. A propósito de la primera, señala:",
+               "zh" : "解释几句：stiften 简简单单就是预先提供手段，以便有朝一日能够做那必须做的事。因此，我们可以预支大笔金钱，或者创立一个机构。无论如何，它都是：在当下预先使一件尚不可能之事成为可能。在《通灵者书信》中，兰波把希腊诗歌与未来的真正诗歌对立起来。关于前者，他指出："
+            },
+            {
+               "en" : "In Greece, as I said, verse and lyre rhyme with Action.",
+               "es" : "En Grecia, como dije, el verso y la lira ritman la Acción.",
+               "zh" : "在希腊，正如我说过的，诗句与竖琴为行动定节奏。"
+            },
+            {
+               "en" : "To characterize what is the poetry of the future he specifies:",
+               "es" : "Para caracterizar lo propio de la poesía del futuro precisa:",
+               "zh" : "为了刻画未来诗歌的特性，他明确说："
+            },
+            {
+               "en" : "Poetry will not rhyme with action any longer, it will go forward.",
+               "es" : "La poesía no ritmará más la acción, ella irá adelante.",
+               "zh" : "诗歌将不再为行动定节奏，它将走在前面。"
+            },
+            {
+               "en" : "Rimbaud does not use the same terms as Hölderlin, but he describes the same situation and points to the same phenomenon: going forward. This —in my opinion— is not necessary to understand in the vanguard, “avant-garde” sense (as a concern to be at the tip of innovations). “Going forward” is no longer where we find ourselves “naturally” in space, as we imagine it, but anticipating another space; we dare to say: anticipating concrete space, of which the space where we are (normally) is just a caricature.",
+               "es" : "Rimbaud no emplea los mismos términos que Hölderlin, pero él describe la misma situación y señala el mismo fenómeno: ir adelante. Que en mi opinión no hay que entenderlo en el sentido de la vanguardia (“avant-garde”) (como preocupación de estar a la punta de las innovaciones). “Ir adelante” es no estar más donde nosotros nos encontramos “naturalmente” en el espacio, tal como nos lo figuramos, sino anticipar otro espacio; nos atrevemos a decir: anticipar el espacio verdadero, en el cual el espacio donde estamos no es más que una caricatura.",
+               "zh" : "兰波没有使用与荷尔德林相同的术语，但他描述了同样的处境，并指出了同样的现象：走在前面。在我看来，这不应从先锋派（“avant-garde”）的意义上去理解（即作为一种关心自己处于创新最前沿的焦虑）。“走在前面”不再是待在我们“自然地”身处其中的空间里——如我们想象的那样——而是预先另一个空间；我们敢于说：预先真正的空间，而在其中，我们所处的空间不过是一幅漫画。"
+            },
+            {
+               "en" : "It is in this sense that Amereida establishes: it goes forward, anticipating both space and time. The first thing Amereida establishes and makes possible is precisely the Open City. I have heard that Godo came to speak of the Open City as a utopia. He was right. Utopia concerns how a place that is not in…",
+               "es" : "Es en este sentido que la Amereida establece: ella va adelante, adelantándose a la vez al espacio y el tiempo. Lo primero que establece y hace posible la Amereida es precisamente la Ciudad Abierta. He escuchado decir que Godo llegó a hablar de la Ciudad Abierta como de una “utopía”. Tiene razón. Utopía, es así como no…",
+               "zh" : "正是在这个意义上，阿梅雷伊达进行确立：它走在前面，同时先于空间与时间。阿梅雷伊达所确立并使之成为可能的第一件事，恰恰就是开放城市。我听过有人说，戈多曾把开放城市说成一种“乌托邦”。他说得对。乌托邦，正是这样一个不在……的地方"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch058",
+         "img" : 31,
+         "left" : "60",
+         "loose" : [],
+         "pages" : "60-61",
+         "right" : "61",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…familiar space, but in concrete space, does not stop appearing; that is, in space not separated from time, in space that opens (becomes spacious) in time, at the right moment.",
+               "es" : "…deja de aparecer un lugar que no está en el espacio familiar, sino en el verdadero espacio; es decir, en el espacio no separado del tiempo, el espacio que se abre (se hace espacioso) a tiempo, en el momento justo.",
+               "zh" : "……一个地方不再出现在熟悉的空间里，而是出现在真正的空间里；也就是说，出现在不与时间分离的空间里，出现在及时地、在恰当时刻向时间敞开（变得宽敞）的空间里。"
+            },
+            {
+               "en" : "Amereida, itself, is also utopian. But utopia does not imply anything idyllic or unreal. It was facing the rudeness of the interior space of America, the difficulty of advancing in the snow, in the mud, among the thorns —to speak of material obstacles— that opened the way. Amereida took place between the tip of the southern end of the continent and Villamontes in Bolivia, with Santa Cruz de la Sierra in the centre of the continent unattainable. However, during the whole time Amereida lasted, the only thing that counted was to be attentive to everything that unfolded. The crew we formed was composed of four poets, two sculptors, two architects, a painter and a philosopher. Not all were present, simultaneously, during the entire trip; but everyone played the game: each one refining his capacity to perceive that which never ceases to take flight —in this case the sense of the Land of America, or if preferable: the sense of the modern world.",
+               "es" : "La Amereida, ella misma, es también utópica. Pero utopía no implica nada de idílico ni de irreal. Fue afrontando la rudeza del espacio interior de América, la dificultad de avanzar en la nieve, en el barro, entre las espinas —por hablar de obstáculos materiales— que se abrió el camino. La Amereida tuvo lugar desde la extremidad de la punta sur del continente hasta Villamontes, en Bolivia, sin poder llegar a Santa Cruz de la Sierra, en el centro del continente. Sin embargo, durante todo el tiempo que duró la Amereida, la única cosa que contaba era estar atento a todo lo que llegaba. La tripulación que formábamos estaba compuesta por cuatro poetas, dos escultores, dos arquitectos, un pintor y un filósofo. No todos estuvieron presentes, simultáneamente, durante todo el viaje; pero todos jugaron el juego: cada uno afinando su capacidad para percibir aquello que no cesa de escaparse —en este caso el sentido de la Tierra americana, o si se prefiere: el sentido del mundo moderno.",
+               "zh" : "阿梅雷伊达本身也是乌托邦式的。但乌托邦并不意味着任何田园牧歌式或不真实的东西。正是面对着美洲内陆空间的粗野，面对着在雪中、在泥里、在荆棘间前进的困难——只谈物质障碍——道路才被打开。阿梅雷伊达发生在大陆南端尽头到玻利维亚的比利亚蒙特斯之间，而大陆中部的圣克鲁斯-德拉谢拉却未能抵达。然而，在阿梅雷伊达持续的整个时间里，唯一重要的是警觉于一切到来之物。我们组成的船员包括四位诗人、两位雕塑家、两位建筑师、一位画家和一位哲学家。并非所有人都在整个旅途中同时在场；但所有人都参与了游戏：每个人都磨砺自己感知那不停逃逸之物的能力——在此即美洲大地的意义，或者如果愿意：现代世界的意义。"
+            },
+            {
+               "en" : "I transcribe here a text written two years after the trip ended. Whether it was me who wrote it or someone else, I do not know. This is it:",
+               "es" : "Transcribo aquí un texto escrito dos años después que el viaje tuvo fin. Si fui yo el que lo escribió u otro, ya no lo sé. Este es:",
+               "zh" : "我在此转录一篇旅行结束两年后写的文本。是我写的还是别人写的，我已不知道了。它是这样的："
+            },
+            {
+               "en" : "How difficult it is to talk there, where there is not a single more word to say. So let’s talk about this difficulty. I said that Amereida, in the first place, is not a text. When we left (who are “we”? Did not the mere fact of starting in this way change the “we” into a sort of unknown thing or one in any case unknown to us?) The only point of absolute clarity was poetry itself as a state, as a dimension, as a source and as a reality. Let’s understand: there are two ways to see The Odyssey. Firstly as a poem about the return of Ulysses. The poet singing his return. Then, as the very return of Ulysses. His return being primarily “poetic”, without there being any need for further poetry. The first form corresponds to one tradition, the second to another. In short: the second understands the poet as a writer (grammateus) whose mode of being poetic precedes any text —Homer as a faithful transcriber of Ulysses, under whose steps “poetry” spontaneously blossoms. And this is not yet enough, since Ulysses is not magically endowed with “poetic life”. He is simply man, man before lyricism, i.e. man before epic. Epos, simple nomination —and not singing (which will follow).",
+               "es" : "Que difícil es hablar allí donde no hay una palabra más por decir. Hablemos entonces de esta dificultad. Yo dije que la Amereida, en primer lugar, no es un texto. Cuando nosotros partimos (¿quiénes son este “nosotros”? El solo hecho de partir de este modo ¿no ha cambiado el “nosotros” en una suerte de cosa desconocida o que nos era en todo caso desconocida?) El único punto de absoluta claridad era la poesía misma como estado, como dimensión, como fuente y como realidad. Entendámonos: hay dos maneras de ver La Odisea. En primer lugar como poema del retorno de Ulises. El poeta cantando su retorno. Luego, como el retorno mismo de Ulises. Su retorno siendo primeramente “poético”, sin que haya necesidad de ninguna poetización ulterior. La primera forma corresponde a una tradición, la segunda a otra. En breve: la segunda comprende al poeta como escribiente (“grammateus”) de un modo de ser poético anterior a todo texto —Homero como fiel transcriptor de Ulises, bajo los pasos del cual la “poesía” florece espontáneamente. Y esto no es todavía suficiente, ya que Ulises no está mágicamente dotado de “vida poética”. Él es simplemente hombre, hombre antes del lirismo, es decir épico. Epos, simple nominación —y no canto (que le seguirá).",
+               "zh" : "在那里说话多么困难，那里已经没有再多一个词可说。那么我们就来谈谈这种困难。我说过，阿梅雷伊达首先不是文本。当我们出发时（这个“我们”是谁？仅仅这样出发这一事实，难道没有把“我们”变成一种未知之物，或无论如何对我们而言未知之物吗？）唯一绝对清晰的点，是诗歌本身作为状态、作为维度、作为源泉和作为现实。我们要明白：看《奥德赛》有两种方式。首先，作为关于尤利西斯归来的诗。诗人歌唱他的归来。然后，作为尤利西斯本人的归来。他的归来首先是“诗性的”，无需任何进一步的诗化。第一种形式对应一种传统，第二种对应另一种。简言之：第二种把诗人理解为一种先于一切文本的诗性存在方式的书写者（“grammateus”）——荷马作为尤利西斯的忠实转写者，在尤利西斯的脚步之下，“诗歌”自发地开花。而这还不够，因为尤利西斯并非被魔法赋予了“诗性生命”。他 simply 是人，是抒情诗之前的人，也就是说，是史诗的人。Epos，单纯的命名——而不是歌唱（歌唱将随之而来）。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch058",
+         "img" : 32,
+         "left" : "62",
+         "loose" : [],
+         "pages" : "62-63",
+         "right" : "63",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Amereida starts from the conviction that it is possible to live poetically —to live, not to write. But can we say something like that? Nothing is simple here. Let’s say then: Amereida did not mean anything ahead of time for the nine who left, it was only the empty project of crossing the continent; this crossing and everything that would take place should be Amereida exactly. And it was that, nothing but that, nothing more than that.",
+               "es" : "La Amereida parte de esta convicción: que es posible vivir poéticamente —vivir, no escribir. Pero ¿podemos decir algo así? Nada es simple aquí. Digamos entonces: la Amereida no significaba nada antes para los nueve que partieron, era solo el proyecto vacío de la travesía del continente; esta travesía y todo aquello que tendría lugar debía ser precisamente la Amereida. Y fue aquello, nada sino aquello, nada más que aquello.",
+               "zh" : "阿梅雷伊达从这样一个信念出发：人可以诗意地生活——生活，而不是写作。但我们能说这样的话吗？这里没有什么是简单的。那么我们说：对出发的九个人来说，阿梅雷伊达此前没有任何意义，它只是穿越大陆这一远行的空计划；这次远行以及将要发生的一切，都应当恰恰就是阿梅雷伊达。而它就是那个，除了那个别无其他，不多不少就是那个。"
+            },
+            {
+               "en" : "That night from the 1st to the 2nd of August, in which they were with the native Lincomán, that happened —that we can name poetry, or simply LIFE. And it happened independent of the nine that were there, I mean: without them being one by one aware of a coincidence. Because it happened that each one was dedicated to his traditional life, with his moments of presence of life and his moments of absence. And none of the nine —nor Lincomán and his family— is capable of saying what took place there. Only the strange fact of the meeting —which did not depend strictly on anyone. I find it was made possible by the mere poetic obstinacy of Godo, contagious obstinacy, or muse.",
+               "es" : "Esa noche del 1 al 2 de agosto, en la que ellos estuvieron donde el indígena Lincomán, aquello sucedió —que podemos nombrar poesía, o simplemente VIDA. Y sucedió independiente de los nueve que estaban ahí, quiero decir: sin que ellos estuvieran uno a uno conscientes de la coincidencia. Porque pasó que cada uno se dedicaba a su vida tradicional, con sus momentos de presencia de la vida y sus momentos de ausencia. Y ninguno de los nueve —y tampoco Lincomán y su familia— es capaz de decir lo que tuvo lugar ahí. Solamente el extraño hecho del encuentro —que no dependía rigurosamente de nadie, encuentro que fue posible por la sola obstinación poética de Godo, obstinación contagiosa, o musa.",
+               "zh" : "8月1日到2日的那一夜，他们待在原住民林科曼那里，那件事发生了——我们可以把它命名为诗歌，或者干脆命名为生命。它独立于在那里的九个人而发生，我的意思是：他们并不是一个个都意识到了那种巧合。因为情况是，每个人都专注于自己传统的生活，有其生命在场的时刻，也有其不在场的时刻。九个人中没有一个人——林科曼及其家人也没有——能够说出那里发生了什么。只有相遇这一奇特事实——它严格说来不取决于任何人，这次相遇之所以可能，仅仅是因为戈多那诗性的固执，那种传染性的固执，或者说是缪斯。"
+            },
+            {
+               "en" : "There is then more than a memory of that night. And here (I mean, between us) there is now the book of Amereida. That book almost does not exist, since it really takes all of its existence to recount what the trip was. It is not that the trip was made for the book, but that the book was made “to lengthen the footprint”. Because we speak, in the first place, to those people we meet, who inhabit America in the multiple senses of the word “inhabit” today —spoken, found, contributed, donated. The book recounts and wants to exist only as a story. But what is the story of poetry?",
+               "es" : "Hay allá entonces más que un recuerdo de esa noche. Y aquí (quiero decir, entre nosotros) existe ahora el libro de la Amereida. Ese libro casi no existe, ya que toma realmente toda su existencia de simplemente relatar lo que fue el viaje. No es que el viaje se haya hecho para el libro, sino el libro “para alargar la huella”. Porque nosotros les hablamos, en primer lugar, a esas personas que encontramos, que habitan América en los múltiples sentidos que tiene hoy la palabra habitar —hablado, encontrado, aportado, regalado. El libro relata, y no quiere existir más que como relato. Pero ¿qué es el relato de la poesía?",
+               "zh" : "因此，那里有的不止是对那一夜的记忆。而在这里（我是说，在我们之间），现在有了《阿梅雷伊达》这本书。那本书几乎不存在，因为它真正全部的存在，都仅仅来自叙述那次旅行是什么。并不是旅行为了书而做，而是书“为了延长足迹”。因为我们首先是对我们遇到的那些人说话，他们以“栖居”一词今天所具有的多重意义栖居在美洲——被言说、被找到、被贡献、被赠予。书进行叙述，并且只想作为叙述而存在。但诗歌的叙述是什么？"
+            },
+            {
+               "en" : "Poetry: what takes place, took place and will take place.",
+               "es" : "Poesía: aquello que tiene lugar, tuvo lugar y tendrá lugar.",
+               "zh" : "诗歌：那发生、曾发生、将要发生的东西。"
+            },
+            {
+               "en" : "We must not forget: The Open City, the city that opens and opens, opened on March 20th, 1970, the 200th anniversary of Hölderlin’s birth.",
+               "es" : "No olvidemos: La Ciudad Abierta, la ciudad que se abre y abre, se abrió el 20 de marzo de 1970, día del aniversario de los 200 años del nacimiento de Hölderlin.",
+               "zh" : "不要忘记：开放城市，那座开启并不断开启的城市，于1970年3月20日开放，那一天是荷尔德林诞辰200周年。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch058",
+         "img" : 33,
+         "left" : 64,
+         "loose" : [],
+         "pages" : "64-65",
+         "photoOnly" : 1,
+         "right" : 65,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch058",
+         "img" : 34,
+         "left" : 66,
+         "loose" : [],
+         "pages" : "66-67",
+         "photoOnly" : 1,
+         "right" : 67,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch070",
+         "img" : 35,
+         "left" : "68",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "El poeta vague (Fragmento) / The wanderer poet (Fragment)"
+            },
+            {
+               "lang" : "en",
+               "text" : "Michel Deguy"
+            },
+            {
+               "lang" : "en",
+               "text" : "El poeta vague (Fragmento) / The wanderer poet (Fragment)"
+            }
+         ],
+         "pages" : "68-69",
+         "right" : "69",
+         "section" : {
+            "en" : "70 The wanderer poet/Michel Deguy",
+            "es" : "",
+            "zh" : "70 漫游诗人 / 米歇尔·德吉"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "The “vague” (wandering) poet",
+               "es" : "El poeta “vague” (errante)",
+               "zh" : "“vague”（漫游）诗人"
+            },
+            {
+               "en" : "Poetry is not the doing of landscape, of “motive painting” for a painting that “resembles”. We have not come here to make landscapes. However, the poet keeps a certain figure of the country, which without him doesn’t appear.",
+               "es" : "La poesía no es quehacer de paisaje, de “pintura de motivo” para un cuadro que “semeje”. No hemos venido aquí para hacer paisajes. Sin embargo, el poeta cuida una cierta figura del país, que sin él no aparece.",
+               "zh" : "诗歌不是风景的制作，不是为了一幅“相似”的画而作“主题画”。我们来到这里不是为了制造风景。然而，诗人守护着国土的某种形象——没有他，那形象就不会出现。"
+            },
+            {
+               "en" : "Of scales, of dimensions and of “natural fronts”. With a different sense to that of the geographer or the historic man.",
+               "es" : "De escalas, de medidas y de “fronteras naturales”. Con otro sentido que el del geógrafo o el hombre histórico.",
+               "zh" : "关于尺度、关于度量，以及关于“自然边界”。其意义不同于地理学家或历史之人的意义。"
+            },
+            {
+               "en" : "Responding to the call we have come to reduce the unknown, so that the other, for example, the other side of the earth, comes out of its absence and the invisible that we will take with us turns, as a god lar resprouts in our home.",
+               "es" : "Respondiendo al llamado hemos venido para reducir lo desconocido, para que lo otro, por ejemplo, el otro lado de la tierra, salga de su ausencia y se torne lo invisible que llevaremos con nosotros, como rebrota un dios lar en nuestro hogar.",
+               "zh" : "回应那召唤，我们来到这里，是为了缩减未知，是为了让那另一个，例如大地的另一面，走出它的缺席，并让那我们将随身携带的不可见者转变，像家神在我们的家中重新萌发。"
+            },
+            {
+               "en" : "The important question —What are we able, as poets? Should we learn, tasting it, the presence, so difficult to obtain; we want it not to escape us.",
+               "es" : "La cuestión importante —¿qué podemos nosotros, en tanto que poetas? Debemos aprender, probándolo, el presente, tan difícil de obtener; queremos que no se nos escape.",
+               "zh" : "重要的问题是——作为诗人，我们能做什么？我们必须学习，通过尝试去学习当下/在场，那如此难以获得的东西；我们希望它不要从我们身边逃逸。"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "Michel Deguy",
+               "zh" : "米歇尔·德吉"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "1965, Fondo Iommi Amunátegui.",
+               "zh" : "《漫游诗人》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch070",
+         "img" : 36,
+         "left" : "70",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "en",
+               "text" : "Michel Deguy"
+            },
+            {
+               "lang" : "en",
+               "text" : "Reverie de Amereida (Fragment) / Vision of Amereida (Fragment)"
+            }
+         ],
+         "pages" : "70-71",
+         "right" : "71",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Centre of time? Amereida? Cross over Amereida? Not only for a cartographic and almost cosmonautical view; but cross reproduced in every position, in every place: the cardinal star taken to every place, the star of the four angles of time, in the rectangular day, by our troop of nine fronts, our mute polyglot hope, our spinning compass rose, our vane that vests the cities in every sense, tracing signs over houses, appropriating ourselves until the end of the angels’ roles, taking into our charge the “realisation” of figured promises since always, fitting over the land the macrocosmos and the microcosmos. Joining here the raw stone with the prescription from there. Screwing the unequal halves one onto the other for there to be a sign; men had died leaving us their names; over the names we marched like the Chinese over the bridge of their drowned. Each one spoke his own language and everyone understood it.",
+               "es" : "¿Centro del tiempo? ¿Amereida? ¿Cruz sobre la Amereida? No tan sólo para una vista cartográfica y casi cosmonáutica; sino cruz reproducida en todo puesto, en todo lugar: llevada a todo lugar la estrella cardinal, la estrella de los cuatro ángulos del tiempo, en la jornada rectangular, por nuestra tropa de nueve frentes, nuestra muda esperanza políglota, nuestra girante rosa de los vientos, nuestra veleta que inviste las ciudades en todo sentido, trazando signos sobre las casas, apropiándonos hasta el acabo se el papel de ángeles, tomando a nuestro cargo “realizar” las promesas figuradas desde siempre, encajando sobre el terreno el macrocosmos y el microcosmos. Empalmando aquí la piedra cruda con la prescripción del allá. Atornillando las mitades desiguales la una a la otra para que haya un signo; hombres habían muerto dejándonos sus nombres; sobre sus nombres marchábamos como los chinos sobre el puente de sus ahogados. Cada uno hablaba su lengua y todos la comprendían.",
+               "zh" : "时间的中心？阿梅雷伊达？横跨阿梅雷伊达的十字？不只是为了一种地图式的、几乎宇宙航行式的观看；而是十字被复制在每一个位置、每一个地方：那基本方位的星被带到每一个地方，那时间四角的星，在矩形的白昼里，由我们这支九副面孔的队伍，我们沉默的多语希望，我们旋转的罗盘玫瑰，我们那只从一切意义上给城市穿衣的风向标，在房屋上描画符号，直到最后把天使的角色也据为己有，把“实现”那些自古以来就被形象化的承诺当作我们自己的任务，把大宇宙与小宇宙嵌合在大地上。在这里把粗石与那边的规定接合起来。把不相等的两半彼此拧紧，以便有一个符号；人们曾死去，把他们的名字留给我们；我们行进在他们的名字之上，像中国人行进在他们溺亡者的桥上。每个人说自己的语言，而所有人都听得懂。"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "Michel Deguy",
+               "zh" : "米歇尔·德吉"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Reverie de Amereida (Fragmento) / Vision of Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达的遐想》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch072",
+         "img" : 37,
+         "left" : "72",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "en",
+               "text" : "Michel Deguy"
+            },
+            {
+               "lang" : "en",
+               "text" : "Reverie de Amereida (Fragment) / Vision of Amereida (Fragment)"
+            }
+         ],
+         "pages" : "72-73",
+         "right" : "73",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Which is the macrocosmic? That is the question. Its absence is suffered over the land as that which the “local” (of the place) needs to placate its widowhood?",
+               "es" : "¿Cuál es el macrocosmos? Esta es la pregunta. ¿Su falta se sufre sobre el terreno como aquello que el “local” (del lugar) necesita para aplacar su viudez?",
+               "zh" : "什么是大宇宙？这就是问题。它的缺失是否在大地上被承受，就像“本地”（地方的）为了平息自己的守寡状态所需要的那样？"
+            },
+            {
+               "en" : "Magnificent disorder! Ductility to the modelling of everything, the head of nine fronts; obedient and receiving figure and allowing in this way for the all to take on a figure! Let the world play its old fable once more, that the winds come and not only in the sinus of the encaged Pound! And the sea! Like this the forgotten animals when they meet again with the masters of the circus, they redress with their old nerves. And the names that speak again, Ultima Esperanza, but not for a new “foundation”, but retempered in the genealogy of instantly re-sold [re-solved] chaos.",
+               "es" : "¡Desorden magnífico! ¡Ductilidad al modelado de todo, la cabeza de nueve frentes; obediente y así recibiendo figura y permitiendo así que el todo cobre figura! ¡Que el mundo juegue otra vez su antigua fábula, que los vientos acudan para volver a jugar como no lo habían hecho desde hace tiempo, y no solamente en los sinus del enjaulado Pound! ¡Y el mar! Así los animales olvidados cuando vuelven a encontrarse con los amos del circo, se revisten de sus nervios antiguos. Y los nombres que hablan otra vez, Última Esperanza, pero no por una “fundación” nueva, sino retemplado en la genealogía del caos instantáneamente re-venido.",
+               "zh" : "壮丽的失序！对一切之塑形的可塑性，那九副面孔的头；顺从着，于是接受形象，并由此让整体获得形象！让世界再一次玩它古老的寓言，让风前来重新游戏，就像它们很久以来未曾做过的那样，而且不仅仅是在被囚禁的庞德的海湾里！还有海！就这样，被遗忘的动物当它们再次遇见马戏团的主人时，重新披上它们古老的神经。而那些重新说话的名字，最后希望，但不是通过一种新的“奠基”，而是在瞬间重新归来的混沌的谱系中重新淬火。"
+            },
+            {
+               "en" : "Different to the magicians that chain, numb or dislocate, we climb the metamorphosis upstream.",
+               "es" : "Distintos de los magos que encadenan, adormecen o dislocan, nosotros remontamos río arriba las metamorfosis.",
+               "zh" : "不同于那些锁链、催眠或错位的魔法师，我们逆流而上，追溯变形。"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "Michel Deguy",
+               "zh" : "米歇尔·德吉"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Reverie de Amereida (Fragmento) / Vision of Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达的遐想》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch072",
+         "img" : 38,
+         "left" : 74,
+         "loose" : [],
+         "pages" : "74-75",
+         "photoOnly" : 1,
+         "right" : 75,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch072",
+         "img" : 39,
+         "left" : 76,
+         "loose" : [],
+         "pages" : "76-77",
+         "photoOnly" : 1,
+         "right" : 77,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 40,
+         "left" : 78,
+         "loose" : [],
+         "pages" : "78-79",
+         "photoOnly" : 1,
+         "right" : 79,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 41,
+         "left" : 80,
+         "loose" : [],
+         "pages" : "80-81",
+         "photoOnly" : 1,
+         "right" : 81,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 42,
+         "left" : 82,
+         "loose" : [],
+         "pages" : "82-83",
+         "photoOnly" : 1,
+         "right" : 83,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 43,
+         "left" : 84,
+         "loose" : [],
+         "pages" : "84-85",
+         "photoOnly" : 1,
+         "right" : 85,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 44,
+         "left" : 86,
+         "loose" : [],
+         "pages" : "86-87",
+         "photoOnly" : 1,
+         "right" : 87,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 45,
+         "left" : 88,
+         "loose" : [],
+         "pages" : "88-89",
+         "photoOnly" : 1,
+         "right" : 89,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 46,
+         "left" : 90,
+         "loose" : [],
+         "pages" : "90-91",
+         "photoOnly" : 1,
+         "right" : 91,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 47,
+         "left" : "92",
+         "loose" : [],
+         "pages" : "92-93",
+         "right" : "93",
+         "section" : {
+            "en" : "78 Travesia/Action-Sign",
+            "es" : "",
+            "zh" : "78 穿越 / 行动—符号"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "What is a land? What is it to be confused? Is it to take the fundamental tone of that with which one is confused or on the contrary to transform the land into something that is confused with one?",
+               "es" : "¿Qué es una tierra? ¿Qué es confundirse? Es tomar el tono fundamental de aquello con lo cual uno se confunde o, por el contrario, transformar la tierra en algo que se confunde con uno?",
+               "zh" : "什么是土地？什么是与某物相混同？是采取自己所混同之物的根本基调，还是相反，把土地变成某种与自身相混同的东西？"
+            },
+            {
+               "en" : "Amereida II, p. 78.",
+               "es" : "Amereida II, p. 78.",
+               "zh" : "《阿梅雷伊达 II》，第78页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 48,
+         "left" : 94,
+         "loose" : [],
+         "pages" : "94-95",
+         "photoOnly" : 1,
+         "right" : 95,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 49,
+         "left" : "96",
+         "loose" : [],
+         "pages" : "96-97",
+         "right" : "97",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "It is only some moments for men to form an idea of the form of this work, as a solitary runaway star without possible repetition or permanence.",
+               "es" : "Es sólo unos instantes para que los hombres puedan formarse la idea de la forma de esta obra, como una fugitiva estrella solitaria sin posible repetición ni permanencia.",
+               "zh" : "这只是短短片刻，让人得以形成关于这部作品之形式的观念：它像一颗转瞬即逝的孤星，不可能重复，也无法持久。"
+            },
+            {
+               "en" : "Amereida II, p. 216.",
+               "es" : "Amereida II, p. 216.",
+               "zh" : "《阿梅雷伊达 II》，第216页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 50,
+         "left" : 98,
+         "loose" : [],
+         "pages" : "98-99",
+         "photoOnly" : 1,
+         "right" : 99,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 51,
+         "left" : 100,
+         "loose" : [],
+         "pages" : "100-101",
+         "photoOnly" : 1,
+         "right" : 101,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 52,
+         "left" : 102,
+         "loose" : [],
+         "pages" : "102-103",
+         "photoOnly" : 1,
+         "right" : 103,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 53,
+         "left" : 104,
+         "loose" : [],
+         "pages" : "104-105",
+         "photoOnly" : 1,
+         "right" : 105,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 54,
+         "left" : 106,
+         "loose" : [],
+         "pages" : "106-107",
+         "photoOnly" : 1,
+         "right" : 107,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 55,
+         "left" : 108,
+         "loose" : [],
+         "pages" : "108-109",
+         "photoOnly" : 1,
+         "right" : 109,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 56,
+         "left" : 110,
+         "loose" : [],
+         "pages" : "110-111",
+         "photoOnly" : 1,
+         "right" : 111,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 57,
+         "left" : 112,
+         "loose" : [],
+         "pages" : "112-113",
+         "photoOnly" : 1,
+         "right" : 113,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 58,
+         "left" : "115",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "un tubo"
+            },
+            {
+               "lang" : "en",
+               "text" : "on a wall"
+            },
+            {
+               "lang" : "en",
+               "text" : "a tube"
+            }
+         ],
+         "pages" : "115-116",
+         "right" : "116",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "And so Jorge",
+               "es" : "Y entonces Jorge y Alberto y Fédier",
+               "zh" : "于是豪尔赫、阿尔贝托和费迪耶"
+            },
+            {
+               "en" : "And Alberto and Fédier",
+               "es" : "pintaron la caseta del teléfono",
+               "zh" : "画了那座电话亭"
+            },
+            {
+               "en" : "painted the telephone hut",
+               "es" : "sobre un tabique",
+               "zh" : "在一面隔墙上"
+            },
+            {
+               "en" : "each one",
+               "es" : "cada uno",
+               "zh" : "每个人"
+            },
+            {
+               "en" : "from the zinc",
+               "es" : "desde el zinc",
+               "zh" : "从锌出发"
+            },
+            {
+               "en" : "the colour",
+               "es" : "el color",
+               "zh" : "那颜色"
+            },
+            {
+               "en" : "Claudio",
+               "es" : "Claudio",
+               "zh" : "克劳迪奥"
+            },
+            {
+               "en" : "ferruginously",
+               "es" : "ferruginosamente",
+               "zh" : "铁锈般地"
+            },
+            {
+               "en" : "in the low light",
+               "es" : "en la poca luz",
+               "zh" : "在微弱的光里"
+            },
+            {
+               "en" : "the frame",
+               "es" : "la armazón",
+               "zh" : "那框架"
+            },
+            {
+               "en" : "with",
+               "es" : "con",
+               "zh" : "带着"
+            },
+            {
+               "en" : "red old steel cables",
+               "es" : "rojos viejos cables de acero",
+               "zh" : "红色的旧钢缆"
+            },
+            {
+               "zh" : "而法比奥给它们镀了金属"
+            },
+            {
+               "en" : "and Fabio plated them",
+               "es" : "y Fabio los plateó",
+               "zh" : "并把一根管子"
+            },
+            {
+               "en" : "and leaned against a tripod",
+               "es" : "y apoyó contra un trípode",
+               "zh" : "靠在一个三脚架上"
+            },
+            {
+               "en" : "like a",
+               "es" : "como una",
+               "zh" : "像一只"
+            },
+            {
+               "en" : "furious ant",
+               "es" : "furiosa hormiga",
+               "zh" : "狂怒的蚂蚁"
+            },
+            {
+               "en" : "Amereida II, p. 136–137.",
+               "es" : "Amereida II, p. 136–137.",
+               "zh" : "《阿梅雷伊达 II》，第136–137页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 59,
+         "left" : 116,
+         "loose" : [],
+         "pages" : "116-117",
+         "photoOnly" : 1,
+         "right" : 117,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 60,
+         "left" : 118,
+         "loose" : [],
+         "pages" : "118-119",
+         "photoOnly" : 1,
+         "right" : 119,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch078",
+         "img" : 61,
+         "left" : 120,
+         "loose" : [],
+         "pages" : "120-121",
+         "photoOnly" : 1,
+         "right" : 121,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch124",
+         "img" : 62,
+         "left" : "122",
+         "loose" : [],
+         "pages" : "122-123",
+         "right" : "123",
+         "section" : {
+            "en" : "124 Travel diary/Claudio Girola",
+            "es" : "",
+            "zh" : "124 旅行日记 / 克劳迪奥·吉罗拉"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "alabastrine albatross shore pebbles crepitate names names",
+               "es" : "alabastroso albatros orilla guijarros crepitan nombres nombres",
+               "zh" : "雪花石膏般的信天翁 岸 卵石 窸窣作响的名字 名字"
+            },
+            {
+               "en" : "and behind the fog the dawn through whistles",
+               "es" : "y detrás de la niebla el alba por silbos",
+               "zh" : "而雾后是黎明 以口哨"
+            },
+            {
+               "en" : "and to the west a rainbow",
+               "es" : "y al oeste arco iris",
+               "zh" : "而西边 一道彩虹"
+            },
+            {
+               "en" : "We have traced signs. The event becomes verbs, actions, by multiple roads. We are more than one, more than two. There is no soliloquy or dialogue. So the event becomes a chantier. And everyone and this way each one becomes a chantier. There are some signs that are now executions.",
+               "es" : "Hemos trazado signos. El acontecimiento se vuelve verbos, acción, por múltiples vías. Somos más de uno, más de dos. No hay soliloquio ni diálogo. Entonces el acontecimiento se vuelve chantier. Y todos y por ello cada cual nos volvemos chantier. Y hay algunos signos que ahora son ejecuciones.",
+               "zh" : "我们描画了符号。事件通过多条道路变成动词、行动。我们不止一个，不止两个。没有独白，也没有对话。于是事件变成“chantier”（工地）。而所有人，并因此每一个人，都变成那个工地。还有一些符号，现在成了执行。"
+            },
+            {
+               "en" : "Because of that at a given time the look gets to the hands to ignore the mind and the heart. And the hands in the haste of time that concedes the event to find itself with homogeneity, is blinded. Hands, therefore, for their blindness are trusting. They therefore anticipate. Therefore, now, they get to the closed language of a measurable surface in only one view. The wall of a ramshackle hut of the landing. Far away relative of the closed logic of a white sheet of paper that awaits the trace. There, the hands that have not repaired another wall of this hut, the one with a door —beloved situation for the architect— handle the only thing they know how to do with the hand of his: trace the horizon. Next to him the hands of a sculptor trace this profoundness that is untrusted from afar that they know how to reveal. They have left the old stone for slender materials that ask for more than forty wishes at erection. Hands that build occasions: of cities then. Hands of the love of the work they hand over the servile works and guard the relation between sign and work.",
+               "es" : "Por eso en un momento dado la mirada llega hasta las manos para ignorar la mente y el corazón. Y las manos, en la premura del tiempo que concede el acontecimiento para encontrarse con la homogeneidad, se enceguecen. Las manos, así, dentro de su ceguera se fían. Por ello anticipan. Por ello, ahora, llegan hasta el lenguaje cerrado de una superficie mensurable de un solo golpe vista. La pared de una destartalada caseta del desembarcadero. Lejana parienta de la lógica cerrada de una hoja blanca de papel que espera un trazo. Allí, las manos que no han reparado en otra pared de esta caseta, aquella que tiene puerta —situación cara al arquitecto— maniobran lo único que saben hacer las manos de éste: trazar el horizonte. A su lado manos de escultor trazan esa profundidad no confiada a la lejanía que ellos saben revelar. Ellas han dejado la antigua piedra por esbeltos materiales que piden más de cuarenta afanes al erguirse. Manos constructoras de ocasiones: de las ciudades, entonces. Manos del amor a la obra que traspasan los trabajos serviles y guardan la relación entre signo y obra.",
+               "zh" : "因此，在某一刻，目光抵达双手，以便忽略头脑与心。而双手，在事件为与同质性相遇所给予的时间紧迫中，盲了。双手就这样，在其盲目之中信赖。因此它们先行。因此，现在，它们抵达一个可测量表面的封闭语言——那表面只需一眼就被看到。那是码头边一座破败小屋的墙。它是等待一道笔触的白纸那封闭逻辑的远亲。在那里，没有注意到这座小屋另一面墙——那面有门的墙，一个对建筑师而言亲切的处境——的双手，操作着这双手唯一会做的事：描画地平线。在他旁边，雕塑家的双手描画出那种不托付给远方、而他们懂得揭示的深度。它们已经离开了古老的石头，转向细长的材料——那些材料在竖立起来时要求四十多项劳作。建造时机的双手：那时是城市的时机。热爱作品的双手，它们穿过奴性劳作，守护符号与作品之间的关系。"
+            },
+            {
+               "en" : "How much is realized there is quite perceivable. However, the signs are not inscribed in a people whose time is to be ended by a catastrophe. On the contrary, the sign foresees a people who look to build an inheritance, bequeath? A people into which the craft of repair fits? Because of this —will they clean the plates, repaint some of the surfaces, will they bring the signs that the high tides might have taken and perhaps how many more things? We are of that people and those that now stop, that constitute themselves within the first readers and the first copyist of the poems are of this people.",
+               "es" : "Cuanto allí se realiza es bien perecible. Sin embargo, los signos no se inscriben en un pueblo cuyas épocas han de terminar por una catástrofe. Por el contrario, el signo presiente un pueblo que busca construir una heredad. ¿Qué busca construir esa simetría de recibir, embellecer la heredad, legar? ¿Un pueblo en el que cabe el oficio de reparar? Por ello —limpiarán las planchas, repintarán algunas superficies, traerán los signos que las altas mareas pudieran haberse llevado y quizás cuántas cosas más— Nosotros somos esos de ese pueblo y esos que ahora se detienen, que se constituyen en los primeros lectores y el primer copista de los poemas son de este pueblo.",
+               "zh" : "那里所实现的一切都很容易消逝。然而，符号并不是被铭刻在一个各个时代终将以灾难告终的民族之中。相反，符号预感着一个寻求建造一份遗产的民族。那种接受、美化遗产、传留的对称，寻求建造什么？一个容纳修补之业的民族？因此——他们会清洗板子，重涂一些表面，带回那些高潮可能已经带走的符号，也许还有多少别的事情——我们就是那个民族的成员，那些现在停下来的人，那些构成诗篇的第一批读者和第一位抄写者的人，都属于这个民族。"
+            },
+            {
+               "en" : "It is known that the first conquistadors knew that they would receive from the King a worthy treatment and lands and gifts and that conforming to this worthiness they should undertake the labour of conquer. This was a deal. And each was, therefore, a part. From the start there was this understanding of the part. Part in the construction of a continent, and a conqueror could be from the highest rank or from a lesser, and he could want to depend on the crown of Castilla, or other crowns. There was freedom in this his being part. This is, therefore, the inheritance of this people. Inheritance that surely is not transmitted by customs, but instead, by the soul. And these first readers and this first copyist was inserted in this inheritance of the soul.",
+               "es" : "Es conocido que los primeros conquistadores sabían que recibirían del Rey un tratamiento digno y tierras y encomiendas y que conforme a tal dignidad debían realizar la obra de conquista. Había este trato. Y cada cual era, entonces, una parte. Desde el comienzo hubo este saberse parte. Parte en la construcción de un continente, y un conquistador podía ser de primer rango o de uno menor, y podía querer depender de la corona de Castilla o de otras coronas. Había libertad en este su ser parte. Esta es, entonces, la heredad de este pueblo. Heredad que seguramente no se transmite por las costumbres, pero sí, por el alma. Y esos primeros lectores y ese primer copista se insertan en esta heredad del alma.",
+               "zh" : "众所周知，最初的征服者知道他们会从国王那里得到体面的待遇、土地和委托，并且按照这种体面，他们应当完成征服之作。有这样一种约定。于是每个人都是其中一部分。从一开始就有这种自知为一部分的意识。作为建造一个大陆的一部分；一个征服者可以是高等级或较低等级，也可以想依附于卡斯蒂利亚王冠或其他王冠。在他这种“作为一部分”的存在中，有自由。那么，这就是这个民族的遗产。这份遗产当然不是通过习俗传递，而是通过灵魂。而那些第一批读者和那位第一位抄写者，就插入这份灵魂的遗产之中。"
+            },
+            {
+               "en" : "Before them the sign manifests the extension of the island. However, in this inst-…",
+               "es" : "Delante de ellos el signo pone de manifiesto la extensión de la isla. Sin embargo, en ese instan-…",
+               "zh" : "在他们面前，符号显现出岛屿的广延。然而，在这一刻……"
+            },
+            {
+               "en" : "Claudio Girola",
+               "es" : "Claudio Girola",
+               "zh" : "克劳迪奥·吉罗拉"
+            },
+            {
+               "en" : "Travel diary – The Amereida (Fragment)",
+               "es" : "Diario de viaje – La Amereida (Fragmento)",
+               "zh" : "《旅行日记——阿梅雷伊达》（片段）"
+            },
+            {
+               "en" : "Published in Amereida volume II, 1986.",
+               "es" : "1965. Publicado en Amereida volumen II, 1986.",
+               "zh" : "1965年。载于《阿梅雷伊达》第二卷，1986年。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch124",
+         "img" : 63,
+         "left" : "124",
+         "loose" : [],
+         "pages" : "124-125",
+         "right" : "125",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…ant, event and extension are perceivable by only one of our senses. Behind them, at their backs, no support for these men of inheritance.",
+               "es" : "…te, acontecimiento y extensión son percibidos por un único sentido nuestro. Por detrás de ellos, a sus espaldas, ningún respaldo para estos hombres de heredad.",
+               "zh" : "……刻，事件与广延只被我们的一种感官所感知。在它们背后，在它们脊背之后，对这些继承之人没有任何支撑。"
+            },
+            {
+               "en" : "The sign in this way is not a trail [原文作 vigil] that awaits centuries to come for its rediscovery. Neither does it remain an enigmatic ruin whose significance is to be reconstructed. No. The Sign is presence. Presence for the hands that after executing the sign continue to tremble in something that living hands of today tremble: homogeneity. Alluding to this tremor. Not to speak of its nature but to signal how a sign makes all homogeneity tremble —for example, that of a visual field when violence is introduced into the existence of the flash. It is not a matter of faraway lands. But of today, of here, of us. For when it touches, it does not become memory. Memory of the first generative act as the whole act, after which comes an inevitable degeneration. We are not in the midst of such a degeneration of the sign itself. No. He opens.",
+               "es" : "El signo así no es una estela que aguarda siglos futuros para ser redescubierta. Ni permanece como una ruina enigmática cuya significación ha de ser reconstruida. No. El Signo es presente. Presente para las manos que después de ejecutar ese signo siguen temblando en algo que las manos vivas de hoy tiemblan: la homogeneidad. Aludir a ese temblor. No para hablar de su naturaleza sino para señalar cómo un signo hace temblar toda homogeneidad —por ejemplo, la de un campo visual al introducir con violencia la existencia del destello. Es que el Signo no es asunto de tierras alejadas. Sino que de hoy, de aquí, de nosotros. Pues cuanto él toca no se vuelve recuerdo. Recuerdo del primer acto generativo como el acto pleno, después del cual viene una inevitable degeneración. No estamos asistiendo a una tal degeneración del propio signo. No. Él abre.",
+               "zh" : "符号因此不是一道等待未来数个世纪被重新发现的尾迹。它也不停留为一座谜一般的废墟，其意义有待重建。不。符号是当下/在场。为那些在执行该符号之后双手仍在颤抖的人而在场——今天的活人之手所颤抖的东西：同质性。暗示那种颤抖。不是为了谈论它的本性，而是为了指出一个符号如何使一切同质性颤抖——例如，当一个视觉场的同质性被暴力地引入闪光的存在时。符号不是遥远土地的事情。而是今天的事情，这里的事情，我们的事情。因为凡它所触及的，都不会变成记忆。不是把最初生成行动记忆为完整行动、其后随之而来不可避免的退化。我们并没有目睹符号自身这样的退化。不。它打开。"
+            },
+            {
+               "en" : "Claudio Girola",
+               "es" : "Claudio Girola",
+               "zh" : "克劳迪奥·吉罗拉"
+            },
+            {
+               "en" : "Travel diary – The Amereida (Fragment)",
+               "es" : "Diario de viaje – La Amereida (Fragmento)",
+               "zh" : "《旅行日记——阿梅雷伊达》（片段）"
+            },
+            {
+               "en" : "1965. Published in Amereida volume II, 1986.",
+               "es" : "1965. Publicado en Amereida volumen II, 1986.",
+               "zh" : "1965年。载于《阿梅雷伊达》第二卷，1986年。"
+            },
+            {
+               "en" : "Editor’s note: Although the text is attributed in the last edition of the second volume of Amereida (2011) to Claudio Girola, it also contains fragments written by Alberto Cruz.",
+               "es" : "Nota Editorial: si bien el texto es atribuido en la última edición 2011 de Amereida vol. II a Claudio Girola, éste contiene también fragmentos escritos por Alberto Cruz.",
+               "zh" : "编者注：尽管在《阿梅雷伊达》第二卷2011年最新版中，该文本被归为克劳迪奥·吉罗拉所作，但其中也包含阿尔贝托·克鲁斯撰写的片段。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch124",
+         "img" : 64,
+         "left" : "126",
+         "loose" : [],
+         "pages" : "126-127",
+         "right" : "127",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Various Authors, Amereida first volume, Editorial Cooperativa Lambda, Chile, 1967, p. 33.",
+               "es" : "Varios Autores, Amereida volumen primero, Editorial Cooperativa Lambda, Chile, 1967, p. 33.",
+               "zh" : "多位作者，《阿梅雷伊达》第一卷，Lambda 合作出版社，智利，1967年，第33页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch124",
+         "img" : 65,
+         "left" : 128,
+         "loose" : [],
+         "pages" : "128-129",
+         "photoOnly" : 1,
+         "right" : 129,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch132",
+         "img" : 66,
+         "left" : "130",
+         "loose" : [
+            {
+               "lang" : "en",
+               "text" : "How can the maximum, the optimal come from the minimal? That was what we were hoping for."
+            }
+         ],
+         "pages" : "130-131",
+         "right" : "131",
+         "section" : {
+            "en" : "132 Dialogue/Michel Deguy",
+            "es" : "",
+            "zh" : "132 对话 / 米歇尔·德吉"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Extracts from a conversation with Michel Deguy",
+               "es" : "Extractos de una conversación con Michel Deguy",
+               "zh" : "与米歇尔·德吉的谈话摘录"
+            },
+            {
+               "en" : "Paris, March 2015",
+               "es" : "París, marzo 2015",
+               "zh" : "巴黎，2015年3月"
+            },
+            {
+               "en" : "Those of us who went to the Amereida perhaps formed an excessively cellular “us”; naturally, because when a group spends that much time enclosed altogether in one car, difficulties arise. But I have positive memories of those moments.",
+               "es" : "Los que fuimos a la Amereida quizás formábamos un “nosotros” excesivamente celular porque, naturalmente, cuando un grupo pasa tanto tiempo encerrado juntos en un mismo auto, eso puede generar dificultades. Pero yo tengo recuerdos muy positivos de esos momentos.",
+               "zh" : "我们这些去阿梅雷伊达的人，也许构成了一个过于细胞化的“我们”；因为自然，当一个群体长时间一起关在同一辆车里，这会产生困难。但我对那些时刻有非常正面的回忆。"
+            },
+            {
+               "en" : "I recall, for example, when we passed through the Strait of Magellan: it was winter, in July, and Patagonia was flooded. The moment finally came that it was impossible to distinguish the road; it had disappeared under the water. We knew that we were driving on a firm road but we couldn’t see it, so we took it in turns to get out of the car and walk ahead, to be sure that we were following the road. This creates extraordinary moments, particularly when one is young.",
+               "es" : "Recuerdo por ejemplo cuando pasamos por el Estrecho de Magallanes, era el invierno, en julio, y la Patagonia estaba inundada. Llegó un momento en que se volvió imposible distinguir la pista; había desaparecido bajo el agua. Sabíamos que estábamos manejando sobre una pista firme pero no la veíamos, por lo tanto, tomamos turnos para salir y caminar en frente del auto y, así, asegurarnos que seguíamos bien la pista. Eso crea momentos extraordinarios, sobre todo cuando uno es joven.",
+               "zh" : "比如我记得当我们经过麦哲伦海峡时，那是冬天，七月，巴塔哥尼亚被水淹了。到了某一刻，已经不可能分辨道路；它消失在水下。我们知道我们行驶在一条坚实的路上，但看不见它，所以我们轮流下车，在车前步行，以确保我们好好跟着路。这创造出非凡的时刻，尤其当人年轻的时候。"
+            },
+            {
+               "en" : "Later, on the road we saw a light on the horizon and arrived at an estancia in the middle of the night. There we were greeted with mate and waited for the dawn to break.",
+               "es" : "Luego en la ruta vimos una luz en el horizonte y llegamos a una estancia en la mitad de la noche. Ahí nos acogieron con un mate y esperamos que llegara la madrugada.",
+               "zh" : "后来在路上，我们看见地平线上有一道光，半夜抵达了一个庄园。那里的人用马黛茶招待我们，我们等到天亮。"
+            },
+            {
+               "en" : "The voyage had a precarious character at all times. In Tierra del Fuego, for example, we arrived at a small village inhabited by no more than one engineer and one country-peasant. It was named Porvenir or Cerro Sombrero, I cannot remember exactly, but it should still be there. When we arrived, the painter [Pérez-Román] said: “we must do something here, there is an assembly hall”, but one of the difficulties was that when we arrived, the local people looked at us and couldn’t believe their eyes. They must have thought “who are these assholes that have come to annoy us?”.",
+               "es" : "La travesía tenía este carácter precario siempre. En Tierra del Fuego por ejemplo, llegamos a un pueblo muy chico donde vivían quizás un ingeniero y un campesino. Se llamaba Porvenir o Cerro Sombrero, no lo recuerdo, pero debe existir aún. Cuando llegamos, el pintor [Pérez-Román] dijo: “aquí hay que hacer algo, hay una sala comunal”, pero una de las dificultades es que cuando llegábamos a un lugar, la gente local nos miraba y no lo podían creer. Debían pensar “¿quiénes son esos pendejos que vienen a molestarnos?”.",
+               "zh" : "远行始终有这种朝不保夕的性质。比如在火地岛，我们到了一个很小的村子，那里也许住着一个工程师和一个农民。它叫波韦尼尔或松布雷罗山，我记不清了，但应该还在。我们到的时候，画家[佩雷斯-罗曼]说：“这里得做点什么，有一个公共大厅”，但困难之一在于，当我们到一个地方，当地人看着我们，不敢相信。他们一定在想：“这些来烦我们的混蛋是谁？”"
+            },
+            {
+               "en" : "Well, there Pérez-Román asked to use a small room in the municipality. There was a large wall and they wanted to paint a mural across it. He did so and some of us shared a few words. Godo felt very comfortable as he was practically at home. It was a bit more of an effort for me as they all spoke Spanish. Even so, I tried to do something in French, proposing contrasting interpretations between different things, like the present moment, the work of Pérez-Román, a poetic image… two or three things in a text that I couldn’t pronounce in Spanish because I didn’t speak it.",
+               "es" : "Bueno, y allí Pérez-Román pidió el uso de una sala chica de la municipalidad. Había un muro grande y quería pintar un mural. Él hizo su pintura y algunos de nosotros teníamos que decir algunas palabras. Godo se sentía muy cómodo ya que estaba como en casa. A mí me costó un poco porque todos hablaban español. Igual intenté hacer algo en francés, proponiendo lecturas cruzadas entre distintas cosas, como el momento presente, la pintura de Pérez-Román, una imagen poética… dos o tres cosas en un texto que no podía pronunciar en español porque no lo hablaba.",
+               "zh" : "好吧，在那里佩雷斯-罗曼请求使用市政厅的一间小房间。有一面大墙，他想画一幅壁画。他画了他的画，我们中一些人得说几句话。戈多觉得很自在，因为他就像在家里一样。我有点费劲，因为所有人都说西班牙语。我还是试着用法语做点什么，提出在不同事物之间交叉阅读，比如当下时刻、佩雷斯-罗曼的画、一个诗歌形象……在一篇我无法用西班牙语念出的文本里放两三样东西，因为我不会说西班牙语。"
+            },
+            {
+               "en" : "Actually, once, I remember, Tronquoy did something marvellous just for us. The car broke down in the middle of Patagonia and there was wind. He had brought an iron string —it should be in the archives— and made a small module in iron, something very light, a beautiful ball, and brought it about 50 meters further, where the wind was particularly strong, and threw it in the wind.",
+               "es" : "¿Cómo desde lo mínimo puedes salir un máximo, un óptimo? Esa era la esperanza. De hecho una vez, recuerdo, Tronquoy hizo algo maravilloso solamente para nosotros. El auto paró en la mitad de la Patagonia y había viento. Él había traído un hilo de hierro —debe estar en los archivos—, hizo un pequeño módulo en fierro, algo muy liviano, una pelota muy linda y la llevó a unos 50 metros más allá, donde el viento era particularmente fuerte y la tiró en el viento.",
+               "zh" : "如何从最小中得出最大、最优？那就是希望。事实上有一次，我记得，特龙凯只为我们做了一件奇妙的事。车停在巴塔哥尼亚中部，有风。他带来了一根铁线——应该还在档案里——用铁做了一个小模块，很轻的东西，一个很漂亮的球，把它带到大约50米外风特别强的地方，然后把它扔进风里。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch132",
+         "img" : 67,
+         "left" : "132",
+         "loose" : [],
+         "pages" : "132-133",
+         "right" : "133",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "We saw this form leave, like a bush that went flying through the Pampas. It was a gesture that wasn’t for anyone, but as Nietzsche claims, for no one also means for everyone, for the world, for God, for whatever. It was a fortuitous gift, a moment of great beauty. I think if that gesture was made 20 years later, with the presence of cameras documenting the bush, we would all be talking about the marvellous Tronquoy bush: like another kind of urinal, a Koons for no one…",
+               "es" : "Vimos partir esta forma, como un arbusto, que se fue volando por la Pampa. Era un gesto que era para nadie pero, como dice Nietzsche, para nadie significa también para todos, para el mundo, para Dios, para lo que sea. Era una suerte de regalo, un momento de gran belleza. Pienso que si este gesto se hubiera hecho 20 años más tarde, con la presencia de dos cámaras registrando el arbusto, ahora estaríamos todos hablando del arbusto de Tronquoy, maravilloso: es como el inodoro del otro tipo, un Koons para nadie…",
+               "zh" : "我们看着这个形状离开，像一丛灌木，被风吹过潘帕斯草原。那是一个不为任何人而做的手势，但正如尼采所说，不为任何人也就意味着为所有人，为世界，为上帝，为随便什么。那是一种礼物，一个极其美丽的时刻。我想，如果这个手势是在20年后做的，有两台摄像机记录那丛灌木，现在大家都会谈论特龙凯的灌木，太奇妙了：就像另一个家伙的小便池，一个不为任何人而做的昆斯……"
+            },
+            {
+               "en" : "The commencement of the travesía [原文误作 travesty] was not at all heroic, it was simply a question of getting on the road. I remember in the beginning we spent three very boring days in Punta Arenas —which wasn’t initially part of the plan— because we had to find a car, a second-hand Chevrolet: one day, two days, three days in Punta Arenas, in the wind, was very tedious. Although I remember some interesting things about Punta Arenas, for example, the museum dedicated to the extermination of Indians Ona was terrifying. It highlighted how owners of large estates in Argentina and Chile had assassinated them. They also showed us the famous encaged condor. Then we spent 24 very long hours at the edge of the strait, waiting for the arrival of a ship. I imagine that it must be different today as the ships must be faster, and there are probably also helicopters etc., but in those days we had to wait for the boat to cross the Strait of Magellan. So, in my case, I accompanied these initial moments, in which important discussions occurred, and then, Patagonia. When we arrived to the height of Buenos Aires, I had to go back to Europe while the others followed. I therefore participated in events, some phalènes in the Amereida.",
+               "es" : "Esta puesta en marcha de la travesía no fue nada heroico, fue simplemente ponerse en ruta. Recuerdo que al principio tuvimos que pasar tres días muy aburridos en Punta Arenas —lo que no estaba en nuestro plan inicial—, porque teníamos que encontrar un auto, un Chevrolet de segunda mano: un día, dos días, tres días en Punta Arenas, en el viento, era bien tedioso. Aunque recuerdo cosas interesantes de Punta Arenas, por ejemplo, el museo sobre la exterminación de los indios Ona era algo espeluznante. Narraba cómo los latifundistas argentinos y chilenos los habían asesinado. También nos mostraron allá el famoso cóndor, encerrado en una jaula. Después hubo otras 24 horas aburridas al borde del estrecho porque teníamos que esperar la llegada de un transbordador. Me imagino que hoy en día debe ser distinto porque deben tener botes rápidos, helicópteros, etc., pero en esa época tuvimos que esperar para que un bote hiciera el cruce del Estrecho de Magallanes. Entonces, en mi caso, lo que hice fue acompañar estos momentos iniciales, discusiones que fueron muy importantes y después, la Patagonia. Cuando llegamos a la altura de Buenos Aires, yo tuve que volver a Europa mientras los otros siguieron. Así que participé en algunos eventos, algunas phalènes en la Amereida.",
+               "zh" : "这次远行的启动一点也不英雄，只是上路而已。我记得一开始我们不得不在蓬塔阿雷纳斯度过三个非常无聊的日子——这不在我们最初的计划里——因为我们必须找到一辆车，一辆二手雪佛兰：一天、两天、三天待在蓬塔阿雷纳斯，在风里，非常乏味。不过我记得蓬塔阿雷纳斯有些有趣的东西，比如关于灭绝奥纳印第安人的博物馆，那真是令人毛骨悚然。它叙述了阿根廷和智利的大地主如何杀害他们。他们还在那里给我们看了那只著名的秃鹰，关在笼子里。之后我们又在海峡边度过了无聊的24小时，因为必须等一艘渡船到来。我想今天应该不一样了，因为应该有快艇、直升机等等，但在那个时候，我们不得不等一艘船来穿越麦哲伦海峡。所以，就我而言，我所做的就是陪伴这些最初的时刻，那些非常重要的讨论，然后是巴塔哥尼亚。当我们到达布宜诺斯艾利斯附近时，我不得不回欧洲，而其他人继续前进。所以我参与了其中一些事件，阿梅雷伊达中的一些“phalènes”。"
+            },
+            {
+               "en" : "The epic character of the Amereida is not so evident for the navigator, for the European partner. What is the epos? It is the event captured in a narration in which, at the same time, a place or country is inscribed into the depths of memory. Now, I insist: like the French poet that Godofredo Iommi and his friends invited to participate in the Amereida —although one hears “Aeneid” in Amereida— I was probably incapable of understanding its wholeness and depth in the epic element of this event. I was more like a lyrical companion, that is to say, ready to participate in the event in my own way, just as the visual artist did so in his own way, the poet was capable of a certain kind of improvisation. But the epic structure represents one type of profound commemoration for them and above all in relation to Europe, as the movement of the Aeneid is based on the subject of foundations —or re-foundations. What I want to say is that the history of the re-foundation of a continent (or of numerous countries: Chile and Argentina, which is from where we started) constitutes a moment in which a French poet can participate but cannot be one of the re-founders; he is…",
+               "es" : "El carácter épico de la Amereida no aparece tan evidente al navegante, al compañero europeo. ¿Qué es el epos? Es el evento capturado en una narración que, al mismo tiempo, inscribe la memoria profunda de un lugar o un país. Ahora, insisto: como poeta francés invitado por Godofredo Iommi y sus amigos a participar en la Amereida —aunque uno oye “Eneida” en Amereida—, probablemente yo no era capaz de entender en toda su profundidad el elemento épico de este evento. Yo fui más bien como un compañero lírico, es decir, listo para participar en el evento a mi manera, así como el artista visual lo hizo a su manera, el poeta era capaz de una cierta improvisación a la suya. Pero la estructura épica representa un tipo de conmemoración profunda para ellos y sobre todo en relación con Europa, ya que el traslado de la Eneida tiene que ver con un tema de fundaciones —o refundaciones. Lo que quiero decir es que la historia de la refundación de un continente (o de numerosos países: Chile y Argentina, que fue por donde empezamos) constituye un momento en el cual un poeta francés puede participar pero no puede ser uno de los refundadores; es un compa-…",
+               "zh" : "阿梅雷伊达的史诗性格对航海者、对欧洲同伴来说并不那么明显。什么是 epos（史诗）？它是被叙述捕捉的事件，同时把一个地方或一个国家的深层记忆铭刻下来。现在，我要强调：作为一个受戈多弗雷多·约米及其朋友邀请来参与阿梅雷伊达的法国诗人——尽管人们在“Amereida”中听到“Eneida”（《埃涅阿斯纪》）——我可能无法完全深刻地理解这一事件中的史诗元素。我更像是一个抒情同伴，也就是说，准备好以我自己的方式参与事件，正如视觉艺术家以他的方式参与，诗人也能够以他自己的方式进行某种即兴。但史诗结构对他们来说代表一种深层的纪念，尤其是与欧洲的关系，因为《埃涅阿斯纪》的迁移涉及奠基——或重新奠基——的主题。我想说的是，一个大陆（或许多国家：智利和阿根廷，那是我们开始的地方）重新奠基的历史，构成了一个时刻，在这个时刻，一个法国诗人可以参与，但不能成为重新奠基者之一；他是一个同……"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch132",
+         "img" : 68,
+         "left" : "134",
+         "loose" : [
+            {
+               "lang" : "en",
+               "text" : "However, there doesn’t exist one precise moment in which Godo came and proposed the Amereida to us; there were many conversations and we understood that for him it was a fundamental project, this vision towards America, towards Valparaíso and finally towards Ciudad Abierta, as a fundamental project. In these reunions we had at the studio of Enrique Zañartu (who finally did not turn up) sometimes we spoke about Amereida. So I, who took part in these meetings, joined the crew little by little, through readings and discussions, in which we were nevertheless few, no more than ten people; the same ones who finally embarked the great Chevrolet for the expedition, in which I stayed for two or three weeks before I had to return to France."
+            }
+         ],
+         "pages" : "134-135",
+         "right" : "135",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…a companion. Godo would say something very beautiful when he spoke of the Conquest and conquerors. He said that the explorer, Christopher Columbus, would go down to the port and recruit everyone that was there and ready to leave —the same thing happens in Moby Dick. They did not know him but they went along on his adventure. However, the project of re-founding that existed in the conqueror did not exist in them. This is not to say that [in the case of Amereida] there was the desire for Conquest, but the image of a team that embarks on a common project is a fundamental idea for Iommi.",
+               "es" : "…nero. Godo solía decir algo muy bello cuando hablaba de la Conquista y de los conquistadores. Decía que el explorador, Cristóbal Colón, bajaba al puerto y reclutaba todos los que estaban allá, listos para irse —es la misma cosa en Moby Dick—. Ellos no lo conocían pero se unían a la aventura igual. Sin embargo, en ellos no existe este proyecto de refundación que existe en el conquistador. Ojo, no estoy diciendo que [en el caso de la Amereida] existía este deseo de Conquista, pero la imagen de un equipo que se embarca en un proyecto común es una idea fundamental para Iommi.",
+               "zh" : "……同……戈多谈到征服和征服者时，常说一件很美的事。他说，探险者克里斯托弗·哥伦布会下到港口，招募所有在那里、准备出发的人——在《白鲸》里也是同样的事——。他们并不认识他，但同样加入了冒险。然而，在他们身上，并不存在征服者身上那种重新奠基的计划。注意，我不是说[在阿梅雷伊达的情况下]存在这种征服的欲望，但一个团队登上共同计划这一形象，对约米来说是一个根本观念。"
+            },
+            {
+               "en" : "However, the plan that Godo had for an inverted America, the projection of the Cruz del Sur [Southern Cross]: the North is transformed into South etc. And at the same time, the profound political relation between things in Latin America, I cannot pretend that I understood them completely. I am not saying that Godo was a revolutionary; 1968 had not yet arrived in America. So we had to enter into this story, into this project. Retrospectively, I do not know really if it was founding (Amereida), founding for the villages, the people, those who live in Chile, Argentina and, potentially, more to the North, Brazil.",
+               "es" : "Sin embargo, el plan que tenía Godo de la América invertida, la proyección de la Cruz del Sur: el Norte que se transforma en Sur, etc. Y al mismo tiempo, la relación profundamente política de las cosas en América Latina, yo no puedo pretender que las entendí completamente. No estoy diciendo que Godo fuera un revolucionario, el 68 no había pasado todavía allá en América. Así que hubo que entrar en esta historia, en este proyecto. Retrospectivamente, no sé si realmente haya sido fundador (la Amereida), fundador para los pueblos, la gente, aquellos que viven en Chile, Argentina y, potencialmente, más al Norte, en Brasil.",
+               "zh" : "然而，戈多关于“颠倒的美洲”的计划，南十字座的投影：北方变成南方，等等。同时，拉丁美洲事物之间那种深刻的政治关系，我不能假装自己完全理解了。我不是说戈多是一个革命者，68年在那边的美洲还没有发生。所以必须进入这段历史，进入这个计划。回想起来，我不知道它是否真的曾经是奠基性的（阿梅雷伊达），对村庄、对人民、对那些住在智利、阿根廷以及可能更北的巴西的人来说，是否具有奠基性。"
+            },
+            {
+               "en" : "Therefore, the legendary echo and the meditative relation that Godo maintained between story and legend and how to contribute to History in process through legend… I do not know if this project was locally successful… although some of us, myself in France, continue to write about Amereida as a poetic experience.",
+               "es" : "Entonces, el eco legendario y la relación meditativa que Godo mantuvo entre la historia y la leyenda y cómo contribuir a la Historia en proceso a través de una leyenda… no sé si este proyecto resultó exitoso localmente… aunque algunos de nosotros, yo en Francia, seguimos escribiendo cosas sobre la Amereida pero como experiencia poética.",
+               "zh" : "于是，那种传说式的回声，以及戈多在历史与传说之间保持的沉思关系，还有如何通过传说对进行中的历史作出贡献……我不知道这个计划在当地是否成功……尽管我们中一些人，我在法国，继续写关于阿梅雷伊达的东西，但作为诗歌经验来写。"
+            },
+            {
+               "en" : "The later apparition of the Amereida book in 1967 could not have been otherwise, as it was about “Amereida-Aeneid”; this was the enormous ambition of this project. Now —and I want to insist on what it was for me, in my memory—, we could say that it was an enormous Phalène. That is, an enormous sortie (outing) to which was added an intention and an epic comprehension of two or three of those who went, in the first place Iommi, and of course Alberto Cruz and Fabio Cruz. And with them there is a difference —coming from where I came—, on which we have to insist, as I never took myself as a “founder” and less so in South America.",
+               "es" : "La aparición posterior del libro Amereida en 1967 no podía ser de otra manera ya que se trataba de la Amereida-Eneida; esa era la ambición enorme de este proyecto. Ahora bien —y quiero insistir en lo que fue para mí, en mi recuerdo—, podríamos decir que fue una enorme Phalène, es decir una enorme sortie (salida) a la que se sumaba una intención y una comprensión épica de dos o tres de los que iban, en primer lugar Iommi, y por supuesto Alberto Cruz y Fabio Cruz. Y con ellos hay una diferencia, viniendo de donde venía, sobre la cual hay que insistir, ya que nunca me tomé por “fundador” y menos en América del Sur. Sin embargo, no existe un momento preciso en que Godo vino y nos propuso hacer la Amereida; hubo muchas conversaciones y nosotros entendíamos que para él era un proyecto fundamental, esta mirada hacia América, hacia Valparaíso y finalmente hacia la Ciudad Abierta, como proyecto fundamental. En esas reuniones que teníamos en el atelier de Enrique Zañartu (que finalmente no vino) se hablaba de vez en cuando de la Amereida. Entonces yo, que hacía parte de esas reuniones, me sumé a esta tripulación poco a poco, a través de lecturas y discusiones, en las que en todo caso éramos pocos, no más de diez personas; los mismos que al final nos subimos a la gran Chevrolet para hacer la expedición, en la que pude permanecer dos o tres semanas y luego tuve que volver a Francia.",
+               "zh" : "《阿梅雷伊达》一书1967年后来的出现，不可能是别的样子，因为它涉及的是“阿梅雷伊达—埃涅阿斯纪”；这就是这个计划巨大的雄心。那么——我想强调它对我来说、在我的记忆里是什么——我们可以说，那是一次巨大的“Phalène”，也就是说，一次巨大的“sortie”（外出），再加上两三个参加者的一种意图和史诗式的理解，首先是约米，当然还有阿尔贝托·克鲁斯和法比奥·克鲁斯。和他们在一起有一个差异——从我来自的地方来说——必须强调，因为我从不把自己当作“奠基者”，更不用说在南美洲了。然而，并不存在一个确切时刻，戈多来向我们提议做阿梅雷伊达；有很多次谈话，我们明白对他来说这是一个根本计划，这种朝向美洲、朝向瓦尔帕莱索、最终朝向开放城市的目光，是一个根本计划。我们在恩里克·萨尼亚图的工作室里开的那些会（他最后没有来），不时会谈到阿梅雷伊达。于是，我，作为这些会议的一部分，一点一点加入了这支船员队伍，通过阅读和讨论；无论如何，我们人很少，不超过十个人；最后也是这些人登上那辆大雪佛兰去远征，我在其中待了两三个星期，然后不得不回到法国。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch132",
+         "img" : 69,
+         "left" : 136,
+         "loose" : [],
+         "pages" : "136-137",
+         "photoOnly" : 1,
+         "right" : 137,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch132",
+         "img" : 70,
+         "left" : "138",
+         "loose" : [],
+         "pages" : "138-139",
+         "right" : "139",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Various Authors, *Amereida* first volume, Editorial Cooperativa Lambda, Chile, 1967, p. 37.",
+               "es" : "Varios Autores, *Amereida* volumen primero, Editorial Cooperativa Lambda, Chile, 1967, p. 37.",
+               "zh" : "多位作者，《阿梅雷伊达》第一卷，Lambda 合作出版社，智利，1967年，第37页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch142",
+         "img" : 71,
+         "left" : "140",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "al borde del camino"
+            },
+            {
+               "lang" : "es",
+               "text" : "y Godo"
+            },
+            {
+               "lang" : "es",
+               "text" : "y cabezas"
+            },
+            {
+               "lang" : "es",
+               "text" : "waited for the boat"
+            },
+            {
+               "lang" : "es",
+               "text" : "What is sporadical?"
+            },
+            {
+               "lang" : "es",
+               "text" : "stars."
+            },
+            {
+               "lang" : "en",
+               "text" : "Edison Simons"
+            },
+            {
+               "lang" : "en",
+               "text" : "late"
+            },
+            {
+               "lang" : "en",
+               "text" : "at the edge of the path"
+            },
+            {
+               "lang" : "en",
+               "text" : "invited us"
+            },
+            {
+               "lang" : "en",
+               "text" : "waited for the boat"
+            },
+            {
+               "lang" : "en",
+               "text" : "ESPORA"
+            },
+            {
+               "lang" : "en",
+               "text" : "stars."
+            },
+            {
+               "lang" : "en",
+               "text" : "asked"
+            },
+            {
+               "lang" : "en",
+               "text" : "Edison Simons"
+            }
+         ],
+         "pages" : "140-141",
+         "right" : "141",
+         "section" : {
+            "en" : "142 Travel diary/Edison Simons",
+            "es" : "",
+            "zh" : "142 旅行日记 / 爱迪生·西蒙斯"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Travel diary – The Amereida (Fragment) 1965",
+               "es" : "Diario de viaje – La Amereida (Fragmento) 1965",
+               "zh" : "旅行日记——阿梅雷伊达（片段）1965"
+            },
+            {
+               "en" : "Published in Amereida volume II, 1986.",
+               "es" : "Publicado en Amereida volumen II, 1986.",
+               "zh" : "载于《阿梅雷伊达》第二卷，1986年。"
+            },
+            {
+               "en" : "And now with no fog",
+               "es" : "Y ahora sin niebla",
+               "zh" : "而现在没有雾"
+            },
+            {
+               "en" : "and Alberto in aluminium",
+               "es" : "y Alberto en aluminio",
+               "zh" : "而阿尔贝托在铝中"
+            },
+            {
+               "en" : "the points of the beach appear",
+               "es" : "aparecen las puntas de la playa",
+               "zh" : "海滩的尖端出现"
+            },
+            {
+               "en" : "all day",
+               "es" : "todo el día",
+               "zh" : "一整天"
+            },
+            {
+               "en" : "and the low water",
+               "es" : "y el agua baja",
+               "zh" : "而水退下"
+            },
+            {
+               "en" : "the inscription (of entry)",
+               "es" : "la inscripción (de entrada)",
+               "zh" : "铭文（入口的）"
+            },
+            {
+               "en" : "and the smell rose",
+               "es" : "y el olor subió",
+               "zh" : "而气味升起"
+            },
+            {
+               "en" : "and the aluminium, Fabio",
+               "es" : "y en aluminio, Fabio",
+               "zh" : "而在铝中，法比奥"
+            },
+            {
+               "en" : "the water was removed from the keel",
+               "es" : "el agua se quitó de la quilla",
+               "zh" : "水从龙骨上退去"
+            },
+            {
+               "en" : "the inscription (of exit)",
+               "es" : "la inscripción (de salida)",
+               "zh" : "铭文（出口的）"
+            },
+            {
+               "en" : "green grounding",
+               "es" : "verde varada",
+               "zh" : "绿色搁浅"
+            },
+            {
+               "en" : "And we found two wooden wheels",
+               "es" : "Y encontramos dos ruedas de madera",
+               "zh" : "而我们找到两个木轮"
+            },
+            {
+               "en" : "With Jonathan and Fabio",
+               "es" : "Con Jonathan y Fabio",
+               "zh" : "和乔纳森与法比奥一起"
+            },
+            {
+               "en" : "and we put them",
+               "es" : "y las pusimos",
+               "zh" : "我们把它们放好"
+            },
+            {
+               "en" : "we forced the river bed",
+               "es" : "forzamos el lecho del estrecho",
+               "zh" : "我们强行穿过海峡的河床"
+            },
+            {
+               "en" : "one facing the other",
+               "es" : "una frente a otra",
+               "zh" : "一个面对另一个"
+            },
+            {
+               "en" : "the splendid object",
+               "es" : "el espléndido objeto",
+               "zh" : "那辉煌的物体"
+            },
+            {
+               "en" : "looking",
+               "es" : "mirando",
+               "zh" : "看着"
+            },
+            {
+               "en" : "the moon will cover it with sea",
+               "es" : "la luna lo recubrirá de mar",
+               "zh" : "月亮将用海覆盖它"
+            },
+            {
+               "en" : "at the sunrise",
+               "es" : "al alba",
+               "zh" : "在黎明"
+            },
+            {
+               "en" : "stranger",
+               "es" : "tarde",
+               "zh" : "陌生者"
+            },
+            {
+               "en" : "to the west",
+               "es" : "ajeno",
+               "zh" : "向西"
+            },
+            {
+               "en" : "the three kingdoms",
+               "es" : "al poniente",
+               "zh" : "三个王国"
+            },
+            {
+               "en" : "and Godo",
+               "es" : "los tres reinos",
+               "zh" : "在路边"
+            },
+            {
+               "en" : "and in them",
+               "es" : "y en ellas",
+               "zh" : "而戈多"
+            },
+            {
+               "en" : "entered the little house",
+               "es" : "entró en la caseta",
+               "zh" : "而在它们之中"
+            },
+            {
+               "en" : "the sheets of aluminium",
+               "es" : "las hojas de aluminio",
+               "zh" : "进入小屋"
+            },
+            {
+               "en" : "and passed",
+               "es" : "y pasada",
+               "zh" : "那些铝片"
+            },
+            {
+               "en" : "almost the hour",
+               "es" : "casi la hora",
+               "zh" : "而过去了"
+            },
+            {
+               "en" : "and Jorge painted",
+               "es" : "y Jorge pintó",
+               "zh" : "几乎一小时"
+            },
+            {
+               "zh" : "而豪尔赫画了"
+            },
+            {
+               "en" : "some 15 meters",
+               "es" : "unos 15 metros",
+               "zh" : "大约15米"
+            },
+            {
+               "en" : "he left",
+               "es" : "salió",
+               "zh" : "他离开"
+            },
+            {
+               "en" : "three panels",
+               "es" : "tres paneles",
+               "zh" : "三块面板"
+            },
+            {
+               "en" : "and told me",
+               "es" : "y me dijo",
+               "zh" : "而对我说"
+            },
+            {
+               "en" : "in drum of deposit",
+               "es" : "en tambor de depósito",
+               "zh" : "在储油桶里"
+            },
+            {
+               "en" : "You write",
+               "es" : "Escribe tú",
+               "zh" : "你写"
+            },
+            {
+               "en" : "and the people were arriving",
+               "es" : "y la gente iba llegando",
+               "zh" : "而人们陆续到来"
+            },
+            {
+               "es" : "los camiones de E.N.A.P.",
+               "zh" : "E.N.A.P.的卡车"
+            },
+            {
+               "en" : "the trucks of E.N.A.P.",
+               "es" : "¿Qué es Amereida?",
+               "zh" : "什么是阿梅雷伊达？"
+            },
+            {
+               "en" : "What is Amereida?",
+               "es" : "y un hombre",
+               "zh" : "而一个男人"
+            },
+            {
+               "en" : "and a man",
+               "es" : "y a caballo",
+               "zh" : "骑马"
+            },
+            {
+               "en" : "on horseback",
+               "es" : "nos invitó",
+               "zh" : "邀请了我们"
+            },
+            {
+               "en" : "a child from there",
+               "es" : "un niño de allí",
+               "zh" : "一个当地孩子"
+            },
+            {
+               "en" : "lent me a horse",
+               "es" : "me prestó un caballo",
+               "zh" : "借给我一匹马"
+            },
+            {
+               "en" : "on the beach and the grass",
+               "es" : "por la playa y el pasto",
+               "zh" : "沿着海滩和草地"
+            },
+            {
+               "en" : "he said",
+               "es" : "dijo",
+               "zh" : "他说"
+            },
+            {
+               "en" : "Letter for Mr. Boulting",
+               "es" : "Letter for Mr. Boulting",
+               "zh" : "给博尔廷先生的信"
+            },
+            {
+               "en" : "indian stones",
+               "es" : "piedras de indio",
+               "zh" : "印第安石头"
+            },
+            {
+               "en" : "The name of the place where we",
+               "es" : "The name of the place where we",
+               "zh" : "我们等待船的地方的名字"
+            },
+            {
+               "en" : "and heads",
+               "es" : "de flecha",
+               "zh" : "和头颅"
+            },
+            {
+               "en" : "of arrows",
+               "es" : "allí",
+               "zh" : "箭"
+            },
+            {
+               "en" : "there",
+               "es" : "ESPORA",
+               "zh" : "那里"
+            },
+            {
+               "en" : "What is sporadical?",
+               "es" : "en su estancia",
+               "zh" : "埃斯波拉"
+            },
+            {
+               "en" : "in his farm",
+               "zh" : "在他的庄园里"
+            },
+            {
+               "en" : "Pores like blackness between",
+               "es" : "Pores like blackness between",
+               "zh" : "毛孔像星星之间的黑色"
+            },
+            {
+               "en" : "and gave thanks",
+               "es" : "y dio las gracias",
+               "zh" : "而表示感谢"
+            },
+            {
+               "en" : "Boulting said:",
+               "es" : "Dijo Boulting:",
+               "zh" : "博尔廷说："
+            },
+            {
+               "en" : "for the gift",
+               "es" : "por el don",
+               "zh" : "为这份礼物"
+            },
+            {
+               "en" : "“I am perplexed: these moments in",
+               "es" : "“I am perplexed: these moments in",
+               "zh" : "“我困惑：这些时刻在"
+            },
+            {
+               "en" : "and others came",
+               "es" : "y otros vinieron",
+               "zh" : "而其他人来了"
+            },
+            {
+               "en" : "the car, doing nothing.",
+               "es" : "the car, doing nothing.",
+               "zh" : "车里，什么也不做。"
+            },
+            {
+               "en" : "and copied",
+               "es" : "y copiaron",
+               "zh" : "而抄写"
+            },
+            {
+               "en" : "Shakespeare Said: “Nor I nor any man that but",
+               "es" : "Shakespeare Said: “Nor I nor any man that but",
+               "zh" : "莎士比亚说：“无论是我还是任何人，"
+            },
+            {
+               "en" : "the words",
+               "es" : "las palabras",
+               "zh" : "词语"
+            },
+            {
+               "en" : "man is",
+               "es" : "man is",
+               "zh" : "人"
+            },
+            {
+               "en" : "with nothing shall be pleased",
+               "es" : "with nothing shall be pleased",
+               "zh" : "一无所有就不会满足"
+            },
+            {
+               "en" : "and the sailor with the",
+               "es" : "y el marinero del",
+               "zh" : "而水手带着"
+            },
+            {
+               "en" : "till he be eased",
+               "es" : "till he be eased",
+               "zh" : "直到他得到缓解"
+            },
+            {
+               "en" : "green pull-over",
+               "es" : "pull-over verde",
+               "zh" : "绿色套头衫"
+            },
+            {
+               "en" : "tarde",
+               "es" : "preguntó",
+               "zh" : "问道"
+            },
+            {
+               "en" : "什么是 sporadical？",
+               "zh" : "爱迪生·西蒙斯"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch142",
+         "img" : 72,
+         "left" : "142",
+         "loose" : [
+            {
+               "lang" : "orig",
+               "text" : "Oh isla"
+            },
+            {
+               "lang" : "orig",
+               "text" : "lago que cuna. Tus flamencos en llamas —"
+            },
+            {
+               "lang" : "orig",
+               "text" : "Lo que “acaba de ser” (en su doble sentido)."
+            },
+            {
+               "lang" : "orig",
+               "text" : "La lana se hace en la superficie en que deberían encontrarse el calor y el frío. La lana se hace entre el calor y el frío"
+            },
+            {
+               "lang" : "orig",
+               "text" : "adiós"
+            },
+            {
+               "lang" : "orig",
+               "text" : "(para que subsistan ambos)"
+            },
+            {
+               "lang" : "orig",
+               "text" : "(la lana cuida)"
+            },
+            {
+               "lang" : "orig",
+               "text" : "Diario de viaje – La Amereida (Fragmento) 1965. Publicado en Amereida volumen II, 1986."
+            },
+            {
+               "lang" : "orig",
+               "text" : "“with being nothing”. And Hamlet, Act V: the INTERIM is mine."
+            },
+            {
+               "lang" : "orig",
+               "text" : "the second drum drummed, shattered, burst in waters that swirled."
+            },
+            {
+               "lang" : "orig",
+               "text" : "like that"
+            },
+            {
+               "lang" : "orig",
+               "text" : "the third drum played"
+            },
+            {
+               "lang" : "orig",
+               "text" : "to come in you. intangible light entry. to breathe with the sea."
+            },
+            {
+               "lang" : "orig",
+               "text" : "Oh island"
+            }
+         ],
+         "pages" : "142-143",
+         "right" : "143",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 0,
+         "units" : [
+            {
+               "en" : "donde llamas se ahogan, carroña maúlla, preguntas se alzan",
+               "zh" : "在那里火焰溺亡，腐肉喵叫，问题升起"
+            },
+            {
+               "en" : "el primer tambor nunca antes redoblado: un corazón lunático, loco por honduras en el horizonte.",
+               "zh" : "第一面鼓，从未被重击过：一颗癫狂的心，为地平线上的深处而疯狂。"
+            },
+            {
+               "zh" : "（英语版此处插入：“一无所有”。以及《哈姆雷特》第五幕：中间期是我的。）"
+            },
+            {
+               "en" : "el segundo tambor tamborilado, destrozado, reviente en aguas que se arremolinan.",
+               "zh" : "第二面鼓，被敲击，被击碎，在旋转的水中爆裂。"
+            },
+            {
+               "en" : "así",
+               "zh" : "就这样"
+            },
+            {
+               "en" : "el tercer tambor tocó",
+               "zh" : "第三面鼓敲响"
+            },
+            {
+               "en" : "venir dentro de ti. entrada intangible luz. respirar con el mar.",
+               "zh" : "来到你之内。不可触摸的光之入口。与海一起呼吸。"
+            },
+            {
+               "en" : "en Tierra del Fuego",
+               "zh" : "在火地岛"
+            },
+            {
+               "en" : "Las Ovejas no se ven",
+               "zh" : "看不见羊群"
+            },
+            {
+               "en" : "El Petróleo no se ve.",
+               "zh" : "看不见石油。"
+            },
+            {
+               "en" : "moluscos celan tales secretos como bodas de aguas y greda; los sueños de piedras moluscos revelan a la niebla",
+               "zh" : "软体动物藏匿着这样的秘密，如水与黏土的婚礼；石头的梦，软体动物向雾揭示。"
+            },
+            {
+               "en" : "Drenaje del cielo y la tierra. Plano de proyección. Membrana. Tímpano. Punto de unión. Mejor: superficie de unión. Mejor aún: Superficie de CONTACTO.",
+               "zh" : "天空与大地的排水。投影平面。膜。鼓膜。连接点。更好：连接表面。更好：接触表面。"
+            },
+            {
+               "en" : "oh corona",
+               "zh" : "哦岛屿"
+            },
+            {
+               "en" : "Edison Simons",
+               "zh" : "哦冠冕"
+            },
+            {
+               "en" : "where flames drown, carrion meows, questions rise",
+               "zh" : "摇篮般的湖。你火焰般的火烈鸟——"
+            },
+            {
+               "en" : "the first drum never redoubled before: a lunatic heart, crazy for honduras in the horizon.",
+               "zh" : "那“刚刚发生/刚刚成为”的东西（在其双重意义上）。"
+            },
+            {
+               "en" : "molluscs conjure such secrets as weddings of water and clay; the dreams of stones molluscs reveal to the fog",
+               "zh" : "羊毛在冷与热应当相遇的表面上生成。羊毛在冷与热之间生成。"
+            },
+            {
+               "en" : "oh crown",
+               "zh" : "再见"
+            },
+            {
+               "en" : "lake that cradles. Your flamencos on fire —",
+               "zh" : "（为了让两者都存续）"
+            },
+            {
+               "en" : "goodbye",
+               "zh" : "（羊毛照看着）"
+            },
+            {
+               "en" : "Edison Simons",
+               "zh" : "爱迪生·西蒙斯"
+            },
+            {
+               "en" : "Travel diary – The Amereida (Fragment) 1965. Published in Amereida volume II, 1986.",
+               "zh" : "《旅行日记——阿梅雷伊达》（片段）1965年。载于《阿梅雷伊达》第二卷，1986年。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch142",
+         "img" : 73,
+         "left" : "144",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "Así"
+            },
+            {
+               "lang" : "es",
+               "text" : "Así"
+            },
+            {
+               "lang" : "es",
+               "text" : "Así"
+            },
+            {
+               "lang" : "en",
+               "text" : "Diario de viaje – La Amereida (Fragmento) 1965. Publicado en Amereida volumen II, 1986."
+            },
+            {
+               "lang" : "en",
+               "text" : "And at 5"
+            }
+         ],
+         "pages" : "144-145",
+         "right" : "145",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Edison Simons",
+               "es" : "Y a las 5",
+               "zh" : "而在5点"
+            },
+            {
+               "en" : "we left Espora",
+               "es" : "partimos de Espora",
+               "zh" : "我们从埃斯波拉出发"
+            },
+            {
+               "en" : "and on the side",
+               "es" : "y en la orilla",
+               "zh" : "在岸边"
+            },
+            {
+               "en" : "in front",
+               "es" : "enfrente",
+               "zh" : "对面"
+            },
+            {
+               "en" : "there were fires",
+               "es" : "había fuegos",
+               "zh" : "有火光"
+            },
+            {
+               "en" : "one big",
+               "es" : "uno grande",
+               "zh" : "一大片"
+            },
+            {
+               "en" : "where",
+               "es" : "donde",
+               "zh" : "在那里"
+            },
+            {
+               "en" : "to the soul the pulse of his step",
+               "es" : "al alma el pulso de su paso",
+               "zh" : "给灵魂，他脚步的脉搏"
+            },
+            {
+               "en" : "and to his words",
+               "es" : "y a sus palabras",
+               "zh" : "给他的词语"
+            },
+            {
+               "en" : "the confident truce of its oblivion",
+               "es" : "la tregua confidente de su olvido",
+               "zh" : "他遗忘的自信休战"
+            },
+            {
+               "en" : "The friendship of the pampa is the meeting",
+               "es" : "La amistad de la pampa es el encuentro",
+               "zh" : "潘帕斯的友谊是相遇"
+            },
+            {
+               "en" : "the grace: the greeting",
+               "es" : "la gracia: el saludo",
+               "zh" : "是恩典：问候"
+            },
+            {
+               "en" : "in Punta Este",
+               "es" : "en Punta Este",
+               "zh" : "在蓬塔埃斯特"
+            },
+            {
+               "en" : "and another further away",
+               "es" : "y otro más lejos",
+               "zh" : "还有更远的一个"
+            },
+            {
+               "en" : "small",
+               "es" : "chico",
+               "zh" : "小小的"
+            },
+            {
+               "en" : "the horizon keeps your death",
+               "es" : "el horizonte guarda tu muerte",
+               "zh" : "地平线守护你的死亡"
+            },
+            {
+               "en" : "like a tomb",
+               "es" : "como tumba",
+               "zh" : "像一座坟墓"
+            },
+            {
+               "en" : "and the inscription of exit",
+               "es" : "y la inscripción de salida",
+               "zh" : "以及出口的铭文"
+            },
+            {
+               "en" : "and we crossed",
+               "zh" : "而我们穿过"
+            },
+            {
+               "en" : "Like this",
+               "es" : "y cruzamos",
+               "zh" : "就这样"
+            },
+            {
+               "en" : "with the inscription of the entrance",
+               "es" : "con la inscripción de entrada",
+               "zh" : "带着入口的铭文"
+            },
+            {
+               "es" : "salir del Sur",
+               "zh" : "离开南方"
+            },
+            {
+               "en" : "here the earth as a wine",
+               "es" : "aquí la tierra como un vino",
+               "zh" : "这里土地像酒"
+            },
+            {
+               "es" : "cruzados",
+               "zh" : "交错着"
+            },
+            {
+               "en" : "rises to its inclemency",
+               "es" : "sube a su inclemencia",
+               "zh" : "升向它的严酷"
+            },
+            {
+               "en" : "the skies move the path",
+               "es" : "los cielos mueven el camino",
+               "zh" : "天空移动道路"
+            },
+            {
+               "en" : "the light bares her arms",
+               "es" : "la luz desnuda sus brazos",
+               "zh" : "光裸露出她的双臂"
+            },
+            {
+               "en" : "Like this",
+               "es" : "por su fuego",
+               "zh" : "就这样"
+            },
+            {
+               "en" : "by its fire",
+               "es" : "el viento apaga la nostalgia",
+               "zh" : "通过它的火"
+            },
+            {
+               "en" : "the wind turns off the nostalgia",
+               "es" : "salir del fuego",
+               "zh" : "风熄灭乡愁"
+            },
+            {
+               "en" : "leave the fire",
+               "zh" : "离开火"
+            },
+            {
+               "en" : "and the peace hides between the bodies",
+               "es" : "y la paz se esconde entre los cuerpos",
+               "zh" : "而和平藏在身体之间"
+            },
+            {
+               "en" : "masked",
+               "es" : "enmascarados",
+               "zh" : "被面具遮蔽"
+            },
+            {
+               "en" : "by its fog",
+               "es" : "por su niebla",
+               "zh" : "被它的雾"
+            },
+            {
+               "en" : "Whoever Enters",
+               "es" : "Quién Entre",
+               "zh" : "谁进入"
+            },
+            {
+               "en" : "give to the eye the time of the bird",
+               "es" : "de al ojo el tiempo del",
+               "zh" : "给眼睛以鸟的时间"
+            },
+            {
+               "en" : "Like this",
+               "es" : "pájaro",
+               "zh" : "就这样"
+            },
+            {
+               "en" : "Leave the fog",
+               "es" : "salir de la niebla",
+               "zh" : "离开雾"
+            },
+            {
+               "en" : "white",
+               "es" : "blancos",
+               "zh" : "白色"
+            },
+            {
+               "en" : "for the cross to grow",
+               "es" : "para que crezca el cruce",
+               "zh" : "为了让十字生长"
+            },
+            {
+               "en" : "alba mestizo",
+               "es" : "alba mestiza",
+               "zh" : "混血的黎明"
+            },
+            {
+               "en" : "for the cross to grow",
+               "es" : "para que crezca el cruce",
+               "zh" : "为了让十字生长"
+            },
+            {
+               "en" : "fire with earth",
+               "es" : "fuego con tierra",
+               "zh" : "火与土地"
+            },
+            {
+               "en" : "for the cross to grow",
+               "es" : "para que crezca el cruce",
+               "zh" : "为了让十字生长"
+            },
+            {
+               "en" : "we must cross",
+               "es" : "hay que cruzar",
+               "zh" : "必须穿越"
+            },
+            {
+               "en" : "Natur ist rein versteinerte(r) Stab Zauber stadt",
+               "es" : "Natur ist rein versteinerte(r) Stab Zauber stadt",
+               "zh" : "自然纯净 石化的（一根）杖 魔法之城"
+            },
+            {
+               "en" : "Edison Simons",
+               "zh" : "爱迪生·西蒙斯"
+            },
+            {
+               "en" : "Travel diary – The Amereida (Fragment) 1965. Published in Amereida volume II, 1986.",
+               "zh" : "《旅行日记——阿梅雷伊达》（片段）1965年。载于《阿梅雷伊达》第二卷，1986年。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch142",
+         "img" : 74,
+         "left" : "146",
+         "loose" : [],
+         "pages" : "146-147",
+         "right" : "147",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Various Authors, *Amereida* first volume, Editorial Cooperativa Lambda, Chile, 1967, p. 41.",
+               "es" : "*Varios Autores, Amereida volumen primero, Editorial Cooperativa Lambda, Chile, 1967, p. 41.**",
+               "zh" : "多位作者，《阿梅雷伊达》第一卷，Lambda 合作出版社，智利，1967年，第41页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch142",
+         "img" : 75,
+         "left" : 148,
+         "loose" : [],
+         "pages" : "148-149",
+         "photoOnly" : 1,
+         "right" : 149,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch150",
+         "img" : 76,
+         "left" : 150,
+         "loose" : [],
+         "pages" : "150-151",
+         "photoOnly" : 1,
+         "right" : 151,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch150",
+         "img" : 77,
+         "left" : 152,
+         "loose" : [],
+         "pages" : "152-153",
+         "photoOnly" : 1,
+         "right" : 153,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch150",
+         "img" : 78,
+         "left" : 154,
+         "loose" : [],
+         "pages" : "154-155",
+         "photoOnly" : 1,
+         "right" : 155,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch150",
+         "img" : 79,
+         "left" : "156",
+         "loose" : [],
+         "pages" : "156-157",
+         "right" : "157",
+         "section" : {
+            "en" : "150 Travesia/Word-Round",
+            "es" : "",
+            "zh" : "150 穿越 / 词语—轮舞"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "The string of answers refines and sharpens the senses. More than one direction, those games pre-announce the new apertures with which we find ourselves. And just like it occurs in Dorotea and will always occur.",
+               "es" : "La retahíla de respuestas afina y aguza los sentidos. Más que una dirección, esos juegos preanuncian las nuevas aperturas con que nos encontraremos. Y así, tal como en Dorotea ocurre y ocurrirá siempre.",
+               "zh" : "一连串的回答使感官变得精细而敏锐。那些游戏所预先宣告的，不止一个方向，而是我们将要与之相遇的新的开口。而事情就这样，正如在多罗特亚发生的那样，并将永远发生。"
+            },
+            {
+               "en" : "Amereida II, p. 208.",
+               "es" : "Amereida II, p. 208.",
+               "zh" : "《阿梅雷伊达 II》，第208页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch150",
+         "img" : 80,
+         "left" : 158,
+         "loose" : [],
+         "pages" : "158-159",
+         "photoOnly" : 1,
+         "right" : 159,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch150",
+         "img" : 81,
+         "left" : 160,
+         "loose" : [],
+         "pages" : "160-161",
+         "photoOnly" : 1,
+         "right" : 161,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch150",
+         "img" : 82,
+         "left" : "162",
+         "loose" : [],
+         "pages" : "162-163",
+         "right" : "163",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Various Authors, *Amereida* first volume, Editorial Cooperativa Lambda, Chile, 1967, p. 169.",
+               "es" : "Varios Autores, *Amereida* volumen primero, Editorial Cooperativa Lambda, Chile, 1967, p. 169.",
+               "zh" : "多位作者，《阿梅雷伊达》第一卷，Lambda 合作出版社，智利，1967年，第169页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch166",
+         "img" : 83,
+         "left" : "164",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "“Dichterisch wohnet der Mensch”"
+            },
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "en",
+               "text" : "“Dichterisch wohnet der Mensch”"
+            },
+            {
+               "lang" : "en",
+               "text" : "François Fédier"
+            },
+            {
+               "lang" : "en",
+               "text" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)"
+            },
+            {
+               "lang" : "en",
+               "text" : "“Dichterisch wohnet der Mensch”（人诗意地栖居）"
+            }
+         ],
+         "pages" : "164-165",
+         "right" : "165",
+         "section" : {
+            "en" : "166 Diary and notes of The Amereida/Francois Fédier",
+            "es" : "",
+            "zh" : "166 《阿梅雷伊达》日记与笔记 / 弗朗索瓦·费迪耶"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Sunday 1st August. Morning",
+               "es" : "Domingo 1 de agosto. Mañana",
+               "zh" : "8月1日，星期日。早晨"
+            },
+            {
+               "en" : "We sleep in a little house settled but not occupied, which forms part of a Yugoslavian farm.",
+               "es" : "Dormimos en una casita instalada pero no ocupada, la cual formaba parte de una estancia yugoslava.",
+               "zh" : "我们睡在一座安置好却无人居住的小屋里，它属于一个南斯拉夫庄园。"
+            },
+            {
+               "en" : "The phalene doesn’t stop starting, or rather being at its start. I don’t notice a state, only a start. Perhaps I’m not a good witness. Always at the limit of desperation and at least generally demoralized.",
+               "es" : "La phalène no cesa de recomenzar, o más bien de estar en su comienzo. No noto un estado, tan solo un partir. Tal vez no sea yo buen testigo. Siempre al borde de la desesperación y por lo menos generalmente desmoralizado.",
+               "zh" : "phalène 不停重新开始，或者更确切地说，始终处于它的开端。我注意到的不是一种状态，而只是一次出发。也许我不是一个好见证者。总是处于绝望的边缘，而且至少通常来说士气低落。"
+            },
+            {
+               "en" : "Leaving, in the morning, for a pee, suddenly: the wonder of the site under the snow.",
+               "es" : "Saliendo, de mañana, a mear, de repente: la maravilla del terreno bajo la nieve.",
+               "zh" : "早晨出去撒尿时，突然：雪下地形的奇迹。"
+            },
+            {
+               "en" : "But where is America? Could it be anywhere?",
+               "es" : "Pero ¿dónde está América? ¿Podría estar en cualquier parte?",
+               "zh" : "但美洲在哪里？它可能在随便什么地方吗？"
+            },
+            {
+               "en" : "It takes a special eye to see the essence, the eidos. Specific task.",
+               "es" : "Hace falta un ojo especial para ver la esencia, el eidos. Tarea específica.",
+               "zh" : "需要一只特殊的眼睛才能看见本质，即 eidos（理念/形式）。这是特定的任务。"
+            },
+            {
+               "en" : "dichterisch doesn’t mean: poetically.",
+               "es" : "dichterisch no quiere decir: poéticamente.",
+               "zh" : "dichterisch 并不意味着：诗意地。"
+            },
+            {
+               "en" : "We are in an area in which that word cannot be understood",
+               "es" : "Estamos en un área en donde esa palabra no puede ser comprendida",
+               "zh" : "我们处于一个这个词无法被理解的区域。"
+            },
+            {
+               "en" : "I glimpse at the possibility of Amereida: the vivification of this, the new area. That Amereida transforms the dwelling in such a way that this word is UNDERSTOOD.",
+               "es" : "Entreveo una posibilidad de Amereida: la vivificación de esto, el área nueva. Que Amereida transforme la habitación de tal suerte que esta palabra sea COMPRENDIDA.",
+               "zh" : "我隐约看见阿梅雷伊达的一种可能性：使这一点，这个新区域，获得生命。让阿梅雷伊达如此改变栖居，以至于这个词被理解。"
+            },
+            {
+               "en" : "Permanence. Today.",
+               "es" : "Demoranza. Hoy.",
+               "zh" : "停留。今天。"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "François Fédier",
+               "zh" : "弗朗索瓦·费迪耶"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达日记与笔记》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch166",
+         "img" : 84,
+         "left" : "166",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "en",
+               "text" : "In phalene, I feel free"
+            },
+            {
+               "lang" : "en",
+               "text" : "François Fédier"
+            }
+         ],
+         "pages" : "166-167",
+         "right" : "167",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Because the question is: did we know (or was it known —Godo himself!) what Amereida is?",
+               "es" : "Porque la interrogante es: ¿sabíamos nosotros (o se sabía —¡Godo mismo!) lo que es Amereida?",
+               "zh" : "因为问题在于：我们当时知道（或者人们知道——甚至戈多本人知道！）阿梅雷伊达是什么吗？"
+            },
+            {
+               "en" : "I reply, the 15th August, as a catechumen: the calculation of America, the foundation of the place. Which resolves nothing! The calculation? I hardly understand when it is about a Poem, much less the American continent!",
+               "es" : "Yo respondo, el 15 de agosto, como un catecúmeno: el cálculo de América, la fundación del lugar. ¡Lo cual nada resuelve! ¿El cálculo? Apenas comprendo cuándo se trata de un Poema, ¡mucho menos para el continente americano!",
+               "zh" : "我在8月15日像一个初学者那样回答：美洲的计算，地方的奠基。这什么也解决不了！计算？涉及一首诗时我勉强能理解，更不用说美洲大陆了！"
+            },
+            {
+               "en" : "The foundation of the place is practically synonymous with “calculation of America”.",
+               "es" : "La fundación del lugar es prácticamente sinónimo del “cálculo de América”.",
+               "zh" : "地方的奠基实际上就是“美洲的计算”的同义词。"
+            },
+            {
+               "en" : "I keep saying, consequently, not my thoughts, but my feelings, just as I have re-felt:",
+               "es" : "Vuelvo a decir, en consecuencia, no mis pensamientos, sino mis sentimientos, tal como lo he re-sentido:",
+               "zh" : "因此，我再说一遍，不是我的思想，而是我的感受，正如我重新感受到的那样："
+            },
+            {
+               "en" : "In phalene one left to discover",
+               "es" : "En phalène uno partía a descubrir",
+               "zh" : "在 phalène 中，人出发去发现"
+            },
+            {
+               "en" : "In Amereida one leaves to find",
+               "es" : "En Amereida uno parte para hallar",
+               "zh" : "在阿梅雷伊达中，人出发去寻找"
+            },
+            {
+               "en" : "The phalene is only linked by an internal “law” (formal)",
+               "es" : "La phalène sólo está ligada por una “ley” interna (formal)",
+               "zh" : "phalène 只由一条内部的“法则”（形式性的）连接"
+            },
+            {
+               "en" : "Amereida is linked by a long-term project (detailed)",
+               "es" : "Amereida está ligada por un proyecto de largo aliento (detallado)",
+               "zh" : "阿梅雷伊达由一个长期计划（详尽的）连接"
+            },
+            {
+               "en" : "In Amereida I feel like a slave",
+               "es" : "En phalène, me siento libre",
+               "zh" : "在 phalène 中，我感到自由"
+            },
+            {
+               "en" : "Without any judgement of value one isn’t good and the other bad. It’s just not the same thing.",
+               "es" : "En Amereida me siento esclavo",
+               "zh" : "在阿梅雷伊达中，我感到像个奴隶"
+            },
+            {
+               "en" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "es" : "Sin ningún juicio de valor no está una bien y otra mal. Es que no es tan sólo la misma cosa.",
+               "zh" : "没有任何价值判断，不是说一个好比另一个坏。只是它们并非同一回事。"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "François Fédier",
+               "zh" : "弗朗索瓦·费迪耶"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达日记与笔记》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch166",
+         "img" : 85,
+         "left" : "168",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "en",
+               "text" : "We have no destiny."
+            },
+            {
+               "lang" : "en",
+               "text" : "François Fédier"
+            }
+         ],
+         "pages" : "168-169",
+         "right" : "169",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Can this song still resonate today? Where is the FORCE?",
+               "es" : "¿Puede este canto aún resonar hoy? ¿Dónde está la FUERZA?",
+               "zh" : "这首歌今天还能回响吗？力量在哪里？"
+            },
+            {
+               "en" : "The technique, the trance of returning —returned— DESTINY.",
+               "es" : "La técnica, en trance de volverse —ya vuelta— DESTINO.",
+               "zh" : "技术，正处于变成——已经变成——命运的迷狂之中。"
+            },
+            {
+               "en" : "AMEREIDA: resource on the earth, over the field, has a place. It is donation.",
+               "es" : "AMEREIDA: recurso sobre la tierra, sobre el campo, tiene lugar. Es donación.",
+               "zh" : "阿梅雷伊达：在大地上、在田野上的资源，拥有位置。它是赠予。"
+            },
+            {
+               "en" : "There is no choice.",
+               "es" : "No hay elección.",
+               "zh" : "没有选择。"
+            },
+            {
+               "en" : "Donation is opposed to endowment.",
+               "es" : "La donación se opone a la dotación.",
+               "zh" : "赠予与配置相对立。"
+            },
+            {
+               "en" : "DONATION OF THE HAVING-PLACE",
+               "es" : "DONACIÓN DEL TENER-LUGAR",
+               "zh" : "拥有—位置的赠予"
+            },
+            {
+               "en" : "To the place of endowment of Destiny.",
+               "es" : "Al lugar de dotación del Destino.",
+               "zh" : "朝向命运的配置之所。"
+            },
+            {
+               "en" : "There, in Amereida, we have to refuse Destiny.",
+               "es" : "Allí, en Amereida, hay que rehusar el Destino.",
+               "zh" : "在那里，在阿梅雷伊达中，必须拒绝命运。"
+            },
+            {
+               "en" : "WE HAVE NO DESTINY.",
+               "es" : "No tenemos destino.",
+               "zh" : "我们没有命运。"
+            },
+            {
+               "en" : "Here is the end of Nostalgia!",
+               "es" : "NO TENEMOS DESTINO.",
+               "zh" : "我们没有命运。"
+            },
+            {
+               "en" : "Diary and notes of The Amereida (Fragment)",
+               "es" : "¡Aquí está el fin de la Nostalgia!",
+               "zh" : "怀旧的终结就在这里！"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "François Fédier",
+               "zh" : "弗朗索瓦·费迪耶"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达日记与笔记》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch166",
+         "img" : 86,
+         "left" : "170",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "en",
+               "text" : "SHE IS THE PLACE!"
+            },
+            {
+               "lang" : "en",
+               "text" : "François Fédier"
+            }
+         ],
+         "pages" : "170-171",
+         "right" : "171",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Amereida is, MORE THAN THE TRAVERSE, TRAVERSE THAT CROSSES TO EXPLANATION.",
+               "es" : "Amereida es, MÁS QUE TRAVESÍA, TRAVESÍA QUE SE ATRAVIESA HASTA LA EXPLICACIÓN.",
+               "zh" : "阿梅雷伊达，与其说是一次远行，不如说是一次穿越到解释的远行。"
+            },
+            {
+               "en" : "It is explained crossing and it crosses explaining itself.",
+               "es" : "Se explica atravesando y atraviesa explicándose.",
+               "zh" : "它在穿越中解释自身，它穿越着并解释着自身。"
+            },
+            {
+               "en" : "That is why Amereida continues; everywhere that she is explained she has a PLACE!",
+               "es" : "Es por eso que Amereida continúa y por todas partes donde ella se explica tiene LUGAR.",
+               "zh" : "正因如此，阿梅雷伊达继续着；在它得到解释的每一个地方，它都有位置。"
+            },
+            {
+               "en" : "Diary and notes of The Amereida (Fragment)",
+               "es" : "¡ELLA ES EL LUGAR!",
+               "zh" : "它就是那个位置！"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "François Fédier",
+               "zh" : "弗朗索瓦·费迪耶"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达日记与笔记》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch166",
+         "img" : 87,
+         "left" : "172",
+         "loose" : [],
+         "pages" : "172-173",
+         "right" : "173",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Various Authors, *Amereida* first volume, Editorial Cooperativa Lambda, Chile, 1967, p. 37.",
+               "es" : "Varios Autores, *Amereida* volumen primero, Editorial Cooperativa Lambda, Chile, 1967, p. 37.",
+               "zh" : "多位作者，《阿梅雷伊达》第一卷，Lambda 合作出版社，智利，1967年，第37页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch166",
+         "img" : 88,
+         "left" : 174,
+         "loose" : [],
+         "pages" : "174-175",
+         "photoOnly" : 1,
+         "right" : 175,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch178",
+         "img" : 89,
+         "left" : "176",
+         "loose" : [],
+         "pages" : "176-177",
+         "right" : "177",
+         "section" : {
+            "en" : "178 Images between the earth and the name/Jens Andermann",
+            "es" : "",
+            "zh" : "178 土地与名字之间的图像 / 延斯·安德曼"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Images Between the Earth and the Name",
+               "es" : "Imágenes entre la tierra y el nombre",
+               "zh" : "土地与名字之间的图像"
+            },
+            {
+               "en" : "In photography, as Walter Benjamin has suggested, the image suffers from the itch of the real. Even in the face of the most carefully composed frame, according to the author of *Illuminations*, we feel the urge to look for the “little spark of chance”, for that insignificant place where “in the ‘this is how it is’ of the past moment the future instant nests even today”. This future preterite, Roland Barthes would add, charges photography with a particular mode of historicity: that of the monument that accompanies and tears apart the image’s documentary character in the form of an irrepressible supplement. In the monument, a time endures that has already run its course but which nevertheless still hedges its bets on finally encountering a future reader capable of decyphering its meanings. This is also why it has never fully belonged to its time of origin, one it exceeds precisely there where its merely documentary function breaks down. Photographic monumentality is the untimeliness of time, the instant that falls outside becoming —hence, too, the spectral relation that cinema maintains with the time of bodies in movement.",
+               "es" : "En la fotografía, decía Walter Benjamin, la imagen acusa las quemazones de lo real. Aún frente al encuadre más cuidadosamente compuesto, según el autor de *Iluminaciones*, nos sentimos impulsados a buscar “la pequeña chispa del azar”, ese lugar insignificante donde “en el ‘así es’ de aquel minuto pretérito todavía hoy anida lo aún por venir”. Ese futuro pretérito del instante fotográfico, agregará Roland Barthes, carga a la fotografía con un modo particular de historicidad: la del monumento que acompaña y abisma en forma de suplemento irreprimible al carácter documental de la imagen. El monumento hace perdurar un tiempo ya transcurrido pero que aún apuesta a encontrarse con un lector futuro que descifrará sus sentidos. Por esa misma razón, jamás perteneció plenamente a su tiempo de origen, al que excede precisamente en lo que desborda a la mera función documental. La monumentalidad fotográfica es así el destiempo del tiempo, el instante que cae fuera del devenir —de ahí también la relación espectral que el cine mantiene con el tiempo de los cuerpos en movimiento.",
+               "zh" : "瓦尔特·本雅明曾说，在摄影中，图像显露出真实之物的灼痕。按照《启迪》作者的说法，即便面对构图最精心讲究的取景框，我们仍会不由自主地去寻找“偶然性的小小火花”，那个微不足道的位置——在那里，“在那个过去瞬间的‘事情就是这样’之中，至今仍栖息着尚未到来之物”。罗兰·巴特会补充说，摄影瞬间的这种“过去未来”，赋予照片一种特殊的历史性模式：纪念碑式的历史性，它以不可抑制的补充物形式陪伴着图像，并使其纪实性陷入深渊。纪念碑使一段已经流逝的时间持续存在，但这段过去仍押注于最终遇见一位未来的读者，由他来破译其意义。正因如此，它从未完全属于其起源时代，恰恰在它超出单纯纪实功能之处，它超出了那个时代。摄影的纪念碑性因此是时间的不合时宜，是落在生成之外的那一刻——电影与运动中的身体的时间所保持的那种幽灵般的关系，也由此而来。"
+            },
+            {
+               "en" : "How can we think this relation between monumentality and the supplement that links together the different testimonies of the *travesía* of Amereida that took place between July and September 1965? Whereas the homonymous poem —a montage of fragments written between all ten travellers and arranged by Godofredo Iommi— was published at Valparaíso in 1967, the prose diary kept by Fabio Cruz and Claudio Girola only became known nineteen years later. Meanwhile, during fifty years much of the photographic register of the journey remained unrevealed and geographically distant, at François Fédier’s home in Paris, being exposed for the first time in 2017 on the occasion of the exhibition preceding this book. The re-appearance of this corpus of images, visually as well as physically displaced from the text where instead a series of maps would unveil, invert and project America’s Inner Sea, is therefore more…",
+               "es" : "¿Cómo pensar la relación entre monumentalidad y suplementariedad que mantienen entre sí los distintos testimonios surgidos a raíz de la travesía de Amereida de julio a septiembre de 1965? En cuanto el poema del mismo título —montaje de fragmentos escritos por los diez participantes de la travesía, realizado por Godofredo Iommi— se publica en Valparaíso en 1967, el diario en prosa del viaje llevado por Fabio Cruz y Claudio Girola recién se dará a conocer diecinueve años después. Entre tanto, buena parte del registro fotográfico del viaje permanecerá durante cincuenta años en otra parte y sin revelar, en la casa parisina de François Fédier, exponiéndose recién en 2017 en ocasión de la muestra que precede a este libro. La reaparición de este corpus de imágenes, desterrado tanto visual como físicamente del texto fundacional donde en su lugar se dibujaban los sucesivos mapas que desvelan, invierten y proyectan al…",
+               "zh" : "那么，如何思考1965年7月至9月阿梅雷伊达远行所产生的各种见证之间，纪念碑性与补充性所保持的关系？同名的诗——由十位远行者所写片段组装而成、由戈多弗雷多·约米编排——于1967年在瓦尔帕莱索出版，而法比奥·克鲁斯和克劳迪奥·吉罗拉所写的散文体旅行日记，直到十九年后才为人所知。与此同时，旅行摄影记录的大部分内容，五十年来一直留在别处、未被冲洗，存放在弗朗索瓦·费迪耶巴黎的家中，直到2017年才在本书之前的展览之际首次公开。这批图像档案的重新出现——它无论在视觉上还是物理上，都被放逐于那部奠基性文本之外；在那部文本中，代替它的是那些接连展开、揭示、颠倒并投射美洲内海的地图——因此更加……"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch178",
+         "img" : 90,
+         "left" : "178",
+         "loose" : [],
+         "pages" : "178-179",
+         "right" : "179",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…than just a philological curiosity. Rather, these images offer a novel way of access to the plastic and poetic experience of the *travesía*, almost, I am tempted to think, as if they were the fourth cardinal point of the compass of writings and images (poems, journals and maps) that project themselves in the form of a new Southern Cross over the space and time of America as opened up by the Amereida.",
+               "es" : "…mar interior americano, no es por tanto de un interés solo filológico. En realidad, ellas abren otro umbral de acceso a la experiencia plástica y poética de la travesía, casi, me atrevería a proponer, como un cuarto punto cardinal de la brújula de escritos e imágenes (poema, diario, mapas) que se proyecta como una nueva Cruz del Sur sobre el espacio y tiempo de América abierto por la Amereida.",
+               "zh" : "……美洲内海，因此并不只具有文献学意义上的趣味。实际上，它们打开了通往远行造型与诗歌经验的另一道门槛——我几乎敢提议说，它们就像 writings 与图像（诗、日记、地图）这枚罗盘上的第四个基本方位；这枚罗盘以新的南十字座形式，投射在阿梅雷伊达所开启的美洲空间与时间之上。"
+            },
+            {
+               "en" : "What, then, is there to see in these images? What more do they tell us about the journey of 1965 or about the places visited in its course, that hadn’t already been said or displayed in the previous layers of writings and drawings stemming from this same experience? I would endeavor that, what these photographs of the *travesía* seen from a distance of more than fifty years allow us to understand better, is above all the Amereida’s singularity as project and as experience, precisely in invoking its dimension of contemporaneousness with other aesthetic and political projects that have crossed its itinerary, as in the famous case of the fortuitous near-encounter, in the heart of the Bolivian jungle, with Che Guevara’s agonizing guerilla, a convergence —Fernando Pérez Oyarzún suggests— “between two different visions of the meaning of America, two contrasting attempts at forging its destiny”. Just as do Che’s last journey and its spectral transcript, the *Bolivian Diaries*, the *travesía* and its poem stand out for their foundational vocation. Amereida the poem is not —as, say, the Franco-Swiss writer Blaise Cendrars’s *Feuilles de route* (1924) or *Ecuador* (1926) by the Belgian Henri Michaux, both of them poetic inquiries into the mystery of America— a travel diary in verse but, rather, it is at once the journey’s program and reckoning. The poetic voice maintains towards the events (*phalènes*) a paradoxical attitude of expectation, at once singing the Inner Sea yet to be navigated and drawing the conclusions from a journey already past, such that it may turn into a compass for future displacements. Each of the writings of the *travesía*, the diary and the poem, is thus founded on the other’s absence: the diary gives us merely the external description of the acts celebrated in the course of the *travesía*, without the corporeal and sonorous gestures that had sustained these, whereas the poem is purely the invocation of this “content” yet without its outer frame, the journey’s mobile space and time.",
+               "es" : "¿Qué hay para ver, entonces, en estas imágenes? ¿Nos dicen algo más sobre el viaje de 1965 o sobre los lugares que se atravesaron en éste, que lo que ya estaba dicho o expuesto en las capas anteriores de escritura y de imágenes que arrojó esa experiencia? Propongo que lo que permiten entender mejor las fotografías de la travesía entrevistas más de cincuenta años después, es ante todo la singularidad de la Amereida como proyecto y como experiencia, precisamente porque invocan su dimensión de contemporaneidad con proyectos estéticos y políticos cuyas líneas se van cruzando con su itinerario, como en el caso famoso del casi encuentro fortuito, en plenas yungas bolivianas, con la guerrilla agonizante del Che Guevara, convergencia —como sugiere Fernando Pérez Oyarzún— de “dos visiones diferentes del sentido de América, dos tentativas contrastantes de forjar su destino”. Como el último viaje del Che y su escritura espectral, el *Diario de Bolivia*, también la travesía y su poema se destacan por su afán fundacional. Amereida no es —como, digamos, los poemarios *Feuilles de route* del suizo Blaise Cendrars (1924) o *Ecuador* del belga Henri Michaux (1926), ambos, también, indagaciones en el enigma de América— un diario poético de viaje, sino que es al mismo tiempo su programa y su balance. La voz poética, con respecto al acontecer de los actos —phalènes—, se mantiene en un paradójico umbral de espera, al mismo tiempo cantando el mar interior aún por navegar y tirando ya las conclusiones del viaje realizado para que éste pueda convertirse en brújula para nuevos emprendimientos futuros. Cada uno de los textos de la travesía, el diario y el poema, se funda en la ausencia del otro: el diario es apenas la descripción exterior de los actos celebrados durante la travesía, en ausencia del gesto corporal y sonoro que los sostenía, en cuanto el poema es pura invocación de ese contenido “gestual” pero en ausencia de su marco exterior, el espacio-tiempo móvil del viaje.",
+               "zh" : "那么，这些图像里有什么可看的？关于1965年的旅行，或关于途中经过的那些地方，它们是否告诉了我们一些此前那些写作与图像层次中尚未说出或展示的东西？我认为，这些远行照片在五十多年后被重新审视，能够让我们更好理解的，首先是阿梅雷伊达作为计划与作为经验的独特性；恰恰因为它们唤起了那种同时代性维度——它与一些美学和政治计划的线条在行程中交错，比如那个著名的偶遇案例：在玻利维亚永加斯丛林深处，几乎意外地遇见切·格瓦拉垂死挣扎的游击队。费尔南多·佩雷斯·奥亚尔顺提示说，这是一种汇合，“两种关于美洲意义的不同看法，两种锻造其命运的对比性尝试”。正如切最后的旅行及其幽灵般的书写《玻利维亚日记》，远行及其诗也因其奠基性热望而突出。阿梅雷伊达不是——比如说，不像瑞士法语作家布莱兹·桑德拉尔的《路途散页》（1924）或比利时作家亨利·米肖的《厄瓜多尔》（1926），那两部也是对美洲之谜的诗性探究——一部诗体旅行日记；它同时是旅行的纲领与总结。诗的声音相对于行动（phalènes）的发生，保持一种悖论式的等待门槛：一边歌唱尚待航行的内海，一边已经为已完成的旅行拉出结论，以便这次旅行能成为未来新行动的指南针。远行的每一种文本——日记与诗——都奠基于对方的缺席：日记只是对远行期间所举行行动的外部描述，缺少支撑这些行动的身体与声音姿态；而诗则纯粹是对那种“姿态性”内容的召唤，却缺少其外部框架，即旅行的移动空间与时间。"
+            },
+            {
+               "en" : "A hypothesis, then: the image, in this frenzy of breaking through and, thus, of refounding American space, which the Amereida journey puts in motion, occupies the interval, the tension that opens up between the act of travelling and the one of writing. The image mediates between poetry and action, even though the Amereida had sought to reduce this distance and to conceive of “poetry as the act of celebrating the nuptials between place and formula”, of “wedding…",
+               "es" : "Una hipótesis: la imagen, en ese trance de abismar y así, refundar poéticamente el espacio americano que pone en andamiento el viaje de Amereida, ocupa el intersticio, el arco de tensión que se abre entre el acto de viajar y el de escribir. La imagen media entre poesía y acción, aún y sobre todo cuando la Amereida haya procurado reducir al mínimo esa distancia y concebir a “la poesía como acto [que] parte a celebrar las bodas del lugar y de la fórmula”, a “casar a la tierra…",
+               "zh" : "那么，一个假设是：图像，在阿梅雷伊达旅行所启动的那种深入深渊、并由此以诗的方式重新奠基美洲空间的迷狂中，占据着旅行行动与写作行动之间打开的间隙、张力之弧。图像在诗歌与行动之间中介——尽管阿梅雷伊达曾试图把这段距离缩到最小，并把“诗歌构想为行动，[它]出发去庆祝地方与公式的婚礼”，去“让土地与……成婚”"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch178",
+         "img" : 91,
+         "left" : "180",
+         "loose" : [],
+         "pages" : "180-181",
+         "right" : "181",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…the earth to the name. This is why, to overwrite this image that surged between the exteriority of places and the name whose immediacy the poetic *travesía* aimed to localize, had to be one of the objectives of the poetic montage carried out by Iommi in the first volume of Amereida in 1967: not through ekphrasis, not by recomposing in words the photographic instant, as in the poetic kodaks of Blaise Cendrars in his voyage of “rediscovery of Brazil” in 1924, but, rather, as the construction of an other time and space where “landscape and event arise at the same rank”.",
+               "es" : "…con el nombre. Por eso mismo, el sobreescribir esa imagen que se intercalaba entre la exterioridad del lugar y el nombre cuya pregnancia la travesía poética se aprestaba a localizar, habría de ser uno de los objetivos del montaje poético efectuado por Iommi en el primer volumen de Amereida de 1967: no como ekphrasis, no en tanto recomposición en palabras de la instantánea fotográfica como en los kodaks poéticos de Blaise Cendrars en su viaje del “descubrimiento de Brasil” de 1924, sino, al contrario, como construcción de un espacio-tiempo otro donde “paisaje y acontecer comparecen en el mismo rango”.",
+               "zh" : "……与名字。正因如此，覆盖那张介于地方的外在性与名字之间的图像——诗性远行正准备去定位名字的孕生力——便成了约米在1967年《阿梅雷伊达》第一卷中所做的诗性蒙太奇的目标之一：不是作为“艺格敷词”，不是像布莱兹·桑德拉尔1924年“发现巴西”之旅中的诗性柯达那样，用词语重组摄影快照；相反，是作为另一个时空的建构，在那里“风景与事件在同一层级上同时出现”。"
+            },
+            {
+               "en" : "And yet, the photos of the *travesía* —especially those that register the assemblage of sculptures and other ephemeral interventions (such as the pairs of boots awaiting by a gravel road after the group has taken off their footwear to push the van across a stream)— also offer an external vision of this act of forging from the materiality of places a space and time that are proper only to the poetic fact. They are, in this sense, radically anachronistic, insofar as they witness the opening of an other time, of a rift in contemporaneousness. Ricardo Piglia, in a wonderful essay on the at once excessive and fundamental presence of literature in the course of Ernesto Guevara’s life, encounters in the photographs of Che reading at a camp in the Sierra Maestra or during a break of the march through the Bolivian jungle, the marks of an era. In these photos, says Piglia, a historical constellation becomes legible thanks to certain inconspicuous details, where we can inscribe Guevara’s political and literary project: a formation we could call the “Americanization of culture” during the period following the end of World War II, even though its origins reach back to the historical avant-gardes, Romanticism and North American transcendentalism, and which would also include the Beat Generation’s cult of the margins and the emergence of “youth” as an identity and as a transgressive ethos in opposition to the mandates of bourgeois society. When the young medical student who would become Che embarked on his motorcycle journey alongside Alberto Granado, he was heading —says Piglia— in the direction of literature, by way of the liminal and revelatory experience of the American journey, in the same way as Jack Kerouac, Diane Di Prima or Gary Snyder, “far from thinking of Europe as a model of the place one has to travel to, which generations of intellectuals had wanted to visit, head instead for the road in search of the experience of America”.",
+               "es" : "Y sin embargo, las fotos de la travesía —sobre todo aquellas que registran el ensamblaje de esculturas y otras intervenciones momentáneas (como los pares de botas esperando sobre el ripio al descalzarse el grupo para empujar la camioneta a través de un arroyo)— también ofrecen una visión externa de este acto de forjar a partir de la materialidad de un lugar un espacio y tiempo propios del hecho poético. Son, en ese sentido, imágenes radicalmente anacrónicas, en cuanto presencian la apertura de un tiempo otro, de una grieta en la contemporaneidad. Ricardo Piglia, en un bello ensayo sobre la presencia al mismo tiempo fundamental y excesiva de la literatura en la trama vital de Ernesto Guevara, encuentra en las fotografías del Che leyendo en un campamento de la Sierra Maestra o en un alto en el camino del monte boliviano, las marcas de una época. En las fotos, se torna legible a partir de ciertas marcas o detalles inconspicuos, dice Piglia, la constelación histórica y cultural mayor en donde se inscribe el proyecto político y literario de Guevara: una formación que podríamos llamar de “americanización de la cultura”, propia de la segunda posguerra aunque sus raíces se remontan asimismo a las vanguardias históricas, al romanticismo y al transcendentalismo norteamericano, y donde caben también el culto a los márgenes de parte de la generación beat y la emergencia de “la juventud” como identidad y ethos transgresor de los padrones de la sociedad burguesa. Cuando el joven estudiante de medicina que será el Che se embarca en su viaje de motocicleta junto a Alberto Granado, estaría yendo —dice Piglia— al encuentro de la literatura a través de la experiencia liminal y reveladora del viaje americano, del mismo modo en que un Jack Kerouac, Diane Di Prima o Gary Snyder, “lejos de pensar en Europa como modelo del lugar al que hay que viajar, al que generaciones de intelectuales han querido ir, se van al camino, a buscar la experiencia en América”.",
+               "zh" : "然而，远行的照片——尤其是那些记录雕塑组装和其他短暂介入的照片（比如那群人脱下鞋子推着卡车过溪流后，一双双靴子在砾石路上等待）——也提供了一种外部视角，来看待这一行动：从地方的物质性出发，锻造出诗性事实自身特有的空间与时间。在这个意义上，这些图像是彻底的时代错位的，因为它们见证了一个他者时间的开启，见证了同时代性中的一道裂缝。里卡多·皮格利亚在一篇精彩的文章中，谈到文学在埃内斯托·格瓦拉生命历程中那种既根本又过度的在场；他在切在谢拉马埃斯特拉营地读书、或在玻利维亚山中行军休息时的照片里，找到了一个时代的标记。皮格利亚说，在这些照片中，通过某些不显眼的标记或细节，一个更大的历史与文化星丛变得可读，格瓦拉的政治与文学计划就铭刻于其中：一种我们可以称为“文化的美洲化”的构成，它属于二战后的时期，尽管其根源也可以追溯到历史先锋派、浪漫主义和美国超验主义，其中还包括“垮掉的一代”对边缘的崇拜，以及“青年”作为一种身份、一种反抗资产阶级社会规范的越界气质的出现。当那个将成为切的年轻医学生与阿尔贝托·格拉纳多一起踏上摩托车之旅时，他——用皮格利亚的话说——正通过美洲旅行那种阈限而启示性的经验走向文学，就像杰克·凯鲁亚克、黛安·迪·普里马或加里·斯奈德那样，“远不去把欧洲想成必须去旅行的典范之地——那是几代知识分子都想去的地方——而是走上道路，在美洲寻找经验”。"
+            },
+            {
+               "en" : "America as aesthetic modernity’s great heterotopia, a liminal world where experience and aisthesis, the act and the work, can finally converge once more, be it through the radical novelty of an expression cut loose from the chains of tradition, be it thanks to recomposing, in the ecstasy of trance, the great…",
+               "es" : "América como la gran heterotopía de la modernidad estética, el mundo-límite donde por fin convergirán experiencia y aisthesis, acto y obra, ya sea por la novedad radical de una expresión por fin liberada de las amarras de la tradición, ya sea, en cambio, por reanudar en el éxtasis del trance la gran fusión en-…",
+               "zh" : "美洲作为审美现代性的伟大异托邦，一个有限的世界，在那里经验与审美感知、行动与作品终于可以汇合，要么通过一种终于从传统枷锁中解放出来的表达的激进新奇性，要么相反，通过在迷狂的狂喜中重新接续那伟大的融合……"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch178",
+         "img" : 92,
+         "left" : "182",
+         "loose" : [],
+         "pages" : "182-183",
+         "right" : "183",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…fusion between life and its sign that the shamanic wisdom of Indigenous and Afro-American legacies has bequeathed on the present: it is this cultural series in which the Amereida at once inscribes itself and from which it takes its leave. A series we could also think of as a map of *travesías* criss-crossing the Inner Sea of the Americas: a map that would contain, say, the frenzied itineraries of D. H. Lawrence and Antonin Artaud through Jalisco and Chihuahua in the aftermath of the Mexican Revolution, in search of a cure for the agonizing Western civilization, or the almost simultaneous incursions into the Brazilian hinterlands by Claude Lévi-Strauss that would give rise to structural anthropology —a journey that was itself only separated by a few years from the one Iommi himself would undertake into the Amazon in 1940, in the company of Brazilian poets Abdias do Nascimento and Gerardo Mello Mourão, with Dante’s *Divine Comedy* for a poetic compass. This map would also include the monumental itinerary of the German novelist Hubert Fichte, companion and fellow disciple in the early Seventies of Roger Bastide and Pierre Verger in the initiation rites of Bahian Candomblé, who would go on to chronicle this experience of mystical and sexual unburdening in the “ethnographic” fragment *Explosion* (published posthumously by Ronald Kay in 1986), and thus also a contemporary of Robert Smithson, whose *Mirror Travels* in the Yucatán —a series of ephemeral installations— are from 1969, as well as of the liminal experiences in film Dennis Hopper (*The Last Movie*, 1971) and Werner Herzog (*Aguirre*, 1972) orchestrated in Peru, in which the journey as an extreme act is less the object of representation than it is the event in which the aesthetic process originates. Here as well as in other experiences of the American journey as a radical aesthetic wager, the New World provides the liminal horizon of convergence between ecstasy and aisthesis, between body and work: a fleeting field of pure presence.",
+               "es" : "…tre la vida y su signo que habrían legado los saberes shamánicos amerindios y afroamericanos: es ésta la serie en donde la Amereida al mismo tiempo se inscribe y de la que se aparta. Serie que podría pensarse también como un mapa de travesías cruzadas en el mar interior de América: es ahí, en ese mapa, donde se inscribirían los itinerarios errantes de D. H. Lawrence y de Antonin Artaud a través de Jalisco y Chihuahua tras la Revolución Mexicana, en busca de la cura expurgatoria para una civilización occidental en agonía, o las incursiones casi simultáneas al interior brasileño de Claude Lévi-Strauss que fundamentarían la antropología estructural —viaje que, por su parte, se adelantaba solo en unos pocos años al que el propio Iommi emprendiera en 1940 con los brasileños Abdias do Nascimento y Gerardo Mello Mourão por el Río Amazonas con la *Divina Commedia* como brújula lírica. También figuraría en ese mapa el monumental itinerario del alemán Hubert Fichte, compañero y condiscípulo a principios de los años setenta de Roger Bastide y Pierre Verger en los ritos iniciáticos del Candomblé bahiano, experiencia de desborde místico-sexual plasmada en el fragmento “etnográfico” *Explosión* (publicado en forma póstuma por Ronald Kay en 1986) y por tanto contemporáneo de los *Mirror Travels* en el Yucatán de Robert Smithson, serie de instalaciones efímeras realizada en 1969, así como de las experiencias cinematográficas liminales en el Perú de Dennis Hopper (*The Last Movie*, 1971) y de Werner Herzog (*Aguirre*, 1972), donde el viaje como acto extremo es menos objeto de representación que el propio evento en el que se origina el proceso estético. Aquí como en otras experiencias del viaje americano como apuesta estética radical, el Nuevo Mundo provee el horizonte liminal de confluencia entre éxtasis y aisthesis, entre cuerpo y obra: un campo fugaz de pura presencia.",
+               "zh" : "……生命与其符号之间的融合——美洲原住民和非洲裔美洲人的萨满智慧将这种融合遗赠给了当下：阿梅雷伊达既铭刻于这一系列之中，又从中抽身而去。这一系列也可以被设想为一张美洲内海上交叉远行的地图：正是在那里，在那张地图上，铭刻着 D. H. 劳伦斯和安托南·阿尔托在墨西哥革命之后穿越哈利斯科和奇瓦瓦的漫游路线——他们为处于垂死状态的西方文明寻找净化疗法；或者克劳德·列维-斯特劳斯几乎同时深入巴西内陆的考察——那次考察奠定了结构人类学；而这次旅行本身，只比约米本人1940年与巴西诗人阿布迪亚斯·多·纳西门托和热拉尔多·梅洛·穆朗沿亚马逊河、以但丁《神曲》为诗性指南针所进行的旅行早几年。这张地图上还会出现德国小说家胡贝特·菲希特的纪念碑式行程——他在七十年代初是罗杰·巴斯蒂德和皮埃尔·韦尔热在巴伊亚坎东布雷入教仪式中的同伴和同门，他将这种神秘-性的解脱体验写成了“民族志”片段《爆炸》（由罗纳德·凯于1986年遗著出版），因此也与罗伯特·史密森在尤卡坦的《镜之旅》同时代——后者是1969年完成的一系列短暂装置；同样也与丹尼斯·霍珀（《最后一场电影》，1971）和维尔纳·赫尔佐格（《阿基尔》，1972）在秘鲁编排的阈限电影经验同时代。在这些作品中，作为极端行动的旅行，与其说是再现的对象，不如说是审美过程得以起源的事件本身。在这里，正如在美洲旅行作为激进美学赌注的其他经验中一样，新世界提供了狂喜与审美感知之间、身体与作品之间汇合的阈限地平：一个纯粹在场的短暂场域。"
+            },
+            {
+               "en" : "However, even as the trajectories of these searches intersect and cross in the heart of the continent with the *travesía* of Amereida, what calls our attention in the photographs of the latter is rather the absence of those marks of contemporaneousness that Piglia encounters in the photographs of Che. Here, by contrast, the group of middle-aged men dressed in the style of second-hand booksellers or of literature or arts and crafts teachers during an end-of-school trip, who we see painting tin shacks or discussing over a map unfolded in the middle of the desert, lack the epic swagger of the bearded revolutionaries of the Sierra Maestra or that of the motorized youths, cigarettes hanging from their lips, who appear in the visual testimonies of the Beat Generation. Just as their battered old van, these men and the minimal monuments they would…",
+               "es" : "Pero aún cuando las trayectorias de estas búsquedas se entrecruzan en el corazón del continente con la travesía de Amereida, lo que llama la atención en las fotografías de esta última es más bien la ausencia de marcas de contemporaneidad como las que hallaba Piglia en las imágenes del Che. Aquí, en cambio, los hombres de edad mediana, vestidos a manera de libreros de segunda mano o de profesores de letras o de dibujo en viaje de egresados, a quienes vemos pintando galpones de chapa y consultando mapas en medio del desierto, decididamente carecen del aura épica de los “Barbudos” de la Sierra Maestra, y aun de los jóvenes motorizados que aparecen, cigarrillo en boca, en los testimonios visuales de la Beat Generation. Como la camioneta ya por entonces aneja en la que viajaban, también estos hombres y los monumentos minimales que iban dejando al borde del camino, no parecen totalmente de su tiempo, en realidad de ningún tiempo en particular. Parecen al mismo tiempo más antiguos y más…",
+               "zh" : "然而，即便这些探索的轨迹在大陆心脏与阿梅雷伊达的远行交错，阿梅雷伊达的照片中引人注目的，反倒是皮格利亚在切·格瓦拉照片中找到的那种同时代性标记的缺席。在这里，相反，我们看到的是中年男子，穿着像二手书商，或者像文学、绘画教师参加毕业旅行，他们在沙漠中间画铁皮棚屋、查阅地图，显然缺乏马埃斯特腊山“大胡子们”的史诗光环，甚至也缺乏“垮掉的一代”视觉见证中那些叼着烟、骑摩托的年轻人的光环。就像他们乘坐的那辆当时已经老旧的卡车一样，这些人和他们留在路边的极简纪念碑，似乎不完全属于他们的时代，实际上不属于任何特定时代。他们似乎既更古老，又更……"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch178",
+         "img" : 93,
+         "left" : "184",
+         "loose" : [],
+         "pages" : "184-185",
+         "right" : "185",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "…leave at the side of the road, do not appear to be entirely of their time, indeed of no time in particular. They seem at once more ancient and more recent than the photographs of Kerouac and Moriarty posing for the camera in some roadside diner or in front of the City Lights bookshop at San Francisco, let alone those of the Cuban guerillas trekking through the forest on the pages of *Time-Life* magazine. By contrast with these images, those of the *travesía*, of minuscule men and works in the midst of a seemingly infinite desert landscape, are utterly bereft of historicity, of the marks of an era. Nothing in them reveals that we are in the midst of an Argentina ravaged by political and economic turmoil, intensified at that very moment by Perón’s frustrated attempt to return to the country and the army’s increasingly explicit preparations for the military coup that would depose the Illia government only a year later.",
+               "es" : "…recientes que las fotos de Kerouac y Moriarty posando para la cámara en algún diner rutero o fuera de la librería City Lights en San Francisco, o incluso las de los guerrilleros del Granma en pleno monte, publicadas en la revista *Time-Life*. A diferencia de éstas, las imágenes de la travesía, de hombres y de obras minúsculas en medio de una inmensidad que parece no tener fin, carecen casi de marcas de época, de historicidad: nada en ellas revela que nos encontramos en una Argentina en plena crisis política y social, agudizada todavía por el frustrado retorno de Perón al país y los preparativos cada vez más abiertos del golpe militar que depondría al gobierno de Illia al año siguiente.",
+               "zh" : "……比凯鲁亚克和莫里亚蒂在某家公路小餐馆里、或在旧金山“城市之光”书店门前摆姿势拍照的照片更近，甚至比《生活》杂志上刊出的格拉玛号游击队员在丛林中的照片更近。与这些照片不同，远行的图像——渺小的人与作品置身于仿佛没有尽头的广袤之中——几乎没有任何时代标记、历史性：其中没有任何东西透露，我们正身处一个政治与社会危机全面爆发的阿根廷，而庇隆未能归国、军方日益公开地准备一年后推翻伊利亚政府的军事政变，使这场危机更加尖锐。"
+            },
+            {
+               "en" : "Effectively, the only time something akin to a popular subject makes its appearance in the photographic chronicle of the Amereida is during the poetic acts celebrated at the village of Puelches in the pampas, at the request of some teachers who called on the travellers as a way of supporting the local school —an act that, as we know from Cruz’s and Girola’s travel diary, led to a severe crisis within the group, due to its having “obeyed another poetic calculus than our own”, to having succumbed, albeit with the best of intentions, to the demands of the existing order of things: “What we did was merely a hymn to what exists […] and not the realization of our calculus. We told those from Puelches that they should stay, when perhaps they should leave”. In consequence of this failure, the group decides to change direction, staying away from the centres of population in order not to compromise further the journey and its project of experiencing space poetically, its aim for a foundational inscription: “We head to a café: we talk once more about being true to the desert, without passing through Buenos Aires…”. This is what the photographs of the *travesía* are about: images of a space actively emptied out of contemporaneousness, a space cleared for the temporality of the trance in the measure in which it receives the ephemeral markers of which these finally revealed negatives give testimony —a few corrugated iron sheets on a pole that seem to embody the whisperings of the wind, a cloud of fire in the midst of a dunescape as if the *daimon* had just made his appearance there. The image, then, is not a visual document of the inscription of the name but rather of a moment prior to this, a moment that reclaims territory as a surface to which writing can be applied. This is what the travellers are doing when they paint shacks and warehouses or when they pile up stones in the prairies. In indicating its place, they prepare the terrain for writing, for the name yet to come.",
+               "es" : "Efectivamente, el único momento en que algo así como un sujeto popular aparece en la crónica fotográfica de la Amereida son los actos poéticos celebrados en el pueblo pampeano de Puelches, a pedido de unas maestras y en apoyo de la escuelita local, un acto que —como sabemos gracias al diario de viaje— provocaría una dura crisis en el seno del grupo, en razón de haber “obedecido a otro cálculo poético” que el propio, de haberse sometido, aún con las mejores intenciones, a las demandas del orden residual: “Lo que hicimos fue un mero canto a lo existente […] y no un despliegue del cálculo. Nosotros dijimos a los de Puelches que debían quedarse, cuando tal vez deberían irse”. En consecuencia, se decide cambiar de rumbo, pasando lejos de los centros de población para no comprometer más al viaje y su proyecto de experiencia poética del espacio, de inscripción fundacional: “Vamos a un café: volvemos a hablar de una fidelidad al desierto, sin pasar por Buenos Aires…”. Las fotografías de la travesía son eso: imágenes de un espacio activamente vaciado de contemporaneidad, un espacio que se va entregando a la temporalidad del trance, en la medida en que recibe las marcaciones fugaces de las que dan testimonio estos negativos por fin revelados —unas chapas sobre un palo que parecen materializar las onomatopeyas del viento, una nube de fuego en medio del arenal como si ahí apareciera de repente el daimon. La imagen no es así un documento visual de la acontecimiento de la inscripción del nombre sino un momento todavía anterior, momento de reclamación del territorio como soporte de una escritura, que es lo que hacen los viajeros al pintar ranchos y galpones o apilando piedras en la llanura. Al indicarnos su lugar, preparan el terreno para la escritura, para el nombre aún por venir.",
+               "zh" : "实际上，在阿梅雷伊达的摄影纪事中，唯一出现某种“人民主体”的时刻，是在潘帕斯村庄普埃尔切斯举行的诗歌行动——那是应几位女教师之请、为支持当地小学校而做的。正如我们从旅行日记中所知，这一行动在团体内部引发了严重危机，因为它“服从了另一种诗性计算”，而不是自己的计算；因为它尽管怀着最好的意图，却屈从于残余秩序的要求：“我们所做的只是对现存之物的一次单纯歌唱……而不是我们计算的展开。我们告诉普埃尔切斯的人，他们应该留下，而也许他们应该离开。”于是，团体决定改变方向，远离人口中心，以免进一步危及旅行及其诗性空间经验计划、其奠基性铭刻的目标：“我们去一家咖啡馆：我们再次谈论对沙漠的忠诚，不经过布宜诺斯艾利斯……”。远行的照片就是这样：一个被主动清空了同时代性的空间的图像，一个逐渐交给迷狂时间性的空间——它接受那些转瞬即逝的标记，而这些最终被冲洗出来的底片正见证了这些标记：几块铁皮搭在一根杆子上，仿佛把风的拟声词物质化了；沙地中央一团火云，仿佛*daímon*（精灵/守护神）突然在那里现身。图像因此不是名字铭刻事件的视觉文献，而是一个更早的时刻——一个将领土重新占为书写载体的时刻，这正是旅行者们在给牧场和棚屋刷漆、或在平原上堆石头时所做的事。他们指出自己的位置，为书写、为尚未到来的名字准备地形。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch178",
+         "img" : 94,
+         "left" : 186,
+         "loose" : [],
+         "pages" : "186-187",
+         "photoOnly" : 1,
+         "right" : 187,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch178",
+         "img" : 95,
+         "left" : "188",
+         "loose" : [],
+         "pages" : "188-189",
+         "right" : "189",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Various Authors, *Amereida* first volume, Editorial Cooperativa Lambda, Chile, 1967, p. 184.",
+               "es" : "Varios Autores, *Amereida* volumen primero, Editorial Cooperativa Lambda, Chile, 1967, p. 184.",
+               "zh" : "多位作者，《阿梅雷伊达》第一卷，Lambda 合作出版社，智利，1967年，第184页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch192",
+         "img" : 96,
+         "left" : "190",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "y como el pan"
+            },
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "es",
+               "text" : "René Lincomán"
+            },
+            {
+               "lang" : "en",
+               "text" : "For us to stay"
+            },
+            {
+               "lang" : "en",
+               "text" : "> 原文另有一版英语作 **“For us to die / In what is hardest: Joy”**，对应西语 **“Para que nosotros muramos / en lo más difícil: la alegría”**；此处保留用户所给的主要版本。"
+            },
+            {
+               "lang" : "en",
+               "text" : "Alberto Cruz"
+            }
+         ],
+         "pages" : "190-191",
+         "right" : "191",
+         "section" : {
+            "en" : "192 Travel diary/Alberto Cruz",
+            "es" : "",
+            "zh" : "192 旅行日记 / 阿尔贝托·克鲁斯"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "zh" : "> 法语穿插部分：**“Tu as pour cela fait deux fois le voyage / Hin un her”**。前句意为“为此你已两次踏上旅程”；后句疑为 OCR 残片，无法确定原词，保留并加注。"
+            },
+            {
+               "es" : "René Lincomán",
+               "zh" : "雷内·林科曼"
+            },
+            {
+               "en" : "With you, this land ceases to be virgin",
+               "es" : "Contigo deja esta tierra de ser virgen",
+               "zh" : "与你一起，这片土地不再是处女地"
+            },
+            {
+               "en" : "And your first tomb is home to a certain wedding",
+               "zh" : "而你的第一座坟墓成了这样一场婚礼的家"
+            },
+            {
+               "en" : "To the South your death fertilises it",
+               "es" : "y tu primera tumba casa de tal boda",
+               "zh" : "在南方，你的死亡使它受孕"
+            },
+            {
+               "en" : "And like bread",
+               "es" : "al sur tu muerte la fecunda",
+               "zh" : "并且像面包一样"
+            },
+            {
+               "en" : "It can already open its inheritance",
+               "es" : "puede ya abrirnos sus herencias",
+               "zh" : "它已经能向我们打开它的遗产"
+            },
+            {
+               "en" : "Under the white nocturnal flight",
+               "es" : "Bajo la blanca voladera nocturna",
+               "zh" : "在白色的夜间飞檐之下"
+            },
+            {
+               "en" : "The houses surround you like stars",
+               "es" : "las casas te rodean como estrellas",
+               "zh" : "房屋像星星一样环绕着你"
+            },
+            {
+               "en" : "He who has just arrived brought his blue head",
+               "es" : "El recién llegado trajo su cabeza azul",
+               "zh" : "新来者带来了他蓝色的头"
+            },
+            {
+               "en" : "And put it here under the wind",
+               "es" : "y la puso aquí bajo el viento",
+               "zh" : "并把它放在这里，在风下"
+            },
+            {
+               "en" : "Here starts, moon, your farm and courtyard",
+               "es" : "Aquí comienza, luna, tu predio y patio",
+               "zh" : "月亮啊，你的田产与庭院从这里开始"
+            },
+            {
+               "en" : "In this way you have done the journey twice",
+               "es" : "Tal, has hecho tú dos veces el viaje",
+               "zh" : "就这样，你两次踏上旅程"
+            },
+            {
+               "en" : "Going and coming",
+               "es" : "saliendo y entrando",
+               "zh" : "出去又进来"
+            },
+            {
+               "en" : "The galaxies press their ear to the earth:",
+               "es" : "las galaxias pegan su oreja a la tierra:",
+               "zh" : "星系把耳朵贴在大地上："
+            },
+            {
+               "en" : "Trembling, a tremor:",
+               "es" : "temblante, un temblor:",
+               "zh" : "颤抖着，一阵颤动："
+            },
+            {
+               "en" : "He rises from his tomb like a sky",
+               "es" : "él surge de su tumba como un cielo",
+               "zh" : "他像一片天空从坟墓中升起"
+            },
+            {
+               "en" : "The acts will shelter the child.",
+               "es" : "los hechos albergarán al niño.",
+               "zh" : "那些事迹将庇护这孩子。"
+            },
+            {
+               "en" : "In the most difficult: Joy",
+               "es" : "Para que nosotros moremos",
+               "zh" : "为了让我们居住在"
+            },
+            {
+               "en" : "Foreign witnesses of the dead’s hospitality",
+               "es" : "en lo más difícil: la alegría",
+               "zh" : "最艰难之事中：欢乐"
+            },
+            {
+               "en" : "Diary and notes of The Amereida (Fragment)",
+               "es" : "testigos extranjeros de la hospitalidad del muerto",
+               "zh" : "作为死者好客之谊的异乡见证人"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "Alberto Cruz",
+               "zh" : "阿尔贝托·克鲁斯"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达日记与笔记》（片段）"
+            },
+            {
+               "zh" : "> 法语穿插句：“为此你已两次踏上旅程；Hin un her（疑为 OCR 残片，无法确定）。”"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch192",
+         "img" : 97,
+         "left" : "192",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "Santiago del Estero casa de Alberto Alba"
+            },
+            {
+               "lang" : "es",
+               "text" : "Alberto Cruz"
+            },
+            {
+               "lang" : "en",
+               "text" : "Alberto Cruz"
+            },
+            {
+               "lang" : "en",
+               "text" : "Diary and notes of The Amereida (Fragment)"
+            }
+         ],
+         "pages" : "192-193",
+         "right" : "193",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "es" : "El viaje nuestro: Tierra del Fuego – Santiago del Estero.",
+               "zh" : "我们的旅行：火地岛—圣地亚哥-德尔埃斯特罗。"
+            },
+            {
+               "en" : "The place of this city is represented by painted doors. The most important is the door. The window: you saw Light [visteluz]. Something happened to be that was even more elaborate. Santiago del Estero is in the countryside, bitter, in the ditch or goes: To doors. These doors want to represent in the surface the open and closed doors. One door is open. One door is closed.",
+               "es" : "El lugar de esta ciudad está representado por puertas pintadas. Lo primordial es la puerta. La ventana: visteluz. Me paso a algo ya más elaborado. Santiago del Estero es en el campo, agrio, en zanjón o va:a de puertas. Estas puertas quisieran representar en su superficie las puertas abiertas y cerradas. Una puerta es abierta. Una puerta es cerrada.",
+               "zh" : "这座城市的地点由画出来的门来表现。首要的是门。窗：采光处/透光窗。我转到某种已经更为精心制作的东西。圣地亚哥-德尔埃斯特罗在乡野，酸涩，在沟渠里，或者走向：门。这些门想在其表面上表现打开的门和关闭的门。一扇门是打开的。一扇门是关闭的。"
+            },
+            {
+               "en" : "<the houses in the countryside have only solid doors, during the day because of them, one leaves them open, because of them the houses become very open",
+               "es" : "<las casas de campo de solo puertas macizas, en el día por por ello, he de dejarles abiertas, por ello las casas devienen muy abierta",
+               "zh" : "<乡下的房子只有实心的门，白天因此，我不得不让它们开着，因此房子变得非常敞开"
+            },
+            {
+               "en" : "Both doors therefore allow you to see",
+               "es" : "Ambas puertas entonces permiten ver",
+               "zh" : "于是两扇门允许人看见"
+            },
+            {
+               "en" : "The plan that through them is laid-",
+               "es" : "El plano que entre ellas se extien-",
+               "zh" : "在它们之间展开的平面。"
+            },
+            {
+               "en" : "Out. To the South is to the North; which",
+               "es" : "de. Al Sur está al Norte; que ya",
+               "zh" : "南方就是北方；它已"
+            },
+            {
+               "en" : "is no longer called",
+               "es" : "no se llama",
+               "zh" : "不再被称为"
+            },
+            {
+               "en" : "neither North nor South. The Southcross is called",
+               "es" : "Ni Norte ni Sur. La cruz del",
+               "zh" : "北方或南方。南十字"
+            },
+            {
+               "es" : "sur se llama",
+               "zh" : "被称为"
+            },
+            {
+               "en" : "Polar Anchor. The Atlantic",
+               "es" : "Ancla Polar. El Atlántico",
+               "zh" : "极地之锚。大西洋"
+            },
+            {
+               "en" : "brings its light. The Pacific",
+               "es" : "aporta su luz. El Pacífico",
+               "zh" : "带来它的光。太平洋"
+            },
+            {
+               "en" : "is the adventure. While the",
+               "es" : "es la aventura. Mientras que el",
+               "zh" : "是冒险。而"
+            },
+            {
+               "en" : "tropics and the Antilles are",
+               "es" : "trópico y las Antillas",
+               "zh" : "热带与安的列斯群岛"
+            },
+            {
+               "en" : "the ori-",
+               "es" : "son el ori-",
+               "zh" : "是起"
+            },
+            {
+               "en" : "gin: therefore",
+               "es" : "gen: entonces",
+               "zh" : "源：于是"
+            },
+            {
+               "en" : "anchor",
+               "es" : "ancla",
+               "zh" : "锚"
+            },
+            {
+               "en" : "light",
+               "es" : "luz",
+               "zh" : "光"
+            },
+            {
+               "en" : "origin",
+               "es" : "origen",
+               "zh" : "起源"
+            },
+            {
+               "en" : "adventure",
+               "es" : "aventura",
+               "zh" : "冒险"
+            },
+            {
+               "en" : "Santiago del Estero the house of Alberto Alba",
+               "es" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "zh" : "圣地亚哥-德尔埃斯特罗，阿尔贝托·阿尔巴的家"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "1965, Fondo Iommi Amunátegui.",
+               "zh" : "阿尔贝托·克鲁斯"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Our journey: Tierra del Fuego – Santiago del Estero.",
+               "zh" : "《阿梅雷伊达日记与笔记》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch192",
+         "img" : 98,
+         "left" : "194",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "1965, Fondo Iommi Amunátegui."
+            },
+            {
+               "lang" : "en",
+               "text" : "Alberto Cruz"
+            },
+            {
+               "lang" : "en",
+               "text" : "Diary and notes of The Amereida (Fragment)"
+            }
+         ],
+         "pages" : "194-195",
+         "right" : "195",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Crossing the bridge of the Colorado river we halt:",
+               "es" : "Atravesando el puente de Río Colorado nos detenemos:",
+               "zh" : "穿过科罗拉多河桥时，我们停下来："
+            },
+            {
+               "en" : "I say: “We have finished Patagonia. Here we are in its border. The act of Cristóbal has been realised. And today Madrigal’s one in the Andes Hotel in Choele-Choel. It seems to me that we completed this, because there was a prophecy.",
+               "es" : "Digo: «Hemos terminado la Patagonia. Aquí estamos en la frontera de ella. Se ha realizado el acto de Cristóbal. Y hoy el del Madrigal en el Hotel Andes de Choele-Choel. Esto me parece que pudo llevarse a cabo porque hubo una profecía.",
+               "zh" : "我说：“我们已经走完了巴塔哥尼亚。现在我们就在它的边界上。克里斯托瓦尔的那个行动已经完成。而今天，马德里加尔的那个行动在乔埃莱-乔埃尔的安第斯旅馆完成。我觉得这件事之所以能够完成，是因为有一个预言。"
+            },
+            {
+               "en" : "A prophecy of the poet in respect to this crossing. This wasn’t destiny. But the fruit of a calculation. Poetic calculation. Let the poet, therefore, now pronounce in the middle of this bridge, his prophecy.”",
+               "es" : "Una profecía del poeta respecto a esta travesía. Esta no era al azar. Sino que el fruto de un cálculo. Cálculo poético. Que el poeta, entonces, diga ahora en medio de este puente, su profecía.»",
+               "zh" : "一个诗人关于这次远行的预言。这并非偶然，而是一种计算的果实。诗性计算。那么，诗人现在就在这座桥的中央，说出他的预言吧。”"
+            },
+            {
+               "en" : "Godo says: “This journey will become a poem, fruit of poetic calculation, if we come back like water, that adapts itself to all form of territory. In every one it constitutes itself as such. Irrigating even the most hardened. Reflecting in its surface, the sky and enveloping things.”",
+               "es" : "Godo dice: «Este viaje se volverá una poesía fruto del cálculo poético si nosotros nos volvemos como el agua, que se adapta a toda forma de terreno. En todas se constituye como tal. Regando hasta lo más endurecido. Reflejando en su superficie el cielo y las cosas envolventes.»",
+               "zh" : "戈多说：“这次旅行将变成一首诗，一首诗性计算的果实，如果我们变得像水一样，适应一切地形。在一切地形中，水都作为水而构成自身。灌溉直到最坚硬之处。在它的表面上映照天空和周围环绕的事物。”"
+            },
+            {
+               "en" : "1965, Fondo Iommi Amunátegui.",
+               "es" : "Alberto Cruz",
+               "zh" : "阿尔贝托·克鲁斯"
+            },
+            {
+               "en" : "1965年，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。",
+               "es" : "Diario y notas de La Amereida (Fragmento) / Diary and notes of The Amereida (Fragment)",
+               "zh" : "《阿梅雷伊达日记与笔记》（片段）"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch192",
+         "img" : 99,
+         "left" : "196",
+         "loose" : [],
+         "pages" : "196-197",
+         "right" : "197",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Various Authors, *Amereida* first volume, Editorial Cooperativa Lambda, Chile, 1967, p. 185.",
+               "es" : "Varios Autores, *Amereida* volumen primero, Editorial Cooperativa Lambda, Chile, 1967, p. 185.",
+               "zh" : "多位作者，《阿梅雷伊达》第一卷，Lambda 合作出版社，智利，1967年，第185页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch192",
+         "img" : 100,
+         "left" : 198,
+         "loose" : [],
+         "pages" : "198-199",
+         "photoOnly" : 1,
+         "right" : 199,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 101,
+         "left" : 200,
+         "loose" : [],
+         "pages" : "200-201",
+         "photoOnly" : 1,
+         "right" : 201,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 102,
+         "left" : 202,
+         "loose" : [],
+         "pages" : "202-203",
+         "photoOnly" : 1,
+         "right" : 203,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 103,
+         "left" : 204,
+         "loose" : [],
+         "pages" : "204-205",
+         "photoOnly" : 1,
+         "right" : 205,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 104,
+         "left" : 206,
+         "loose" : [],
+         "pages" : "206-207",
+         "photoOnly" : 1,
+         "right" : 207,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 105,
+         "left" : "208",
+         "loose" : [],
+         "pages" : "208-209",
+         "right" : "209",
+         "section" : {
+            "en" : "",
+            "es" : "200Travesía/Act-Body",
+            "zh" : "200 穿越 / 行动—身体"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Each poetic act always and again requires the crossing of indecision to decision. All experience accumulated by having undertaken many poetic acts, doesn’t count. Always the marshland of indecision precedes the possibility of consummating it.",
+               "es" : "Cada acto poético exige siempre y de nuevo atravesar la indecisión por decidirse. Toda la experiencia acumulada por haber hecho muchos actos poéticos, no cuenta. Siempre el pantano de la indecisión precede la posibilidad de consumarlo.",
+               "zh" : "每一次诗性行动都总是且重新要求穿越犹豫，以便做出决定。由做过许多诗性行动所积累的全部经验，都不算数。犹豫的沼泽总是先于完成它的可能性。"
+            },
+            {
+               "en" : "Amereida II, p. 206.",
+               "es" : "Amereida II, p. 206.",
+               "zh" : "《阿梅雷伊达 II》，第206页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 106,
+         "left" : 210,
+         "loose" : [],
+         "pages" : "210-211",
+         "photoOnly" : 1,
+         "right" : 211,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 107,
+         "left" : 212,
+         "loose" : [],
+         "pages" : "212-213",
+         "photoOnly" : 1,
+         "right" : 213,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 108,
+         "left" : "214",
+         "loose" : [],
+         "pages" : "214-215",
+         "right" : "215",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "In the poetic act often the adverse opens up an unimagined, unwanted possibility, that takes us from and to a new sensuality.",
+               "es" : "En el acto poético, muchas veces lo adverso abre una posibilidad inimaginada, no querida, que nos lleva de y hacia una nueva sensualidad.",
+               "zh" : "在诗性行动中，逆境常常打开一种未曾想象、也非所愿的可能性，它把我们带离，又带向一种新的感官性。"
+            },
+            {
+               "en" : "Amereida II, p. 206.",
+               "es" : "Amereida II, p. 206.",
+               "zh" : "《阿梅雷伊达 II》，第206页。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch200",
+         "img" : 109,
+         "left" : 216,
+         "loose" : [],
+         "pages" : "216-217",
+         "photoOnly" : 1,
+         "right" : 217,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch220",
+         "img" : 110,
+         "left" : "218",
+         "loose" : [],
+         "pages" : "218-219",
+         "right" : "219",
+         "section" : {
+            "en" : "220Letters/Enrique Zanartu to Godofredo Iommi",
+            "es" : "",
+            "zh" : "220 通信 / 恩里克·萨纳尔图 致 戈多弗雷多·约米"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Dear Godo:",
+               "es" : "Querido Godo:",
+               "zh" : "亲爱的戈多："
+            },
+            {
+               "en" : "You know that if I haven’t written to you earlier it’s because I have the same difficulty communicating with people I don’t see, as with the telephone. And what can I say about events in which I have not participated, of letters that followed conversations in which I didn’t take part, at least in the last stages? But if from Amereida itself I haven’t yet returned, I can’t seem to penetrate —I believe that the deep friendship that I have [for you] allows me to state my opinion as an accomplice and his doubts.",
+               "es" : "Tú sabes que si no te he escrito antes es por la misma dificultad de comunicarme con gente que no veo, como me sucede con el teléfono. Y ¿qué decir sobre acontecimientos en los cuales no he participado, de cartas que fueron continuación de conversaciones a las cuales tampoco he participado, por lo menos a las últimas fases? Pero si de la Amereida misma no llego aún, no consigo a penetrarme, creo que la amistad profunda que te tengo me permite decirte mi opinión de compinche y sus dudas.",
+               "zh" : "你知道，如果我没有早给你写信，是因为我和见不到的人交流时总有同样的困难，就像打电话一样。而对于那些我没有参与的事件，那些接续着我也未曾参与的谈话——至少是最后几个阶段——的来信，我又能说什么呢？但如果我还没有从阿梅雷伊达本身回来，无法深入渗透进去，我想，我对你怀有的深厚友谊允许我向你道出我作为同伙的意见和疑虑。"
+            },
+            {
+               "en" : "Since those of Amereida returned, absolutely all the meetings have taken place at my atelier; I’ve seen photos, read diaries, the letters that arrive and those that follow, the notebook that Fédier will send you one of these days and the pages of Michel; the friendship with them keeps growing and, ultimately, I don’t feel concerned by Amereida! I, who feel a great fascination for this America that they traversed, that I have traversed other marvellous parts and after all I am a South American and an insider of Amereida!",
+               "es" : "Desde que volvieron los de la Amereida, absolutamente todas las reuniones se han hecho en mi atelier; he visto las fotos, leído los diarios, las cartas que llegan y las que les siguen, el cuaderno que Fédier te enviará en estos días y las hojas de Michel; la amistad con ellos es cada vez más grande y, en el fondo, no me siento concernido por la Amereida! Yo, que siento una gran fascinación por esa América que recorrieron, que he recorrido otros lados maravillosos y que por último soy sudamericano e iniciado en la Amereida!",
+               "zh" : "自从阿梅雷伊达的人回来之后，绝对所有的聚会都在我的工作室举行；我看过照片，读过日记，读过陆续到来和随后跟进的来信，读过费迪耶这几天会寄给你的笔记本，还有米歇尔那些散页；我和他们的友谊越来越深，而归根结底，我并没有觉得自己被阿梅雷伊达所牵涉！我，对那片他们走过的美洲感到巨大着迷，我自己也走过其他奇妙的地方，而且说到底，我是南美人，也是被引入阿梅雷伊达的人！"
+            },
+            {
+               "en" : "Letter from Enrique Zañartu to Godofredo Iommi",
+               "es" : "Carta de Enrique Zañartu a Godofredo Iommi",
+               "zh" : "恩里克·萨尼亚图致戈多弗雷多·约米的信"
+            },
+            {
+               "en" : "6 January 1966, Fondo Iommi Amunátegui.",
+               "es" : "6 de enero de 1966, Fondo Iommi Amunátegui.",
+               "zh" : "1966年1月6日，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch220",
+         "img" : 111,
+         "left" : "220",
+         "loose" : [],
+         "pages" : "220-221",
+         "right" : "221",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "I think, and do forgive me, but if the adventure had occurred in Australia it would interest me so much and as much as South America because the theses from before, and the verification? It needs adequate places but not the special one. From what I have read to this day I don’t see anything that was born specifically from that place. Now my dear, I am shocked by the lack of humour, love, tenderness, happiness, life of Amereida (as I can see it from here, perhaps there it is different); I don’t see any enthusiasm but instead the famous calculation. But the calculation should be the structure but not the whole.",
+               "es" : "creo, y perdóname, pero si la aventura hubiera pasado en Australia me interesaría tanto e igual que en Sudamérica porque las tesis existían de antes ¿y la verificación? Necesita de lugares adecuados pero no el especial. De lo que he leído hasta hoy no veo nada que haya nacido específicamente de ese lugar. Ahora querido, me choca la falta de humor, amor, ternura, alegría, vida de la Amereida (como la puedo ver desde aquí, tal vez allá es diferente) no veo ningún entusiasmo sino el famoso cálculo. Pero el cálculo debiera ser la estructura pero no el todo.",
+               "zh" : "我想，请原谅我，但如果这场冒险发生在澳大利亚，我感兴趣的程度会和在南美一样，因为那些论点早就存在了——可验证呢？验证需要合适的地方，但不是那个特别的地方。从我迄今读到的内容来看，我没有看到任何东西是特别从那个地方诞生的。现在，亲爱的，让我感到震惊的是，阿梅雷伊达缺乏幽默、爱、温柔、快乐、生命（从我能从这里看到的情况来说，也许那边不一样）；我看不到任何热情，只看到那个著名的计算。但计算应该是结构，而不应该是全部。"
+            },
+            {
+               "en" : "If you want the experience to have an influence and others to follow, it has to have more openings; we have read the games and they continue to be read because there were passions, weaknesses, defeats and through them we read what [means] of creating enthusiasm. The diaries that I have read are barely an itinerary and nothing more, and to understand the texts you have to have well digested Frobenius, Hölderlin, Dante, Heidegger, etc., food for scholars and intellectuals —is this what you did the great adventure for? I don’t have anything against it but it is not making America known.",
+               "es" : "Si quieres que la experiencia tenga una influencia y otros la sigan, tiene que tener más aberturas; los juegos los hemos leído y se seguían leyendo porque existían pasiones, debilidades, derrotas y a través de ellas leímos lo que un… de crear entusiasmo. Los diarios que he leído son apenas un itinerario y nada más, y los textos para seguirlos tienes que haber bien digerido Frobenius, Hölderlin, Dante, Heidegger, etc., alimento para eruditos e intelectuales ¿es para esto que hicieron la gran aventura? Y tampoco tengo nada en contra pero no es dar a conocer América.",
+               "zh" : "如果你想让这次经验产生影响、让别人跟随，它必须有更多的开口；那些游戏我们读过，而且还会继续被读，因为其中有激情、弱点、失败，通过它们我们读到了某种……创造热情的东西。我读过的那些日记几乎只是一份行程，仅此而已；而要跟上那些文本，你必须好好消化弗罗贝尼乌斯、荷尔德林、但丁、海德格尔等等——那是给学者和知识分子的食粮。你们做这场伟大的冒险就是为了这个吗？我也并不反对它，但那不是让美洲为人所知。"
+            },
+            {
+               "en" : "You know my language, keep…",
+               "es" : "Tú conoces mi lenguaje, guarda…",
+               "zh" : "你了解我的语言，保留……"
+            },
+            {
+               "en" : "Letter from Enrique Zañartu to Godofredo Iommi",
+               "es" : "Carta de Enrique Zañartu a Godofredo Iommi",
+               "zh" : "恩里克·萨尼亚图致戈多弗雷多·约米的信"
+            },
+            {
+               "en" : "6 January 1966, Fondo Iommi Amunátegui.",
+               "es" : "6 de enero de 1966, Fondo Iommi Amunátegui.",
+               "zh" : "1966年1月6日，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch220",
+         "img" : 112,
+         "left" : "222",
+         "loose" : [],
+         "pages" : "222-223",
+         "right" : "223",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Only the intention, but I would like Amereida to be a seed that starts to live and develop in America and not an experience of intellectuals, closed and for insiders.",
+               "es" : "Solamente la intención, pero quisiera que la Amereida fuese una semilla que comenzase a vivir y desarrollarse en América y no una experiencia de intelectuales, cerrada y para los iniciados.",
+               "zh" : "只有意图而已，但我希望阿梅雷伊达是一颗开始在美洲存活、生长的种子，而不是一场知识分子的、封闭的、只给入门者的经验。"
+            },
+            {
+               "en" : "Dear, give it life, opening to Amereida, that it be a celebration and that young people can interest themselves in things other than only calculation.",
+               "es" : "Querido, dale vida, abertura a la Amereida, que sea una fiesta y que la gente joven pueda interesarse por otras razones que solamente el cálculo.",
+               "zh" : "亲爱的，给它生命，给阿梅雷伊达开口，让它成为一场节日，让年轻人能出于计算之外的别的理由对它感兴趣。"
+            },
+            {
+               "en" : "I would like to be close to you and have these endless discussions to explain what I feel and the anguish I sense. I am a part of the beginning of Amereida and it despairs me not to feel part of it in the duration.",
+               "es" : "Quisiera estar cerca de ti y tener esas discusiones interminables para poderte explicar lo que siento y la angustia de lo que presiento. Una parte tengo en el comienzo de la Amereida y me desespera no sentirme adentro durante.",
+               "zh" : "我希望能靠近你，能有那些没完没了的讨论，好让我能向你解释我的感受，以及我所预感之事的焦虑。我在阿梅雷伊达的开端中占有一部分，而无法在它持续期间感到自己身处其中，这让我绝望。"
+            },
+            {
+               "en" : "At the end of the month I leave for India following Sheila who leaves 15 days before (she’s going for the textiles); we will be there for a month and a half, two months travelling and looking for a sign of explanation; it will be my getting back for America, that I couldn’t go.",
+               "es" : "A fines de mes parto para la India siguiendo a Sheila que parte 15 días antes (va por razones de textiles); pasaremos allá mes y medio, dos meses viajando y buscando un signo que nos explique aquello; será mi desquite de América, que no pude ir.",
+               "zh" : "月底我要去印度，跟随希拉——她提前15天出发（为了纺织品的事）；我们会在那里待一个半月、两个月，旅行并寻找一个能向我们解释那件事的符号；这将是我对美洲的补偿，因为我没能去成。"
+            },
+            {
+               "en" : "Your anguishes anguish me but don’t forget humour. Michel sent you the 11 pages and Fédier has his notebook almost finished; you will receive it one of these days as with the photos.",
+               "es" : "Tus angustias me angustian pero no te olvides del humor. Michel te envió las 11 páginas y Fédier tiene su cuaderno casi terminado; lo recibirás en estos días así como las fotos.",
+               "zh" : "你的焦虑让我焦虑，但别忘了幽默。米歇尔给你寄了那11页，费迪耶的笔记本也快完成了；你这几天会收到，还有照片。"
+            },
+            {
+               "en" : "Affection to your people and friends ——— I remember you always and I follow you.",
+               "es" : "Cariños a los tuyos y a los amigos ——— Te recuerdo siempre y te sigo.",
+               "zh" : "问候你家人和朋友们———我一直记得你，并跟随你。"
+            },
+            {
+               "en" : "P.S. This card is for you.",
+               "es" : "N.D.: Esta carta es para ti.",
+               "zh" : "附言：这张卡片是给你的。"
+            },
+            {
+               "en" : "Enrique.",
+               "es" : "Enrique.",
+               "zh" : "恩里克。"
+            },
+            {
+               "en" : "Letter from Enrique Zañartu to Godofredo Iommi",
+               "es" : "Carta de Enrique Zañartu a Godofredo Iommi",
+               "zh" : "恩里克·萨尼亚图致戈多弗雷多·约米的信"
+            },
+            {
+               "en" : "6 January 1966, Fondo Iommi Amunátegui.",
+               "es" : "6 de enero de 1966, Fondo Iommi Amunátegui.",
+               "zh" : "1966年1月6日，Fondo Iommi Amunátegui（约米-阿穆纳特吉档案）。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch220",
+         "img" : 113,
+         "left" : 224,
+         "loose" : [],
+         "pages" : "224-225",
+         "photoOnly" : 1,
+         "right" : 225,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch228",
+         "img" : 114,
+         "left" : "226",
+         "loose" : [],
+         "pages" : "226-227",
+         "right" : "227",
+         "section" : {
+            "en" : "228 Biographies",
+            "es" : "",
+            "zh" : "228 传记"
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Jonathan Boulting (1942)",
+               "es" : "Jonathan Boulting (1942)",
+               "zh" : "乔纳森·博尔廷（1942年生）"
+            },
+            {
+               "en" : "Poet, translator and English literature professor. His work has been published and translated into different languages. Before Amereida, he participated in Phalènes in France, Ireland and England and was one of the organizers of the legendary *New Moon Carnival of Poetry in the Round*, which took place in the Royal Albert Hall in London in 1966. He currently lives and works as an academic between Belgrade and Barcelona.",
+               "es" : "Poeta, traductor y profesor de literatura inglesa. Su obra poética ha sido publicada y traducida en diversos idiomas. Además de la Amereida, participó en Phalènes en Francia, Irlanda e Inglaterra y estuvo entre los organizadores del legendario *New Moon Carnival of Poetry in the Round*, realizado en el Royal Albert Hall de Londres en 1966. Actualmente vive y trabaja como académico entre Belgrado y Barcelona.",
+               "zh" : "诗人、翻译家、英国文学教授。他的诗作已被出版并译成多种语言。除阿梅雷伊达之外，他还参与了在法国、爱尔兰和英格兰的“Phalènes”，并且是1966年在伦敦皇家阿尔伯特音乐厅举行的传奇性“新月亮诗歌圆环嘉年华”的组织者之一。他目前作为学者在贝尔格莱德和巴塞罗那两地生活和工作。"
+            },
+            {
+               "en" : "Alberto Cruz (1917–2013)",
+               "es" : "Alberto Cruz (1917–2013)",
+               "zh" : "阿尔贝托·克鲁斯（1917–2013）"
+            },
+            {
+               "en" : "Chilean architect. Founder in 1952 of the Institute of Architecture and in 1967 of the Art Institute of the Universidad Católica de Valparaíso, professor and director of the School of Architecture of the same university. He was one of the authors and managers of the *travesía* and poem of Amereida. Co-founder of the Ciudad Abierta in 1970. Academic and theorist of architecture. Along with formulating the concept of *Observación Arquitectónica* and the relation between poetry and architecture, during his public life he published various theoretical works on architecture and its craft, such as “Don-Arquitectura” and “El acto arquitectónico”.",
+               "es" : "Arquitecto chileno. Fundador en 1952 del Instituto de Arquitectura y en 1967 del Instituto de Arte de la Universidad Católica de Valparaíso, profesor y director de la Escuela de Arquitectura en la misma universidad. Fue uno de los autores y gestores de la travesía y poema de Amereida. Co-fundador de la Ciudad Abierta en 1970. Académico y teórico de la arquitectura. Junto con formular el concepto de Observación Arquitectónica y la relación entre Poesía y Arquitectura, durante su vida publicó varios trabajos teóricos sobre la arquitectura y su oficio, como “Don-Arquitectura” y “El acto arquitectónico”.",
+               "zh" : "智利建筑师。1952年创立瓦尔帕莱索天主教大学建筑学院，1967年创立该大学艺术学院，并任该校建筑学院教授和院长。他是阿梅雷伊达远行与诗的作者和管理者之一。1970年共同创立开放城市。建筑学者与理论家。除了提出“建筑观察”概念以及诗歌与建筑之间的关系之外，他一生中还出版了多种关于建筑及其技艺的理论著作，如《Don-Arquitectura》和《建筑行动》。"
+            },
+            {
+               "en" : "Fabio Cruz (1927–2007)",
+               "es" : "Fabio Cruz (1927–2007)",
+               "zh" : "法比奥·克鲁斯（1927–2007）"
+            },
+            {
+               "en" : "Chilean architect, founder with other architects and intellectuals of the Institute of Architecture in the School of Architecture of the Universidad Católica de Valparaíso. He was a founding member of the Ciudad Abierta. Throughout his life he undertook roles in academia and professionally, designing and building, among others, the house on Jean Mermoz street (1958), an important part of the modern experimental architecture of Chile.",
+               "es" : "Arquitecto chileno, fundador junto a otros arquitectos e intelectuales del Instituto de Arquitectura y profesor de la Escuela de Arquitectura de la Universidad Católica de Valparaíso. Fue miembro fundador de la Ciudad Abierta. Durante su vida se desempeñó tanto como académico y profesionalmente, diseñando y construyendo, entre otras, la casa de la calle Jean Mermoz (1958), hito de la arquitectura moderna experimental en Chile.",
+               "zh" : "智利建筑师，与其他建筑师和知识分子共同创立瓦尔帕莱索天主教大学建筑学院，并任该学院教授。他是开放城市的创始成员。一生中既从事学术工作也从事职业实践，设计并建造了让·梅尔莫兹街的住宅（1958年）等作品，该住宅是智利现代实验建筑的重要里程碑。"
+            },
+            {
+               "en" : "Michel Deguy (1930)",
+               "es" : "Michel Deguy (1930)",
+               "zh" : "米歇尔·德吉（1930年生）"
+            },
+            {
+               "en" : "French poet and philosopher. Emeritus professor of the Paris 8 University. He presided the Collège international de Philosophie and the Maison des Écrivains. Founder of the magazine *Po&sie*, of which he runs to this day. His extensive poetic, essay and philosophical works have been published and translated into various languages. In 1989 he received the Grand Prix national de Poésie.",
+               "es" : "Poeta y filósofo francés. Profesor emérito de la Universidad París VIII. Presidió el Collège international de Philosophie y la Maison des Écrivains. Fundador de la revista *Po&sie*, de la cual es director hasta el presente. Su extensa obra poética, ensayística y filosófica ha sido publicada y traducida a varios idiomas. En 1989 recibió el Grand Prix national de Poésie.",
+               "zh" : "法国诗人、哲学家。巴黎第八大学荣休教授。曾主持国际哲学学院和作家之家。创办《Po&sie》杂志，并任主编至今。他大量的诗歌、随笔和哲学著作已被出版并译成多种语言。1989年获国家诗歌大奖。"
+            },
+            {
+               "en" : "François Fédier (1935)",
+               "es" : "François Fédier (1935)",
+               "zh" : "弗朗索瓦·费迪耶（1935年生）"
+            },
+            {
+               "en" : "French philosopher. Disciple of Jean Beaufret, he taught philosophy until retiring at the Lycée Pasteur. His philosophical work has almost entirely been dedicated to the work of Martin Heidegger, through his own texts as well as directing the course on the Complete Works of the editorial Gallimard. He has also published texts and works on classical philosophy, art, and especially on the poet Friedrich Hölderlin. He is the co-founder of the Ciudad Abierta in 1970.",
+               "es" : "Filósofo francés. Discípulo de Jean Beaufret, enseñó hasta su retiro filosofía en el Lycée Pasteur. Su trabajo filosófico lo ha dedicado casi íntegramente a la obra de Martin Heidegger, a través de textos propios como también dirigiendo la traducción en curso de las Obras Completas en la editorial Gallimard. Ha publicado además textos y obras sobre filosofía clásica, arte y en especial sobre el poeta Friedrich Hölderlin. Es co-fundador en 1970 de la Ciudad Abierta.",
+               "zh" : "法国哲学家。让·博弗雷的学生，在帕斯特中学教授哲学直至退休。他的哲学工作几乎全部献给马丁·海德格尔的著作，既通过自己的文本，也通过主持伽利玛出版社《全集》的翻译工作。他还出版了关于古典哲学、艺术、尤其是关于诗人弗里德里希·荷尔德林的文本和著作。他是1970年开放城市的共同创立者。"
+            },
+            {
+               "en" : "Claudio Girola (1923–1994)",
+               "es" : "Claudio Girola (1923–1994)",
+               "zh" : "克劳迪奥·吉罗拉（1923–1994）"
+            },
+            {
+               "en" : "Argentinian sculptor. Precursor of abstraction in Argentina, he started along with other artists such as Alfredo Hlito, Ennio Iommi and Tomás Maldonado the movement Arte Concreto-Invención and in the 1940s he worked with Georges Vantongerloo. In the 1950s he settled in Chile and went on to form part of the Institute of Architecture of the Universidad Católica de Valparaíso, from which he developed a large part of his sculptural and theoretic work. In various occasions he exhibited in Chile, Argentina, Brazil and Europe.",
+               "es" : "Escultor argentino. Precursor de la abstracción en Argentina, inició junto a otros artistas como Alfredo Hlito, Ennio Iommi y Tomás Maldonado el movimiento Arte Concreto-Invención y en los años 40 trabajó junto a Georges Vantongerloo. En la década del 50 se radicó en Chile y pasó a formar parte del Instituto de Arquitectura de la Universidad Católica de Valparaíso, desde donde desarrolló gran parte de su obra escultórica y teórica. En variadas ocasiones expuso en Chile, Argentina, Brasil y Europa.",
+               "zh" : "阿根廷雕塑家。阿根廷抽象艺术的先驱，他与阿尔弗雷多·利托、恩尼奥·约米和托马斯·马尔多纳多等艺术家共同发起了“具体—发明”运动，并在40年代与乔治·万通格卢一起工作。50年代定居智利，加入瓦尔帕莱索天主教大学建筑学院，并从那里发展了他大部分的雕塑和理论作品。他曾多次在智利、阿根廷、巴西和欧洲展出。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch228",
+         "img" : 115,
+         "left" : "228",
+         "loose" : [],
+         "pages" : "228-229",
+         "right" : "229",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Godofredo Iommi (1917–2001)",
+               "es" : "Godofredo Iommi (1917–2001)",
+               "zh" : "戈多弗雷多·约米（1917–2001）"
+            },
+            {
+               "en" : "Argentinean-Chilean poet. In the 1940s he founded, along with Argentinean and Brazilian poets, *La Santa Hermandad Orquídea*, a poetic brotherhood that went into the Amazon River. In these same years he settled in Chile and founded the Institute of Architecture of the Universidad Católica de Valparaíso along with architects, artists and intellectuals. At the end of the 1950s he moved to Paris, where he initiated and developed different poetic experiences along with poets, artists and philosophers, the Phalène —the poetic improvised and collective act— being the most relevant. In 1965 he conceives, along with a group of them, the journey of Amereida, which later gave rise to the collective namesake poem. In 1967 he founded the Institute of Art of the Universidad Católica de Valparaíso and, along with Alberto Cruz, developed the Taller de Amereida. He co-founded the Ciudad Abierta in 1970 and proclaimed the journeys through America in 1984. His vast body of poetic work has been published mainly in Chile and France.",
+               "es" : "Poeta argentino-chileno. En la década del 40 fundó junto a poetas argentinos y brasileños La Santa Hermandad Orquídea, cofradía poética que se internó por el río Amazonas. En esos mismos años se radicó en Chile y fundó junto a arquitectos, artistas e intelectuales el Instituto de Arquitectura de la Universidad Católica de Valparaíso. A fines de los años cincuenta se trasladó a París, donde inició y desarrolló diversas experiencias poéticas junto a poetas, artistas y filósofos, siendo la más relevante la Phalène, acto poético improvisado y colectivo. En 1965 concibe junto a un grupo de ellos la travesía de Amereida, que más tarde dio origen al poema colectivo homónimo. En 1967 fundó el Instituto de Arte de la Universidad Católica de Valparaíso y, junto con Alberto Cruz, desarrolló desde entonces el Taller de Amereida. Co-fundó en 1970 la Ciudad Abierta y proclamó las travesías por América en 1984. Su vasta obra poética ha sido publicada principalmente en Chile y Francia.",
+               "zh" : "阿根廷-智利诗人。40年代，他与阿根廷和巴西诗人共同创立了“兰花圣兄弟会”，这是一个沿亚马逊河深入的诗歌兄弟会。同一时期，他定居智利，与建筑师、艺术家和知识分子共同创立了瓦尔帕莱索天主教大学建筑学院。五十年代末，他移居巴黎，在那里与诗人、艺术家和哲学家发起并发展了多种诗歌经验，其中最重要的是“Phalène”——一种即兴的、集体的诗性行动。1965年，他与其中一群人共同构思了阿梅雷伊达远行，这次远行后来催生了同名的集体诗篇。1967年，他创立了瓦尔帕莱索天主教大学艺术学院，并与阿尔贝托·克鲁斯一起从那时起发展了“阿梅雷伊达工作坊”。1970年，他共同创立了开放城市，并于1984年宣告了穿越美洲的远行。他大量的诗作主要在智利和法国出版。"
+            },
+            {
+               "en" : "Jorge Pérez-Román (1927–1993)",
+               "es" : "Jorge Pérez-Román (1927–1993)",
+               "zh" : "豪尔赫·佩雷斯-罗曼（1927–1993）"
+            },
+            {
+               "en" : "Argentinean painter. He settled for a large part of his life in France, where he developed his work from abstraction and informalism. He frequented and participated in the artistic and poetic experiences generated primarily by Carmelo Arden-Quin and then by Godofredo Iommi. He realized various Phalènes in France and England.",
+               "es" : "Pintor argentino, residió gran parte de su vida en Francia, donde desarrolló su obra desde la abstracción y el informalismo. Frecuentó y participó de las experiencias artísticas y poéticas generadas primeramente por Carmelo Arden-Quin y luego por Godofredo Iommi. Realizó diversas Phalènes en Francia e Inglaterra.",
+               "zh" : "阿根廷画家，大半生居住在法国，在那里从抽象和非定型主义出发发展自己的作品。他经常出入并参与了最初由卡梅洛·阿尔登-金、后来由戈多弗雷多·约米发起的艺术与诗歌经验。他在法国和英格兰进行了多次“Phalène”。"
+            },
+            {
+               "en" : "Edison Simons (1933–2001)",
+               "es" : "Edison Simons (1933–2001)",
+               "zh" : "爱迪生·西蒙斯（1933–2001）"
+            },
+            {
+               "en" : "Poet born in Panama. He was formed in Literature in Spain and Philosophy in France along with Jean Beaufret. He formed a friendship with poets and artists and formed part of the group of the Phalène. He participated in the first journey of Amereida and from the 1970s he lived as a nomad in various cities (Rome, Tokyo, Calcutta, London, Caracas, among others) in which he realized innumerable poetic acts. He published poems and translations of French and English poetry such as Coleridge, Mallarmé and Shakespeare. He was close to the philosopher María Zambrano, with whom he wrote and published a shared work. His main poetic work is *Mosaicos*, published in various parts from 1979 and reunited in one edition after his death in 2001.",
+               "es" : "Poeta nacido en Panamá. Se formó en Literatura en España y Filosofía en Francia junto a Jean Beaufret. Trabó amistad con poetas y artistas y formó parte del grupo de la Phalène. Participó de la primera travesía de Amereida y desde los años setenta vivió como nómada en distintas ciudades del mundo (Roma, Tokio, Calcuta, Londres, Caracas, entre otras), en las que realizó innumerables actos poéticos. Publicó poemas y traducciones de poesía francesa e inglesa, como Coleridge, Mallarmé y Shakespeare. Fue muy cercano a la filósofa María Zambrano, con quien escribió y publicó una obra juntos. Su obra poética principal son los *Mosaicos*, publicados en distintas partes desde 1979 y reunidos en una sola edición después de su muerte en 2001.",
+               "zh" : "生于巴拿马的诗人。他在西班牙学习文学，在法国跟随让·博弗雷学习哲学。他与诗人和艺术家结下友谊，并成为“Phalène”团体的一员。他参与了阿梅雷伊达的第一次远行，从七十年代起作为游牧者生活在世界不同城市（罗马、东京、加尔各答、伦敦、加拉加斯等），并在那些地方进行了无数诗性行动。他发表了诗歌以及法语和英语诗歌的翻译，如柯勒律治、马拉美和莎士比亚。他与哲学家玛丽亚·桑布拉诺关系密切，并与她共同写作和出版了一部作品。他的主要诗作是《马赛克》，从1979年起分不同部分出版，在他2001年去世后结集为一卷。"
+            },
+            {
+               "en" : "Henri Tronquoy (1918–1969)",
+               "es" : "Henri Tronquoy (1918–1969)",
+               "zh" : "亨利·特龙凯（1918–1969）"
+            },
+            {
+               "en" : "French designer and sculptor. He made different contributions to French industrial design. He was an active participant in artistic activities in Paris, within which is found the edition of the *Ailleurs* magazine, which joined around it people like Carmelo Arden Quin and Godofredo Iommi. He participated in the journey of Amereida in 1965 and in the foundation of the Industrial Design program at the Universidad Católica de Valparaíso. Co-founder of the Ciudad Abierta, he died tragically in 1969 in an aeroplane accident over the Caribbean while flying to Caracas to join the Southern axis of the Cruz del Sur projected on the continent during the journey of Amereida.",
+               "es" : "Diseñador y escultor francés. Hizo diversas contribuciones al diseño industrial francés. Fue un activo participante de actividades artísticas en París, dentro de las cuales se encuentra la edición de la revista *Ailleurs*, que reunió en torno a ella a personas como Carmelo Arden Quin y Godofredo Iommi. Participó de la travesía de Amereida en 1965 y de la fundación de la carrera de Diseño Industrial en la Universidad Católica de Valparaíso. Co-fundador de la Ciudad Abierta, murió trágicamente en 1969 en un accidente de avión sobre el Caribe, mientras intentaba llegar a Caracas para unir el eje meridional de la Cruz del Sur proyectada sobre el continente durante la travesía de Amereida.",
+               "zh" : "法国设计师和雕塑家。他对法国工业设计做出了多种贡献。他是巴黎艺术活动的积极参与者，其中包括《别处》杂志的编辑，该杂志聚集了卡梅洛·阿尔登·金和戈多弗雷多·约米等人。他参与了1965年的阿梅雷伊达远行，并参与了瓦尔帕莱索天主教大学工业设计专业的创立。作为开放城市的共同创立者，他于1969年在加勒比海上空的一次飞机事故中不幸遇难，当时他正试图抵达加拉加斯，以便连接阿梅雷伊达远行期间投射在大陆上的南十字座子午轴。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch228",
+         "img" : 116,
+         "left" : "230",
+         "loose" : [],
+         "pages" : "230-231",
+         "right" : "231",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "en" : "Jens Andermann is a Professor of Spanish and Portuguese at New York University. Following appointments at Birkbeck, University of London, and visiting professorships at Columbia, Princeton, Duke, Buenos Aires and Rio de Janeiro. He was Professor of Latin American and Luso-Brazilian Studies at the Universität Zürich, where he co-founded the Lateinamerika-Zentrum Zürich and directed the research project *Modernity and the Landscape in Latin America: Politics, Aesthetics, Ecology*. He has published *Tierras en trance: Arte y naturaleza después del paisaje* (2017), *New Argentine Cinema* (2011, 2015), *The Optic of the State* (2007, 2014), and *Mapas de poder* (2000). Andermann is also editor of the *Journal of Latin American Cultural Studies*.",
+               "es" : "Jens Andermann es profesor de Español y Portugués en la Universidad de Nueva York. Ha sido profesor en Birkbeck, Universidad de Londres, y profesor visitante en Columbia, Princeton, Duke, Buenos Aires y Río de Janeiro. Fue profesor de Estudios Portugueses y Latinoamericanos en la Universidad de Zúrich, donde co-fundó el Lateinamerika-Zentrum y dirigió el proyecto de investigación *Modernidad y Paisaje en Latinoamérica: Políticas, Estéticas, Ecología*. Ha publicado *Tierras en trance: Arte y naturaleza después del paisaje* (2017), *New Argentine Cinema* (2011, 2015), *The Optic of the State* (2007, 2014), *Mapas de poder* (2000). Andermann es también editor en el *Journal of Latin American Cultural Studies*.",
+               "zh" : "延斯·安德曼 是纽约大学西班牙语与葡萄牙语教授。他曾在伦敦大学伯贝克学院任职，并在哥伦比亚、普林斯顿、杜克、布宜诺斯艾利斯和里约热内卢担任访问教授。他曾任苏黎世大学拉丁美洲与葡萄牙-巴西研究教授，在那里共同创立了苏黎世拉丁美洲中心，并主持研究项目“拉丁美洲的现代性与风景：政治、美学、生态”。他已出版《恍惚中的土地：风景之后的艺术与自然》（2017）、《新阿根廷电影》（2011、2015）、《国家的光学》（2007、2014）和《权力地图》（2000）。安德曼还是《拉丁美洲文化研究杂志》的编辑。"
+            },
+            {
+               "en" : "Javier Correa is a filmmaker. His work approaches memory, the urban space and art. He is the director of *Amereida, solo las huellas descubren el mar* (2017) and *A primera hora* (2012); scriptwriter and co-editor of the documentary *Palabras cruzadas* (2014) on the artist Gordon Matta-Clark. He has collaborated with various artists and architects in public interventions and exhibitions such as *Bombardeo de Poemas Casagrande*, the São Paulo Art Biennial and the Venice Architecture Biennale, among others. He is a member of the Ciudad Abierta, where he participates in collective curatorial and artistic projects, among which are included the exhibition *Amereida, la invención de un mar* at the National Museum of Fine Arts in Santiago and the Parque Cultural de Valparaíso in 2017. He is currently teaching documentary film in the Institute of History at the Universidad Católica de Chile and participates in multidisciplinary projects as a filmmaker, such as the *Atacama Project* (2018–2019) along with Victoria Jolly (architect and visual artist, Chile) and Ursula Biemann (visual artist, Switzerland).",
+               "es" : "Javier Correa es cineasta. Su trabajo aborda la memoria, el espacio urbano y el arte. Es director de los largometrajes *Amereida, solo las huellas descubren el mar* (2017) y *A primera hora* (2012); guionista y co-editor del documental *Palabras cruzadas* (2014) sobre el artista Gordon Matta-Clark. Ha colaborado con diversos artistas y arquitectos en intervenciones públicas y exhibiciones como *Bombardeo de Poemas Casagrande*, la Bienal de Arte de São Paulo y la Bienal de Arquitectura de Venecia, entre otras. Es miembro de la Ciudad Abierta, donde participa en proyectos colectivos curatoriales y artísticos, entre los que se incluye la exposición *Amereida, la invención de un mar* en el Museo Nacional de Bellas Artes de Santiago y el Parque Cultural de Valparaíso en 2017. Actualmente enseña cine documental en el Instituto de Historia de la Universidad Católica de Chile y participa en proyectos multidisciplinarios como cineasta, tales como *Atacama Project* (2018–2019) junto con Victoria Jolly (arquitecta y artista visual, Chile) y Ursula Biemann (artista visual, Suiza).",
+               "zh" : "哈维尔·科雷亚 是电影导演。他的作品涉及记忆、城市空间与艺术。他是长片《阿梅雷伊达，唯有足迹发现海》（2017）和《第一时间》（2012）的导演；也是关于艺术家戈登·马塔-克拉克的纪录片《交叉词语》（2014）的编剧和联合剪辑。他曾与多位艺术家和建筑师合作参与公共介入和展览，如“诗歌轰炸”卡萨格兰德、圣保罗艺术双年展和威尼斯建筑双年展等。他是开放城市的成员，参与集体策展与艺术项目，其中包括2017年在圣地亚哥国家美术博物馆和瓦尔帕莱索文化公园举办的展览“阿梅雷伊达，海的发明”。他目前在智利天主教大学历史研究所教授纪录片电影，并作为电影导演参与多学科项目，如与维多利亚·霍利（建筑师、视觉艺术家，智利）和乌尔苏拉·比曼（视觉艺术家，瑞士）合作的“阿塔卡马项目”（2018–2019）。"
+            },
+            {
+               "en" : "Victoria Jolly — Architect and visual artist. A Master in architecture, she has been a teacher at universities in Chile (PUCV, UFT, PUC). Co-founder and resident of the Ciudad Abierta since 2007 and president of the Corporación Cultural Amereida from 2014 to 2016. She has participated in experimental and artistic projects such as *Poetic Acts* MOMA PS1–New York, USA (2012); art residence *Ephemeral Art + Architecture* I-Park Foundation, USA (2012); *Utopia in Progress*, CIVA Brussels, Belgium (2015). In 2015 she co-created the studio *Arte Abisal*, an artistic collective, along with autistic people (2018). Curator of the exhibition *La invención de un mar, amereida 1965/2017* at the MNBA and the PcDV in Chile (2017). She is currently developing experimental workshops in the technological postgraduate at the UTDT in Buenos Aires (2018) and participates in multidisciplinary projects as a performance artist, such as *Trazos Temporales* along with the string quartet UNTREF (Argentina) and the ensemble *En Trance* (Chile, Germany); and the *Atacama Project* (2018–2019) along with Javier Correa (filmmaker, Chile) and Ursula Biemann (visual artist, Switzerland).",
+               "es" : "Victoria Jolly es arquitecta y artista visual. Master en arquitectura, ha sido docente en universidades en Chile (PUCV, UFT, PUC). Cofundadora, habitante de la Ciudad Abierta desde el 2007 y presidenta de la Corporación Cultural Amereida del 2014 al 2016. Ha participado en proyectos experimentales y artísticos como: *Poetic Acts* MOMA PS1–New York, USA (2012); art residence *Ephemeral Art + Architecture* I-Park Foundation, USA (2012); *Utopia in Progress*, CIVA Bruselas, Bélgica (2015). El 2015 co-creó el taller *Arte Abisal*, colectivo artístico junto a personas autistas (2018). Curadora de la exposición *La invención de un mar, amereida 1965/2017* en el MNBA y el PcDV en Chile (2017). Actualmente desarrolla workshops experimentales en el postgrado de tecnología en la UTDT en Buenos Aires (2018) y participa en proyectos multidisciplinarios como artista de performance, tales como *Trazos Temporales* junto al cuarteto de cuerdas UNTREF (Argentina) y el ensamble *En Trance* (Chile, Alemania); y *Atacama Project* (2018–2019) junto con Javier Correa (cineasta, Chile) y Ursula Biemann (artista visual, Suiza).",
+               "zh" : "维多利亚·霍利 是建筑师和视觉艺术家。建筑学硕士，曾在智利多所大学任教（PUCV、UFT、PUC）。她是开放城市的共同创立者和自2007年起的居民，并于2014至2016年担任阿梅雷伊达文化公司主席。她参与过实验与艺术项目，如：纽约现代艺术博物馆PS1“诗性行动”（2012，美国）；I-Park基金会“短暂艺术+建筑”艺术驻留（2012，美国）；布鲁塞尔CIVA“进行中的乌托邦”（2015，比利时）。2015年，她与自闭症人士共同创建了“深渊艺术”工作坊——一个艺术集体（2018）。她是智利国家美术博物馆和瓦尔帕莱索文化公园展览“海的发明，阿梅雷伊达 1965/2017”的策展人（2017）。她目前正在布宜诺斯艾利斯UTDT的技术研究生项目中开展工作坊（2018），并作为表演艺术家参与多学科项目，如与UNTREF弦乐四重奏（阿根廷）和“在恍惚中”乐团（智利、德国）合作的“时间痕迹”；以及与哈维尔·科雷亚（电影导演，智利）和乌尔苏拉·比曼（视觉艺术家，瑞士）合作的“阿塔卡马项目”（2018–2019）。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch234",
+         "img" : 117,
+         "left" : 232,
+         "loose" : [],
+         "pages" : "232-233",
+         "photoOnly" : 1,
+         "right" : 233,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch234",
+         "img" : 118,
+         "left" : 234,
+         "loose" : [],
+         "pages" : "234-235",
+         "photoOnly" : 1,
+         "right" : 235,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      },
+      {
+         "chapter" : "ch234",
+         "img" : 119,
+         "left" : "236",
+         "loose" : [
+            {
+               "lang" : "en",
+               "text" : "使用字体 Vollkorn、Roboto Mono"
+            }
+         ],
+         "pages" : "236-237",
+         "right" : "237",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "es" : "AMEREIDA LA INVENCIÓN DE UN MAR 1967 Y 2017 / 2018",
+               "zh" : "阿梅雷达：一片海的发明 1967 与 2017/2018"
+            },
+            {
+               "en" : "EDITORS Javier Correa, Victoria Jolly.",
+               "es" : "EDITORES Javier Correa, Victoria Jolly.",
+               "zh" : "编辑 哈维尔·科雷亚、维多利亚·若利"
+            },
+            {
+               "en" : "ART DIRECTION Javier Correa, Victoria Jolly.",
+               "es" : "DIRECCIÓN DE ARTE Javier Correa, Victoria Jolly.",
+               "zh" : "艺术指导 哈维尔·科雷亚、维多利亚·若利"
+            },
+            {
+               "en" : "ORIGINAL TEXTS Jens Andermann, Javier Correa, Michel Deguy, François Fédier, Victoria Jolly.",
+               "es" : "TEXTOS ORIGINALES Jens Andermann, Javier Correa, Michel Deguy, François Fédier, Victoria Jolly.",
+               "zh" : "原文撰写 延斯·安德曼、哈维尔·科雷亚、米歇尔·德吉、弗朗索瓦·费迪耶、维多利亚·若利"
+            },
+            {
+               "en" : "TRANSLATIONS Blanca Valdés",
+               "es" : "TRADUCCIONES Blanca Valdés",
+               "zh" : "翻译 布兰卡·巴尔德斯"
+            },
+            {
+               "en" : "FRANÇOIS FÉDIER’S TRANSLATION Mary Ann Stearne",
+               "es" : "TRADUCCIÓN TEXTO FRANÇOIS FÉDIER Mary Ann Stearne",
+               "zh" : "弗朗索瓦·费迪耶文本翻译 玛丽·安·斯特恩"
+            },
+            {
+               "en" : "ENGLISH PROOFREADING Elvira Valdés",
+               "es" : "CORRECCIÓN INGLÉS Elvira Valdés",
+               "zh" : "英文校对 埃尔维拉·巴尔德斯"
+            },
+            {
+               "en" : "PHOTOGRAPHS Archivo Ciudad Abierta Archivo histórico José Vial Armstrong Fondo Iommi Amunátegui Fundación Alberto Cruz",
+               "es" : "FOTOGRAFÍAS Archivo Ciudad Abierta Archivo histórico José Vial Armstrong Fondo Iommi Amunátegui Fundación Alberto Cruz",
+               "zh" : "摄影作品 开放之城档案馆 何塞·比亚尔·阿姆斯特朗历史档案 约米·阿穆纳特吉藏品档案 阿尔贝托·克鲁斯基金会"
+            },
+            {
+               "en" : "DESIGN Daniela Abad",
+               "es" : "DISEÑO Daniela Abad",
+               "zh" : "设计 丹妮拉·阿巴德"
+            },
+            {
+               "en" : "GRAFIC PRODUCTION Sara Riveros",
+               "es" : "PRODUCCIÓN GRÁFICA Sara Riveros",
+               "zh" : "平面制作 萨拉·里韦罗斯"
+            },
+            {
+               "en" : "PRODUCTION AND DISTRIBUTION Polígrafa, Barcelona ISBN: 978-84-343-1376-8 Dep.Legal: B-27871-2018",
+               "es" : "PRODUCCIÓN Y DISTRIBUCIÓN Polígrafa, Barcelona ISBN: 978-84-343-1376-8 Dep.Legal: B-27871-2018",
+               "zh" : "出品与发行 波利格拉法出版社，巴塞罗那 ISBN：978-84-343-1376-8 法定备案号：B-27871-2018"
+            },
+            {
+               "en" : "TYPEFACES Vollkorn, Roboto Mono",
+               "es" : "FAMILIA TIPOGRÁFICA Vollkorn, Roboto Mono",
+               "zh" : "版权所有。未经编辑许可，禁止以任何方式复制本书全部或部分内容。"
+            },
+            {
+               "en" : "All rights reserved. No part of this book may be reproduced in any form or by any means without the prior permission in writing of the Publisher.",
+               "es" : "Todos los derechos reservados. Prohibida cualquier forma de reproducción total o parcial de este libro por cualquier medio sin permiso de los editores.",
+               "zh" : "版权所有。未经出版商事先书面许可，本书任何部分不得以任何形式、任何方式转载复制。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch234",
+         "img" : 120,
+         "left" : "238",
+         "loose" : [
+            {
+               "lang" : "es",
+               "text" : "EDITORS Javier Correa, Victoria Jolly."
+            },
+            {
+               "lang" : "es",
+               "text" : "ORIGINAL TEXTS Jens Andermann, Javier Correa, Michel Deguy, François Fédier, Victoria Jolly."
+            },
+            {
+               "lang" : "en",
+               "text" : "TYPEFACES Vollkorn, Roboto Mono"
+            },
+            {
+               "lang" : "en",
+               "text" : "使用字体 Vollkorn、Roboto Mono"
+            },
+            {
+               "lang" : "en",
+               "text" : "Puente Río Colorado, 25 de agosto 1965."
+            }
+         ],
+         "pages" : "238-239",
+         "right" : "239",
+         "section" : {
+            "en" : "",
+            "es" : "",
+            "zh" : ""
+         },
+         "two" : 1,
+         "units" : [
+            {
+               "es" : "EDITORES Javier Correa, Victoria Jolly.",
+               "zh" : "编辑 哈维尔・科雷亚、维多利亚・若利"
+            },
+            {
+               "es" : "DIRECCIÓN DE ARTE Javier Correa, Victoria Jolly.",
+               "zh" : "艺术指导 哈维尔・科雷亚、维多利亚・若利"
+            },
+            {
+               "es" : "TEXTOS ORIGINALES Jens Andermann, Javier Correa, Michel Deguy, François Fédier, Victoria Jolly.",
+               "zh" : "原文撰写 延斯・安德曼、哈维尔・科雷亚、米歇尔・德吉、弗朗索瓦・费迪耶、维多利亚・若利"
+            },
+            {
+               "en" : "TRANSLATIONS Blanca Valdés",
+               "es" : "TRADUCCIONES Blanca Valdés",
+               "zh" : "翻译 布兰卡・巴尔德斯"
+            },
+            {
+               "en" : "FRANÇOIS FÉDIER’S TRANSLATION Mary Ann Stearne",
+               "es" : "TRADUCCIÓN TEXTO FRANÇOIS FÉDIER Mary Ann Stearne",
+               "zh" : "弗朗索瓦・费迪耶文本翻译 玛丽・安・斯特恩"
+            },
+            {
+               "en" : "ENGLISH PROOFREADING Elvira Valdés",
+               "es" : "CORRECCIÓN INGLÉS Elvira Valdés",
+               "zh" : "英文校对 埃尔维拉・巴尔德斯"
+            },
+            {
+               "en" : "PHOTOGRAPHS Archivo Ciudad Abierta Archivo histórico José Vial Armstrong Fondo Iommi Amunátegui Fundación Alberto Cruz",
+               "es" : "FOTOGRAFÍAS Archivo Ciudad Abierta Archivo histórico José Vial Armstrong Fondo Iommi Amunátegui Fundación Alberto Cruz",
+               "zh" : "摄影作品 开放之城档案馆 何塞・比亚尔・阿姆斯特朗历史档案 约米・阿穆纳特吉藏品档案 阿尔贝托・克鲁斯基金会"
+            },
+            {
+               "en" : "DESIGN Daniela Abad",
+               "es" : "DISEÑO Daniela Abad",
+               "zh" : "设计 丹妮拉・阿巴德"
+            },
+            {
+               "en" : "GRAFIC PRODUCTION Sara Riveros",
+               "es" : "PRODUCCIÓN GRÁFICA Sara Riveros",
+               "zh" : "平面制作 萨拉・里韦罗斯"
+            },
+            {
+               "en" : "PRODUCTION AND DISTRIBUTION Polígrafa, Barcelona",
+               "es" : "PRODUCCIÓN Y DISTRIBUCIÓN Polígrafa, Barcelona",
+               "zh" : "出品与发行 波利格拉法出版社，巴塞罗那"
+            },
+            {
+               "en" : "ISBN: 978-84-343-1376-8 Dep.Legal: B-27871-2018",
+               "es" : "ISBN: 978-84-343-1376-8 Dep.Legal: B-27871-2018",
+               "zh" : "ISBN：978-84-343-1376-8 法定备案号：B-27871-2018"
+            },
+            {
+               "en" : "All rights reserved. No part of this book may be reproduced in any form or by any means without the prior permission in writing of the Publisher.",
+               "es" : "FAMILIA TIPOGRÁFICA Vollkorn, Roboto Mono",
+               "zh" : "版权所有。未经编辑许可，禁止以任何方式复制本书全部或部分内容。"
+            },
+            {
+               "en" : "«Este viaje se volverá una poesía fruto del cálculo poético si nosotros nos volvemos como el agua, que se adapta a toda forma de terreno. En todas se constituye como tal. Regando hasta lo más endurecido. Reflejando en su superficie el cielo y las cosas envolventes».",
+               "es" : "Todos los derechos reservados. Prohibida cualquier forma de reproducción total o parcial de este libro por cualquier medio sin permiso de los editores.",
+               "zh" : "版权所有。未经出版商事先书面许可，本书任何部分不得以任何形式、任何方式转载复制。"
+            },
+            {
+               "zh" : "封底"
+            },
+            {
+               "en" : "“This journey will become a poem, fruit of poetic calculation if we become like water, that adapts itself to all form of territory. In everyone it constitutes itself like it. Irrigating even the most hardened. Reflecting in its surface, the sky and enveloping things.”",
+               "zh" : "“这次旅行将变成一首诗，一首诗性计算的果实，如果我们变得像水一样，适应一切地形。在一切地形中，水都作为水而构成自身。灌溉直到最坚硬之处。在它的表面上映照天空和周围环绕的事物。”"
+            },
+            {
+               "en" : "Puente Río Colorado, 25 August 1965.",
+               "es" : "ART DIRECTION Javier Correa, Victoria Jolly.",
+               "zh" : "科罗拉多河桥，1965年8月25日。"
+            }
+         ]
+      },
+      {
+         "chapter" : "ch234",
+         "img" : 121,
+         "left" : 240,
+         "loose" : [],
+         "pages" : "封底",
+         "photoOnly" : 1,
+         "right" : 241,
+         "section" : null,
+         "two" : 0,
+         "units" : []
+      }
+   ]
+}
+;
