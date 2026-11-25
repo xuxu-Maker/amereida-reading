@@ -23,6 +23,7 @@ assets/data/book.js         全书数据（同时提供 book.json 供程序读�
 assets/img/full/p01–121.jpg 跨页扫描网页版（2000px 宽）
 assets/img/thumb/p01–121.jpg 缩略图（480px 宽）
 .github/workflows/pages.yml GitHub Pages 部署工作流
+robots.txt                  声明不被搜索引擎收录（建议性，非访问控制）
 ```
 
 ## 本地运行
@@ -63,6 +64,12 @@ python -m http.server 8000     # 或 npx serve
 
 ## 版权提示
 
+**本站仅用于个人学习研究，请勿用于商业或二次分发。**
+
 本站包含 *Amereida, la invención de un mar*（Polígrafa, Barcelona, 2018，
 ISBN 978-84-343-1376-8）的受版权文本与书页扫描。公开仓库意味着任何人
 （包括搜索引擎与爬虫）都能访问全部内容，请确认你有权这样公开，或改用私有仓库。
+
+仓库根目录的 `robots.txt` 对所有爬虫声明 `Disallow: /`，尽量不被收录；
+但它只是对爬取者的建议，不是访问控制——已知链接仍可能被索引。
+若需要真正限制访问，请把仓库改为 Private。
